@@ -13,3 +13,6 @@
 ### 06/11/2026 12:19
 - **Đã làm / quyết định:** Khởi tạo dự án «THE_WEDDING_QUILT» từ mẫu.
 - **File thay đổi:** `.gitattributes`, `.gitignore`, `01_y-tuong-ban-dau.md`, `02_kich-ban-ban-nhap.md`, `03_kich-ban-chinh-sua.md`, `04_kich-ban-chinh-thuc.md`, `05_prompt-tao-video.md`, `06_tuyen-bo-ban-quyen.md`, `08_hoi-thoai-ai/HUONG-DAN.md`, `09_media/HUONG-DAN.md`, `CHOT-MOC.bat`, `KIEM-TRA.bat`, `LUU.bat`, `README.md`, `du-an.json`
+
+### 07/11/2026 04:33
+- **Đã làm / quyết định:** CHỐT MỐC: hoàn thành kịch bản chính thức
