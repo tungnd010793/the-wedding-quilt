@@ -1,0 +1,27 @@
+# DANH SÁCH MÃ SHA-256 ("dấu vân tay") CỦA MỌI FILE TRONG DỰ ÁN
+# Dự án           : THE_WEDDING_QUILT
+# Tác giả         : Nguyễn Đức Tùng <ndtung.aipro2024@gmail.com>
+# Lập lúc         : 2026-11-06 22:31:36 +07:00  (đồng hồ máy; thời điểm tin cậy: file .ots/.tsr cùng tên)
+# Commit trước đó : d8cceb28611cf3ee27b9964662a1ddc06877fc48
+# Số file         : 20
+# Tự kiểm tra     : mở Git Bash tại thư mục gốc dự án, chạy: sha256sum -c bang-chung/manifest/<tên file này>
+d57ea22a4532d009ee53ef5c3e18fec6f8ea02b2b9bf00f2a765f478aa905dcd *.gitattributes
+3fad291cc2ccbe507f460667a83e9407a26a0ed784558460c8aff3e1c9c36543 *.gitignore
+96a12f1f4c0bf5e62d1114ef4993b2c1230694ae28d8495dbd82d3f12ecf8dbd *01_y-tuong-ban-dau.md
+def1bfaf7c3bd2153cd7c060867a8e865b6dc3539578c19f0e0aaa8bbab8ad25 *02_kich-ban-ban-nhap.md
+77fbcf358eb0f4e3f522c8080b12f7ba415889c4e1538d6752c7c25106c21417 *03_kich-ban-chinh-sua.md
+f937e501a102037c524ab7536146756285e7f87e3d3879a562bb72545de3f721 *03a_bao-cao-gop-y.md
+02a7fb2d6e8c6613f859476028c4fbf820b38c4dd5953d6468024e828f3c040b *03b_bao-cao-ra-soat-lan-2.md
+eda9c39824df76b464935b201727d4ca44cbee19cdedb0c36d46eef29d231f7b *04_kich-ban-chinh-thuc.md
+d84bf3437d64f41dc97a818d7c7f683577f7b7d2c30160a82f911c404a752264 *05_prompt-tao-video.md
+1e38dbc193b85207b7bdc7f3f363d62aea08f32286444962f6deed8f070030b7 *06_tuyen-bo-ban-quyen.md
+95a4a410bb0eefe386a5ed4296329c2171e2fca7745891397011d7cfd3e751cb *07_nhat-ky-sang-tao.md
+ce034df426881403abb330fbee87a60dce2990d7e56d1a964e7b1b9c6f49f350 *08_hoi-thoai-ai/HUONG-DAN.md
+b23434b1bf4c41308b74117d3a6fe56b7b5a82834670cfe1b59ebaed72006ac0 *08_hoi-thoai-ai/claude-code/077f612f-2593-420a-aef9-f19c1bdbf148.jsonl
+2f7c95530b0e9b2c612d0877556bf80db0e4e16d8ea711e29a5fa826ac7ba2cf *08_hoi-thoai-ai/claude-code/94886a11-5964-4212-a29a-cab05592f22e.jsonl
+f23255f7a757502c968d8b62d20e374f2de0e5c3547b509aec21294dc1ad1560 *09_media/HUONG-DAN.md
+c648a796106517eed9b8c857d8476d816ea813e47f619170de5b095929a76cf0 *CHOT-MOC.bat
+d6826a45c0c7b2945936750b42a6f6eeb8ea7919ba9aed83d17d93d3228d6394 *KIEM-TRA.bat
+109ae52aac42a3871a01e7c1b39dbb270259fdd056eb2c2f115ba538aa8e5ecf *LUU.bat
+b76ad3ddad16a411a45c97aa4fc7b9191cba3a7a301853c2bb378257beeb2a37 *README.md
+0bef885a79ba7d7203551c370f059b32590974d2f5797879530504ca88ced955 *du-an.json
