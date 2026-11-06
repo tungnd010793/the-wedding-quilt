@@ -20,7 +20,7 @@
 
 Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua tiệc đính hôn tối thứ Bảy 10/10 và buổi họp hội đồng sáng thứ Hai 12/10, tới Chủ nhật 18/10/2026 (Phần 1); Phần 2 nối liền từ thứ Hai 19/10 tới Lễ Tạ ơn thứ Năm 26/11/2026. Atlanta tháng 10: ban ngày 22–27°C, tối 14–16°C; tối thứ Sáu mưa rào.
 **Cấu trúc:** 40 tập × 3 cụm · 120 cụm × 30 giây = 60:00 · **Phần 1** (cụm 1–72, 00:00–36:00): Hồi 1 (cụm 1–24) · Hồi 2 (25–48, giải toả lớn giữa phim cụm 31–33) · Hồi 3 (49–72, twist mở phần 2 ở cụm 70–72) · **Phần 2** (cụm 73–120, 36:00–60:00): Hồi 4 (73–96, đáy lớn cụm 94–96) · Hồi 5 (97–120, twist lớn nhất phim cụm 99)
-**Thiết kế đầy đủ** (concept, bản đồ cú ngoặt, nhân vật, trang phục, bối cảnh, đạo cụ, vòng cảm xúc từng tập): `THIET_KE.md`
+**Thiết kế** (nhân vật, mã trang phục, mã bối cảnh, đạo cụ): `04a_thiet-ke.md`
 
 **Logline:** Bà Ozella Grier, 66 tuổi, nuôi gà đẻ ở vùng quê Albany, đi xe buýt lên Atlanta sớm một ngày để nấu bữa sáng cho lễ đính hôn của con trai, tỷ phú công nghệ Nolan Grier. Ở cổng biệt thự nhà Carrington, cả nhà gái tưởng bà là người giúp việc thuê theo giờ tới trễ. Cô dâu Jordyn đạp vỡ giỏ trứng, tát bà, lấy tấm chăn cưới bà khâu cả năm lau chân chó, bắt bà quỳ cọ sàn và ăn bát của chó trong gara. Mẹ cô dâu là Regina nhận ra bà là ai. Nhà Carrington còn 30 ngày là mất nhà, nên Regina ra lệnh biến bà thành "bà già lẫn ăn cắp nhẫn" trước khi Nolan về. Nolan về sớm, thấy mẹ đang quỳ cọ sàn, và tin họ. Chỉ Danae Dukes, cô nhân viên giúp việc thật, đứng về phía bà, kèm một đoạn ghi âm. Tiệc đính hôn hôm sau thành phiên toà. Nhưng kẻ đã giữ Nolan ở Seattle, đã viết trang 7, đã đẩy clip "thief granny" lên hội đồng quản trị, vẫn ngồi trong xe và mỉm cười. **Phần 2:** Jordyn tuyên bố có thai "con của Nolan"; bà Ozella, người âm thầm giữ 12% cổ phần Grier Systems, bị đưa vào cơ sở chăm sóc trí nhớ bằng một lệnh giám hộ giả để Graham cướp lá phiếu của bà; xét nghiệm ADN của đứa bé lật ra bí mật lớn nhất nhà Grier: Graham là anh trai cùng cha của Nolan.
 
@@ -38,7 +38,7 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 - Ms. BARROW (62, chủ tịch hội đồng quản trị Grier Systems)
 - Detective FARRIS (46, thám tử tội phạm tài chính, cảnh sát Atlanta)
 - BIJOU (chó Maltese trắng của Jordyn)
-- *Phần 2 thêm:* CLIFFORD BANKS (luật sư, "người giám hộ"), DR. ALTON WHITFIELD (bác sĩ), JUDGE HOLLIS (thẩm phán), SIMONE OKAFOR (luật sư của Nolan), CORINNE và RAY (hộ lý), DEACON PRUITT (hàng xóm), MOTHER HATTIE (hội các bà mẹ nhà thờ). Xem đầu Phần 2.
+- *Phần 2 thêm:* CLIFFORD BANKS (người giám hộ chuyên nghiệp trong danh sách của toà), DR. ALTON WHITFIELD (bác sĩ), JUDGE HOLLIS (thẩm phán), SIMONE OKAFOR (luật sư của Nolan), CORINNE và RAY (hộ lý), DEACON PRUITT (hàng xóm), MOTHER HATTIE (hội các bà mẹ nhà thờ), DARNELL (bảo vệ sảnh toà tháp). Xem đầu Phần 2.
 
 **Cách đọc:**
 - Mỗi cụm là một clip 30 giây.
@@ -117,7 +117,7 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 - **OZELLA** (giơ điện thoại lên): "Let me call my son. He'll clear this up."
   *(VN) Để tôi gọi cho con trai tôi. Nó sẽ nói rõ cho mà nghe.*
 
-**Khung kết:** Ozella đứng trong cổng nhỏ, OZ1, tay phải giơ chiếc điện thoại cũ ngang mặt, ngón cái đặt trên màn hình, vali hoa dựng cạnh chân, túi xách nâu trên vai, túi giặt khô đựng tấm chăn kẹp dưới cánh tay trái; dưới chân bà là giỏ mây lật úp và ba tá trứng vỡ loang trên gạch đỏ, tấm khăn kẻ ô rơi lệch; Jordyn đứng đối diện bà một bước, JO1, gót giày phải còn dính vỏ trứng và lòng đỏ; Mya đứng cạnh Jordyn, MY1, điện thoại chĩa vào mặt bà; Glenda đứng chếch sau lưng bà, GL1, ôm máy tính bảng; Moses ở cửa chòi bảo vệ, MO1; Bijou đã chạy khuất ra sau nhà; SUV trắng cạnh đài phun nước.
+**Khung kết:** Ozella đứng trong cổng nhỏ, OZ1, tay phải giơ chiếc điện thoại cũ ngang mặt, ngón cái đặt trên màn hình, vali hoa dựng cạnh chân, túi xách nâu trên vai, túi giặt khô đựng tấm chăn kẹp dưới cánh tay trái; dưới chân bà là giỏ mây lật úp và ba tá trứng vỡ loang trên gạch đỏ, tấm khăn kẻ ô rơi lệch; Jordyn đứng đối diện bà một bước, JO1, gót giày phải còn dính vỏ trứng và lòng đỏ; Mya đứng cạnh Jordyn, MY1, điện thoại chĩa vào mặt bà; Glenda đứng lùi nửa bước bên cạnh bà, GL1, ôm máy tính bảng; Moses ở cửa chòi bảo vệ, MO1; Bijou đã chạy khuất ra sau nhà; SUV trắng cạnh đài phun nước.
 **Móc:** Một cuộc gọi cho con trai có cứu được bà, hay chỉ làm cô dâu nổi điên hơn?
 
 #### Cụm 003 · 01:00–01:30 · One phone call · ESTATE_GATE · liền (1:04 chiều)
@@ -153,7 +153,7 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 
 #### Cụm 004 · 01:30–02:00 · Seven pieces · ESTATE_FOYER · liền
 **Nhân vật:** OZELLA (OZ1), JORDYN (JO1); GLENDA (GL1, không nói); MYA (MY1, không nói); chó Bijou (vào cuối cụm); người nền: không có
-**Chức năng:** đặt (tấm chăn 7 mảnh, mảnh giữa là áo rửa tội) + nhịp xót, bà nói thẳng giá trị tấm chăn · **Cung bậc:** xót · **Vòng:** M2 dồn nén · đặt tấm chăn (trả ở cụm 5, 13, 15, 26, 53, 54, 67)
+**Chức năng:** đặt (tấm chăn 7 mảnh, mảnh giữa là áo rửa tội) + nhịp xót, bà nói thẳng giá trị tấm chăn · **Cung bậc:** xót · **Vòng:** M2 dồn nén · đặt tấm chăn (trả ở cụm 5, 13, 15, 26, 54, 67)
 
 - Tiền sảnh hai tầng nhà Carrington. Cửa gỗ đôi ra bậc thềm, nắng chiều rọi qua cửa sổ trên cửa; cầu thang cong lan can sắt uốn lên lầu; sàn đá cẩm thạch trắng vân xám bóng loáng; bàn console gỗ với gương lớn, dưới bàn là một chồng thư ngân hàng chưa mở; phía đối diện là vòm cửa sang phòng khách và hành lang ra bếp, trên tường treo tranh của hoạ sĩ da đen và ảnh chân dung Jordyn đội vương miện cotillion; đèn chùm pha lê trên đầu.
 - Glenda (53 tuổi, da nâu Monk 7, tóc ngắn tự nhiên lốm đốm bạc, kính đọc sách đeo dây trước ngực; đầm sơ mi đen đồng phục dài tay dài qua gối, cardigan đen, giày bệt đen) bước qua cửa gỗ đôi, xé miệng túi giặt khô, giũ mạnh. Tấm chăn quilt bung ra, trải dài trên sàn đá trắng giữa tiền sảnh: bảy mảnh lớn khâu tay, mảnh giữa là satin trắng của chiếc áo rửa tội, quanh nó là mảnh len navy của bộ vest đi lễ đầu tiên, mảnh jean bạc của áo sơ mi ông Earl, mảnh kẻ ô xanh, mảnh nhung đỏ gạch, mảnh cotton vàng, mảnh vải sage, viền khâu tay màu be. Glenda thả túi nhựa rỗng xuống cạnh cửa, kéo chiếc vali vải hoa cũ vào, dựng cạnh bàn console.
@@ -174,7 +174,7 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
   *(VN) Đúng lúc ghê. Bijou đang cần cái gì đó để chùi chân.*
 
 **Khung kết:** Tấm chăn quilt 7 mảnh trải giữa sàn đá trắng; Ozella quỳ một gối ở mép chăn, OZ1, tay đặt trên mảnh jean bạc, túi xách nâu trên vai; Jordyn đứng ở mép chăn bên kia, JO1, cúi người, hai tay chìa ra đón con chó; Bijou đứng giữa hai người, bốn chân lấm bùn, sát mép mảnh satin trắng; một vệt dấu chân chó nhỏ kéo từ hành lang bếp; Glenda đứng cạnh bàn console, GL1, cạnh vali hoa; Mya ở vòm cửa phòng khách, MY1, quay; túi giặt khô rỗng nằm trên sàn cạnh cửa gỗ đôi.
-**Móc:** "Cần một cái khăn" — Jordyn định làm gì với mảnh áo rửa tội?
+**Móc:** "Cần thứ gì để chùi chân": Jordyn định làm gì với mảnh áo rửa tội?
 
 #### Cụm 005 · 02:00–02:30 · Paw rag · ESTATE_FOYER · liền
 **Nhân vật:** JORDYN (JO1), OZELLA (OZ1), MYA (MY1), GLENDA (GL1); chó Bijou; người nền: không có
@@ -237,7 +237,7 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 
 #### Cụm 007 · 03:00–03:30 · Bad signal · ESTATE_FOYER · thứ Sáu 9/10/2026, 2:50 chiều
 **Nhân vật:** JORDYN (JO1), OZELLA (OZ1); MYA (MY1, không nói); người nền: không có
-**Chức năng:** con trai ở rất gần (cuộc gọi ngay trước mặt mẹ) + đặt (Nolan ở Seattle, "mai mười giờ") · **Cung bậc:** uất · **Vòng:** M2 dồn nén · đặt chuyến Seattle (trả ở cụm 12, 22, 34, 72)
+**Chức năng:** con trai ở rất gần (cuộc gọi ngay trước mặt mẹ) + đặt (Nolan ở Seattle, "mai mười giờ") · **Cung bậc:** uất · **Vòng:** M2 dồn nén · đặt chuyến Seattle (trả ở cụm 12, 22, 34, 51, 65)
 
 - Gần hai tiếng sau. Tiền sảnh: nắng qua cửa sổ trên cửa gỗ đôi đã xiên thấp; sàn đá cẩm thạch trắng loang lổ những mảng ướt chỗ đã cọ; cầu thang cong lan can sắt; bàn console có gương, chồng thư ngân hàng chưa mở dưới gầm, vali hoa dựng cạnh; tấm chăn cuộn tròn đặt trên mặt bàn console cạnh gương; vòm cửa phòng khách và hành lang bếp; đèn chùm pha lê.
 - Ozella (66 tuổi, da nâu rất sâu Monk 9 ánh đỏ ấm, tóc bạc tự nhiên ngắn ép mềm rẽ ngôi bên, nếp nhăn khoé mắt sâu, bàn tay to khớp ngón thô; váy nhà cotton xanh sage bạc màu dài qua bắp chân, cardigan len be xù lông hai khuỷu có một chiếc cúc nâu khác màu, giày bệt đen mòn gót khâu lại ở mũi, khăn trùm đầu cotton be buộc sau gáy, không hoa tai, không trang điểm) quỳ giữa sàn, lưng còng, bàn chải trong tay, xô nước xám cạnh đầu gối, túi xách nâu cạnh xô.
@@ -247,10 +247,10 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
   *(VN) Anh yêu! Seattle thế nào?*
 - **JORDYN:** "Your mama lands tomorrow at ten. I'll send a car."
   *(VN) Mẹ anh mười giờ sáng mai hạ cánh. Em sẽ cho xe ra đón.*
-- Ozella ngẩng phắt lên, bàn chải rơi xuống nước. Bà chống tay định đứng dậy.
+- Ozella ngẩng phắt lên, bàn chải rơi xuống nước. Jordyn lập tức áp lòng bàn tay bịt kín micro điện thoại. Bà chống tay định đứng dậy.
 - **OZELLA** (gọi to, khản giọng): "Nolan! Son, it's Mama! I'm right here!"
   *(VN) Nolan! Con ơi, mẹ đây! Mẹ ở ngay đây!*
-- **JORDYN** (bịt micro điện thoại, bước nhanh ra phía cửa gỗ đôi): "Bad signal, babe. Love you. Bye."
+- **JORDYN** (nhấc tay khỏi micro, bước nhanh ra phía cửa gỗ đôi): "Bad signal, babe. Love you. Bye."
   *(VN) Sóng yếu quá anh ơi. Yêu anh. Chào anh.*
 - Jordyn cúp máy, quay lại, đi thẳng tới, cúi sát mặt bà cụ, móng tay đỏ rượu chỉ vào giữa trán bà.
 - **JORDYN** (rít qua kẽ răng): "Say his name again. I dare you."
@@ -300,8 +300,8 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 - Danae thả túi đeo chéo ra sau lưng, quỳ xuống bên bà ngay giữa vũng nước, đặt tay lên bờ vai ướt của bà.
 - **DANAE:** "Ma'am, are you okay? Who did this to you?"
   *(VN) Bà ơi, bà có sao không? Ai làm bà ra thế này?*
-- **OZELLA** (run, cố mỉm cười): "I'm just here for my son, sugar."
-  *(VN) Tôi chỉ tới vì con trai tôi thôi, cháu à.*
+- **OZELLA** (run, cố mỉm cười): "I'm Ozella, sugar. Just here for my son."
+  *(VN) Bà là Ozella, cháu à. Bà chỉ tới vì con trai bà thôi.*
 - **REGINA** (từ bậc thứ ba, lạnh): "Two helpers. Half pay each. Both of you scrub."
   *(VN) Hai người làm. Mỗi người nửa lương. Cả hai cùng cọ.*
 - Danae đặt hai ngón tay lên cổ tay bà, đếm mạch, không thèm ngẩng lên nhìn cầu thang.
@@ -377,7 +377,7 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 **Nhân vật:** JORDYN (JO1), REGINA (RG1), GLENDA (GL1, vào cuối cụm); DANAE (DA1, không nói); người nền: không có
 **Chức năng:** kế hoạch nói thẳng (Nolan ở Seattle tới mai, cài nhẫn, quay clip, tống lên xe buýt) + ghi âm vẫn chạy + móc cuối tập · **Cung bậc:** lạnh gáy → hồi hộp · **Vòng:** S13 khán giả biết trước · M4 móc cuối tập · trả chuyến Seattle (đặt ở cụm 7) · đặt kế hoạch cài nhẫn (trả ở cụm 16)
 
-- Từ bên trong kho thức ăn: kệ gỗ xếp đồ hộp, bao bột, cuộn giấy lau. Danae (26 tuổi, da nâu sâu Monk 8 ánh vàng ấm, tóc tết box braids cỡ vừa búi thấp sau gáy, nốt ruồi nhỏ dưới mắt phải, mặt mộc; đồ scrubs xanh sage áo cổ chữ V tay ngắn và quần, áo thun dài tay trắng bên trong, giày thể thao trắng đã cũ, túi đeo chéo vải đen, thẻ tên Sweetgum Staffing (chữ INSERT)) áp vai vào kệ, chồng khăn khô ôm trước ngực, điện thoại giơ sát khe cửa. Cận màn hình (INSERT: chấm đỏ, đồng hồ ghi âm đang chạy 01:52, ghép lúc dựng). Môi cô mím chặt.
+- Từ bên trong kho thức ăn: kệ gỗ xếp đồ hộp, bao bột, cuộn giấy lau. Danae (26 tuổi, da nâu sâu Monk 8 ánh vàng ấm, tóc tết box braids cỡ vừa búi thấp sau gáy, nốt ruồi nhỏ dưới mắt phải, mặt mộc; đồ scrubs xanh sage áo cổ chữ V tay ngắn và quần, áo thun dài tay trắng bên trong, giày thể thao trắng đã cũ, túi đeo chéo vải đen, thẻ tên Sweetgum Staffing (chữ INSERT)) áp vai vào kệ, chồng khăn khô ôm trước ngực, điện thoại giơ sát khe cửa. Cận màn hình (INSERT: chấm đỏ, đồng hồ ghi âm đang chạy 00:38, ghép lúc dựng). Môi cô mím chặt.
 - Qua khe cửa: bếp lớn, đảo bếp đá trắng dưới đèn treo, lá thư vỡ nợ trên mặt đá, cuộn chăn trên ghế quầy; dãy tủ trắng phía sau, cửa kính ra sân sau. Regina (57 tuổi, da nâu Monk 7, tóc bob ngắn màu bạch kim ép thẳng, vòng ngọc trai sát cổ; áo lụa đỏ rượu cổ đứng dài tay, quần âu ống rộng màu kem, giày lười da kem) và Jordyn (29 tuổi, da nâu Monk 6 ánh vàng, tóc dài thẳng đen pha nâu sẫm uốn sóng lớn, natural hairline, mi dày, móng tay dài sơn đỏ rượu; váy len dệt kim đỏ rượu dài tay ôm vừa dài qua gối, giày cao gót mũi nhọn đỏ rượu, hoa tai vàng tròn nhỏ, nhẫn đính hôn kim cương lớn) đứng hai bên đảo bếp.
 - **JORDYN** (lo): "And if Nolan comes home early?"
   *(VN) Lỡ Nolan về sớm thì sao?*
@@ -393,8 +393,12 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 - **REGINA** (gấp lá thư, nhét lại vào túi quần): "Glenda will handle the help."
   *(VN) Glenda sẽ lo đám người làm.*
 - Glenda (53 tuổi, da nâu Monk 7, tóc ngắn tự nhiên lốm đốm bạc, kính đọc sách đeo dây trước ngực; đầm sơ mi đen đồng phục dài tay dài qua gối, cardigan đen, giày bệt đen) bước vào bếp từ hành lang, đi thẳng tới kéo mở toang cửa kho thức ăn. Danae hạ tay, nhét điện thoại vào túi áo ngực scrubs, màn hình úp vào trong, vẫn đang ghi.
-- **GLENDA** (nhanh, không nhìn vào mắt cô): "Garage. Both of you. Staff lunch."
-  *(VN) Ra gara. Cả hai người. Bữa trưa của người làm.*
+- **REGINA** (nheo mắt nhìn Danae): "How long you been in that pantry?"
+  *(VN) Cô ở trong kho đó bao lâu rồi?*
+- **DANAE** (giơ chồng khăn lên): "Just found the towels, ma'am."
+  *(VN) Tôi vừa tìm được khăn, thưa bà.*
+- **GLENDA** (nhanh, không nhìn vào mắt cô): "Garage. You and the old lady. Staff lunch."
+  *(VN) Ra gara. Cô với bà già kia. Bữa trưa của người làm.*
 
 **Khung kết:** Glenda đứng ở cửa kho thức ăn đã mở toang, GL1, một tay trên tay nắm cửa; Danae đứng trong kho, DA1, chồng khăn khô ôm trước ngực, điện thoại trong túi áo ngực scrubs vẫn đang ghi; Regina đứng ở đảo bếp, RG1, lá thư vỡ nợ đã gấp trong túi quần, quay đầu nhìn về phía kho; Jordyn đứng đối diện mẹ, JO1, nhẫn kim cương trên tay, cũng quay đầu nhìn; cuộn chăn trên ghế quầy; ngăn kéo dưới đảo bếp đóng, chiếc điện thoại nứt bên trong.
 **Móc:** Đoạn ghi âm đang chạy trong túi áo Danae có ra được khỏi căn nhà này?
@@ -403,7 +407,7 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 
 #### Cụm 013 · 06:00–06:30 · Staff lunch · ESTATE_GARAGE · liền
 **Nhân vật:** JORDYN (JO1), OZELLA (OZ1W), DANAE (DA1); REGINA (RG1, không nói, vào cuối cụm); MYA (MY1, không nói, vào cuối cụm); người nền: không có
-**Chức năng:** sỉ nhục 5 (bát của chó trên nền xi măng) + nuốt lời (tấm chăn vào thùng rác) + Danae bắt đầu quay · **Cung bậc:** phẫn nộ · **Vòng:** M2 dồn nén · trả lời hứa "earn it" (đặt ở cụm 5) · đặt tấm chăn trong thùng rác (trả ở cụm 15) · đặt video gara (trả ở cụm 29, 32, 44, 59)
+**Chức năng:** sỉ nhục 5 (bát của chó trên nền xi măng) + nuốt lời (tấm chăn vào thùng rác) + Danae bắt đầu quay · **Cung bậc:** phẫn nộ · **Vòng:** M2 dồn nén · trả lời hứa "earn it" (đặt ở cụm 5) · đặt tấm chăn trong thùng rác (trả ở cụm 15) · đặt video gara (trả ở cụm 29, 44, 59)
 
 - Gara ba chỗ nhà Carrington. Đèn ống trên trần sáng trắng, nắng chiều lọt qua khe cửa bên. Cửa cuốn đóng kín; một chiếc SUV trắng không logo đậu ở chỗ giữa, một chỗ trống; một cột bê tông giữa hai chỗ đậu. Dọc tường là kệ dụng cụ, cạnh kệ là một ghế đẩu kim loại; hai thùng rác lớn có nắp đứng sát cửa bên ra lối gạch. Phía đối diện là cửa vào nhà.
 - Ozella (66 tuổi, da nâu rất sâu Monk 9 ánh đỏ ấm, tóc bạc tự nhiên ngắn ép mềm rẽ ngôi bên, nếp nhăn khoé mắt sâu, bàn tay to khớp ngón thô; váy nhà cotton xanh sage bạc màu và cardigan len be có một chiếc cúc nâu khác màu, ướt sũng từ vai xuống, cardigan dính sát người, khăn trùm đầu cotton be ướt sẫm màu, hai đầu gối váy sẫm nước, giày bệt đen mòn gót khâu lại ở mũi) đứng cạnh cửa vào nhà, hai tay ôm lấy khuỷu cho đỡ lạnh. Túi xách nâu của bà vừa được đặt lên chiếc ghế đẩu kim loại cạnh kệ dụng cụ.
@@ -428,7 +432,7 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 
 #### Cụm 014 · 06:30–07:00 · Never off a floor · ESTATE_GARAGE · liền
 **Nhân vật:** OZELLA (OZ1W), REGINA (RG1), DANAE (DA1); JORDYN (JO1, không nói); MYA (MY1, không nói); MOSES (MO1, không nói, vào cuối cụm); người nền: không có
-**Chức năng:** câu poster + bà đẩy bát chó ra (phản đòn nhỏ) + cú tát 2 + Danae bênh + đặt (video gara có cú tát, Mya không quay) · **Cung bậc:** phẫn nộ → ấm · **Vòng:** S1 nhỏ · M2 · đặt cú tát trong video của Danae (trả ở cụm 32, 44, 55, 59)
+**Chức năng:** câu poster + bà đẩy bát chó ra (phản đòn nhỏ) + cú tát 2 + Danae bênh + đặt (video gara có cú tát, Mya không quay) · **Cung bậc:** phẫn nộ → ấm · **Vòng:** S1 nhỏ · M2 · đặt cú tát trong video của Danae (trả ở cụm 44, 55, 59)
 
 - Gara: đèn ống trên trần, cửa cuốn đóng, SUV trắng ở chỗ giữa, cột bê tông giữa hai chỗ đậu, kệ dụng cụ và ghế đẩu kim loại (túi xách nâu trên đó), hai thùng rác lớn có nắp sát cửa bên ra lối gạch, cửa vào nhà ở phía đối diện. Nắng chiều lọt qua khe cửa bên.
 - Ozella (66 tuổi, da nâu rất sâu Monk 9 ánh đỏ ấm, tóc bạc tự nhiên ngắn ép mềm rẽ ngôi bên, nếp nhăn khoé mắt sâu, bàn tay to khớp ngón thô; váy nhà cotton xanh sage bạc màu và cardigan len be có một chiếc cúc nâu khác màu, ướt sũng từ vai xuống, khăn trùm đầu cotton be ướt sẫm màu, hai đầu gối váy sẫm nước, giày bệt đen mòn gót khâu lại ở mũi) cúi xuống, hai tay nhấc bát inox của chó khỏi nền xi măng, đi mấy bước tới hàng thùng rác, đặt cái bát lên nắp thùng rác thứ hai. Bà đứng thẳng lưng, quay lại nhìn Regina.
@@ -498,8 +502,8 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 - Cận cảnh rõ: những ngón tay móng đỏ rượu kéo khoá ngăn bên của chiếc túi xách nâu trên bậc dưới cùng, thả chiếc nhẫn kim cương vào trong, kéo khoá lại kín. Ống kính của Mya vẫn chĩa vào lưng bà cụ, không quay bàn tay Jordyn. Ở đầu hành lang bếp, Glenda thấy hết; bà cúi mắt xuống, ôm chồng khăn chặt hơn.
 - **JORDYN:** "Our mud. You brought it in."
   *(VN) Bùn của chúng tôi. Bà mang nó vào mà.*
-- **MYA** (giọng livestream, quay bà cụ): "Y'all, hour two. She's still scrubbing."
-  *(VN) Cả nhà ơi, giờ thứ hai rồi. Bà ấy vẫn đang cọ.*
+- **MYA** (giọng livestream, quay bà cụ): "Y'all, two hours in. She's still scrubbing."
+  *(VN) Cả nhà ơi, hơn hai tiếng rồi. Bà ấy vẫn đang cọ.*
 - Jordyn bước lên ba bậc cầu thang, quay lại, giơ cao bàn tay trái trần trụi, rồi hét lên.
 - **JORDYN** (hét): "My ring! My ring is gone!"
   *(VN) Nhẫn của tôi! Nhẫn của tôi mất rồi!*
@@ -535,7 +539,7 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 
 #### Cụm 018 · 08:30–09:00 · Post it · ESTATE_FOYER · liền
 **Nhân vật:** REGINA (RG1), OZELLA (OZ1W), MYA (MY1); JORDYN (JO1, không nói); GLENDA (GL1, không nói); MOSES (MO1, không nói, ra cổng giữa cụm); người nền: không có
-**Chức năng:** tối hậu thư ("six o'clock bus") + clip "thief granny" lên mạng + móc lớn (xe SUV đen ở cổng) · **Cung bậc:** sợ → hy vọng · **Vòng:** M1 đáy · M4 móc cuối tập · đặt "Scrub till it shines" (trả ở cụm 53) · đặt clip "thief granny" (trả ở cụm 22, 34, 51, 58, 63) · đặt "Nobody comes in" (trả ở cụm 19)
+**Chức năng:** tối hậu thư ("six o'clock bus") + clip "thief granny" lên mạng + móc lớn (xe SUV đen ở cổng) · **Cung bậc:** sợ → hy vọng · **Vòng:** M1 đáy · M4 móc cuối tập · đặt "Scrub till it shines" (trả ở cụm 53) · đặt clip "thief granny" (trả ở cụm 22, 34, 51, 58) · đặt "Nobody comes in" (trả ở cụm 19)
 
 - Tiền sảnh: sàn đá cẩm thạch trắng vân xám loang nước, một nửa đã bóng lên; cầu thang cong lan can sắt; bàn console có gương, chồng khăn trên mặt bàn, chồng thư ngân hàng chưa mở dưới gầm, vali hoa dựng cạnh; vòm cửa phòng khách và hành lang bếp; đèn chùm pha lê; trên cửa gỗ đôi là ô cửa sổ kính nhìn ra lối xe và cổng sắt.
 - Regina (57 tuổi, da nâu Monk 7, tóc bob ngắn màu bạch kim ép thẳng, vòng ngọc trai sát cổ; áo lụa đỏ rượu cổ đứng dài tay, quần âu ống rộng màu kem, giày lười da kem) bước lên cầu thang cong, dừng ở bậc thứ ba, một tay trên lan can sắt, nhìn xuống bà cụ.
@@ -568,7 +572,7 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 **Chức năng:** hy vọng (Nolan về sớm, ở ngay cổng) + tay sai ở cổng nói dối chặn đồng minh ("pocketing silverware") · **Cung bậc:** hy vọng → gấp gáp · **Vòng:** M6 đoán (khán giả đoán anh sẽ cứu mẹ ngay) · đặt lời nói dối của Moses (trả ở cụm 46) · vỏ trứng vỡ còn trên lối xe (trả ở cụm 37)
 
 - Cổng sắt đen hai cánh của biệt thự Carrington ở Niskey Lake. Nắng tháng 10 buổi chiều trong và gắt, bóng hàng sồi và thông đổ nghiêng trên lối xe lát gạch đỏ. Sau song sắt là đài phun nước nhỏ hình tròn, mặt tiền gạch đỏ hai tầng, bậc thềm đá 4 bậc lên cửa gỗ đôi, hai chậu cây xén tròn hai bên. Chòi bảo vệ đứng bên trái cổng, camera nhỏ trên mái chòi. Ngay trong cổng nhỏ cho người đi bộ, trên nền gạch vẫn còn chiếc giỏ mây lật úp, vỏ trứng nâu vỡ vụn và vệt lòng trứng đã khô từ đầu giờ chiều.
-- Một chiếc SUV đen không logo vừa dừng sát cổng, máy còn nổ. Cửa ghế lái mở. Nolan (34 tuổi, da nâu sâu Monk 8, râu đầy tỉa gọn, lineup sắc, tóc cắt sát hai bên có sóng trên đỉnh, cao vai rộng, đồng hồ dây da nâu; NO1: áo len cổ khoá kéo navy, quần âu xám, giày thể thao da trắng) bước xuống, tay phải xách quai một túi du lịch da nâu, mắt còn vẻ mệt sau chuyến bay.
+- Một chiếc SUV đen không logo vừa dừng sát cổng, máy còn nổ. Cửa ghế lái mở. Nolan (34 tuổi, da nâu sâu Monk 8, râu đầy tỉa gọn, lineup sắc, tóc cắt sát hai bên có sóng trên đỉnh, cao vai rộng, đồng hồ dây da nâu; NO1: áo len cổ khoá kéo navy, quần âu xám, giày thể thao da trắng) bước xuống, tay phải xách quai một túi du lịch da nâu, mắt còn vẻ mệt sau chuyến bay từ sáng sớm.
 - Trên vỉa hè ngoài cổng, Danae (26 tuổi, da nâu sâu Monk 8 ánh vàng ấm, tóc tết box braids cỡ vừa búi thấp sau gáy, nốt ruồi nhỏ dưới mắt phải, mặt mộc; DA1: đồ scrubs xanh sage áo cổ chữ V tay ngắn + quần, áo thun dài tay trắng mặc trong, giày thể thao trắng đã cũ, túi đeo chéo vải đen, thẻ tên Sweetgum Staffing trên ngực, chữ INSERT ghép lúc dựng) đang ngồi bó gối trên mép lề đường thì bật dậy. Trong vòng tay cô là tấm chăn quilt cuộn chặt, mặt vải lấm bùn quay vào ngực, bên ngoài chỉ lộ viền khâu tay màu be.
 - Cửa chòi bảo vệ bật mở. Moses (44 tuổi, da nâu sâu Monk 8, đầu cạo, râu quai nón ngắn, to cao, tai nghe bộ đàm gắn một bên tai; MO1: áo polo đen bảo vệ, quần âu đen, giày đen) bước nhanh ra qua cổng nhỏ, đứng chắn giữa Danae và Nolan, một bàn tay to giơ ngang về phía cô.
 - **DANAE** (gọi to qua vai Moses): "Mr. Grier? Sir! Your mama is in there!"
@@ -654,9 +658,9 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 - TOWER_OFFICE: văn phòng góc tầng 22 toà tháp Grier Systems trên Peachtree Street, Midtown. Ánh chiều trung tính qua cửa kính toàn cảnh, đèn bàn ấm trên bàn kính, ghế da. Trên kệ phía sau là khung ảnh nhỏ Nolan mặc áo tốt nghiệp ôm mẹ. Graham (35 tuổi, da nâu Monk 6 ánh ô liu, đầu cạo sạch, râu ria mép + cằm tỉa vuông, nụ cười rộng răng đều, đồng hồ thép; GR1: vest than chì, sơ mi trắng mở cổ) đứng trước kính, một tay đút túi quần, điện thoại áp tai.
 - **GRAHAM** (giọng vui, bất ngờ): "N., you're back already? You were booked through Saturday."
   *(VN) N., về rồi à? Lịch của cậu kín tới thứ Bảy cơ mà.*
-- **NOLAN** (giọng mệt): "Moved my flight up. Mama wasn't picking up."
-  *(VN) Tôi dời chuyến bay sớm lên. Mẹ tôi không nghe máy.*
-- **GRAHAM** (nụ cười tắt, giọng chùng xuống lo lắng): "Brother, there's a clip. 'Thief granny.' At your fiancee's house."
+- **NOLAN** (giọng mệt): "Flew out at dawn. Wanted to surprise y'all. Then Mama stopped picking up."
+  *(VN) Tôi bay từ sáng sớm. Định làm mọi người bất ngờ. Rồi mẹ tôi không nghe máy nữa.*
+- **GRAHAM** (nụ cười tắt, giọng chùng xuống lo lắng): "Brother, there's a clip. 'Thief granny.' At your fiancée's house."
   *(VN) Người anh em, có một clip. "Bà già ăn trộm." Ở nhà hôn thê của cậu.*
 - **GRAHAM:** "It's your mom, N. The board's texting me."
   *(VN) Là mẹ cậu đấy, N. Hội đồng quản trị đang nhắn tin cho tôi.*
@@ -673,7 +677,7 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 #### Cụm 023 · 11:00–11:30 · You believe them · ESTATE_FOYER · liền
 > ✎ **Sửa ở bản 03 (Claude đề xuất, tác giả duyệt):** thêm "Daddy started with a stove too": bố Nolan mất vì Alzheimer khởi phát sớm, nên một lần quên bếp đủ làm anh hoảng. Sai lầm của Nolan giờ là vì sợ, không phải vì ngu, nên khán giả còn tha thứ được. Thêm chấm đỏ: Mya vẫn thu tiếng (trả ở cụm 80, 91, 109).
 **Nhân vật:** NOLAN (NO1), OZELLA (OZ1W), REGINA (RG1); JORDYN (JO1, không nói); GLENDA (GL1, không nói); MYA (MY1, không nói); người nền: không có
-**Chức năng:** ĐÁY LỚN: con trai tin nhà gái vì lý do thật (bếp quên tắt cả đêm) · câu poster "You believe them." · **Cung bậc:** đau · **Vòng:** M1 đáy lớn · trả bếp quên tắt (cụm 11) · đặt "I picked the easy answer" (trả ở cụm 32)
+**Chức năng:** ĐÁY LỚN: con trai tin nhà gái vì lý do thật (bếp quên tắt cả đêm) · câu poster "You believe them." · **Cung bậc:** đau · **Vòng:** M1 đáy lớn · trả bếp quên tắt (cụm 11) · đặt "I picked the easy answer" (trả ở cụm 32) · đặt "Daddy started with a stove" (trả ở cụm 102, 107) · đặt chấm đỏ Mya vẫn thu tiếng (trả ở cụm 80, 91, 109)
 
 - Tiền sảnh, đèn chùm pha lê sáng, ngoài cửa gỗ đôi nắng chiều vẫn sáng. Xô nước xám và bàn chải vẫn nằm giữa sàn đá ướt.
 - Nolan (34 tuổi, da nâu sâu Monk 8, râu đầy tỉa gọn, lineup sắc, tóc cắt sát hai bên có sóng trên đỉnh, cao vai rộng, đồng hồ dây da nâu; NO1: áo len cổ khoá kéo navy, quần âu xám ướt ở hai đầu gối, giày thể thao da trắng) nhét điện thoại vào túi quần, quay lại, quỳ một gối trước mặt mẹ, hai tay nắm hai bàn tay to thô của bà.
@@ -694,7 +698,7 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 - **OZELLA** (nhìn con, giọng nhỏ và rõ): "You think your mama done lost her mind."
   *(VN) Con nghĩ mẹ con mất trí rồi.*
 - **NOLAN:** "I think you need rest. There's a guest room upstairs."
-  *(VN) Con nghĩ mẹ cần nghỉ. Trên lầu có phòng cho khách.*
+  *(VN) Con nghĩ mẹ cần nghỉ. Trên lầu có phòng ngủ cho khách.*
 - **OZELLA** (nhìn thẳng vào mắt con): "You believe them."
   *(VN) Con tin họ.*
 - Nolan chìa tay đỡ mẹ. Ozella không cầm. Bà chống một tay lên đầu gối, tự đứng dậy một mình, nước nhỏ giọt từ gấu váy xuống sàn đá. Sau lưng Nolan, Jordyn nhìn bà qua vai anh, khoé môi nhếch lên một nụ cười.
@@ -720,12 +724,12 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 - **NOLAN** (lùi dần về phía vòm cửa): "I have to take this. Board. Five minutes."
   *(VN) Con phải nghe cuộc này. Hội đồng. Năm phút thôi.*
 - **NOLAN** (với Glenda): "Glenda, put Mama's suitcase in the guest room. Please."
-  *(VN) Glenda, mang vali của mẹ tôi lên phòng khách giúp tôi.*
+  *(VN) Glenda, mang vali của mẹ tôi lên phòng ngủ cho khách giúp tôi.*
 - Nolan đi qua vòm cửa, khuất về phía hành lang phòng làm việc, điện thoại áp tai. Ozella cúi xuống cạnh bậc cầu thang dưới cùng, tự nhặt từng món đồ của mình trên sàn đá ướt (ví nhỏ, vé xe buýt gấp đôi, khăn tay trắng, hộp kẹo bạc hà, hộp kính), bỏ lại vào túi, kéo khoá ngăn bên, rồi ngồi xuống bậc dưới cùng, đặt túi xách lên đùi.
 - **OZELLA** (nói với theo lưng con, giọng nhỏ): "I'll wait on my son. Then I'm going home."
   *(VN) Mẹ đợi con trai mẹ. Rồi mẹ về nhà.*
 - Glenda nắm quai kéo chiếc vali hoa. Regina bước tới sát vai Glenda, cúi đầu, môi kề tai bà ta.
-- **REGINA** (khẽ, lạnh): "When he's on that call, she goes. Tonight."
+- **REGINA** (khẽ, lạnh): "While he's on that call, she goes. Tonight."
   *(VN) Lúc nó đang nghe cuộc gọi đó, bà ta phải đi. Ngay tối nay.*
 
 **Khung kết:** Nolan đã khuất qua vòm cửa về phía hành lang phòng làm việc; Ozella ngồi trên bậc cầu thang dưới cùng, OZ1W, túi xách nâu (đồ nhỏ đã nhặt lại vào trong) đặt trên đùi, hai tay đặt lên quai; sàn cạnh bậc dưới cùng đã trống; Glenda đứng cạnh bàn console, GL1, tay nắm quai kéo chiếc vali hoa; Regina đứng sát vai Glenda, RG1, môi kề tai bà ta; Jordyn đứng trước gương lớn, JO1, chấm khoé mắt bằng đầu ngón tay, mặt đã ráo hoảnh; Mya tựa vòm cửa, MY1, cúi nhìn màn hình điện thoại; xô nước xám và bàn chải vẫn nằm giữa sàn; ngoài cửa gỗ đôi nắng chiều đã dịu.
@@ -740,15 +744,15 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 **Nhân vật:** REGINA (RG1), OZELLA (OZ1W), JORDYN (JO1); GLENDA (GL1, không nói); MOSES (MO1, không nói); người nền: không có
 **Chức năng:** sỉ nhục lớn: tống bà ra mưa, xô ngã hai bậc thềm, vali bung trên đường · **Cung bậc:** đau · **Vòng:** M2 im lặng · M1 đáy · trả "the six o'clock bus" (cụm 18) · đặt Moses chần chừ (trả ở cụm 46)
 
-- Năm tiếng sau. Glenda đã dẫn Ozella lên phòng khách trên lầu "cho bà lau khô người"; Regina gõ cửa phòng làm việc, nói với Nolan "Bà ngủ rồi, con. Để bà nghỉ", nên cuộc gọi "năm phút" của anh kéo thành năm tiếng gọi liền nhau. Suốt năm tiếng, Ozella ngồi chờ con trên mép giường phòng khách, quần áo vẫn ẩm, không ai gọi. Trời tối hẳn, mưa rào tháng 10 trút thẳng xuống lối xe lát gạch đỏ, nước đọng thành vũng loang loáng dưới hai cột đèn cổng vàng. Đài phun nước tràn mép. Mặt tiền gạch đỏ hai tầng sáng đèn vài ô cửa; ô cửa sổ phòng làm việc ở tầng trệt sáng đèn bàn vàng, rèm khép. Bậc thềm đá 4 bậc ướt bóng, hai chậu cây xén tròn hứng mưa. Cuối lối xe là cổng sắt đen hai cánh đang đóng, cổng nhỏ cho người đi bộ và chòi bảo vệ có camera nhỏ trên mái.
+- Năm tiếng sau. Glenda đã dẫn Ozella lên phòng ngủ cho khách trên lầu "cho bà lau khô người", dặn bà "Cậu ấy sẽ lên"; cửa phòng làm việc khoá trong. Regina gõ cửa phòng làm việc, nói với Nolan "Bà ngủ rồi, con. Để bà nghỉ", nên cuộc gọi "năm phút" của anh kéo thành năm tiếng gọi liền nhau. Suốt năm tiếng, Ozella ngồi chờ con trên mép giường phòng ngủ cho khách, quần áo vẫn ẩm, không ai gọi. Regina chờ trời tối hẳn cho hàng xóm khỏi thấy. Trời tối hẳn, mưa rào tháng 10 trút thẳng xuống lối xe lát gạch đỏ, nước đọng thành vũng loang loáng dưới hai cột đèn cổng vàng. Đài phun nước tràn mép. Mặt tiền gạch đỏ hai tầng sáng đèn vài ô cửa; ô cửa sổ phòng làm việc ở tầng trệt sáng đèn bàn vàng, rèm khép. Bậc thềm đá 4 bậc ướt bóng, hai chậu cây xén tròn hứng mưa. Cuối lối xe là cổng sắt đen hai cánh đang đóng, cổng nhỏ cho người đi bộ và chòi bảo vệ có camera nhỏ trên mái.
 - Cửa gỗ đôi mở vào trong. Regina (57 tuổi, da nâu Monk 7, tóc bob ngắn bạch kim ép thẳng, vòng cổ ngọc trai sát cổ; RG1: áo lụa đỏ rượu cổ đứng, quần âu ống rộng màu kem, giày lười da kem) đứng trong khung cửa, khô ráo dưới ánh đèn chùm hắt ra từ tiền sảnh. Bà ta không chạm vào ai, chỉ đứng chắn lối vào.
 - Ozella (66 tuổi, da nâu rất sâu Monk 9 ánh đỏ ấm, tóc bạc tự nhiên ngắn ép mềm lộ mép dưới khăn, nếp nhăn khoé mắt sâu, tay to khớp ngón thô; OZ1W: váy nhà cotton xanh sage bạc màu dài qua bắp chân điểm hoa nhỏ trắng gần phai, cardigan len be xù lông ở hai khuỷu có một chiếc cúc nâu khác màu, giày bệt đen mòn gót khâu lại ở mũi, khăn trùm đầu cotton be buộc sau gáy; quần áo chưa kịp khô từ chiều giờ lại hứng mưa, ướt sũng từ vai xuống) đã tự bước ra, xuống được hai bậc thềm thì quay lại, chiếc túi xách nâu ôm trước ngực. Mưa chảy ròng trên khăn trùm đầu xuống má bà.
 - Sau lưng Regina, Glenda (53 tuổi, da nâu Monk 7, tóc ngắn lốm đốm bạc, kính đọc sách đeo dây; GL1: đầm sơ mi đen đồng phục dài tay, cardigan đen, giày bệt đen) kéo chiếc vali vải hoa từ trong nhà ra, dựng nó ở bậc thềm trên cùng rồi lùi vào trong. Jordyn (29 tuổi, da nâu Monk 6 ánh vàng, tóc dài thẳng đen pha nâu sẫm uốn sóng lớn, mi dày, móng tay dài đỏ rượu, nhẫn đính hôn kim cương lớn; JO1: váy len dệt kim đỏ rượu dài tay dài qua gối, giày cao gót mũi nhọn đỏ rượu, hoa tai vàng tròn nhỏ) bước ra theo, đứng ở bậc trên cùng, mưa lấm tấm trên vai váy.
 - Dưới chân thềm, Moses (44 tuổi, da nâu sâu Monk 8, đầu cạo, râu quai nón ngắn, to cao, tai nghe bộ đàm một bên tai; MO1: áo polo đen bảo vệ, quần âu đen, giày đen) đứng chờ trong mưa, nước chảy trên đầu cạo, áo polo dính sát vai.
 - **REGINA** (giọng đều, không cao lên): "He thinks you're senile. Go home before he puts you somewhere."
   *(VN) Nó nghĩ bà lẫn rồi. Về đi, trước khi nó tống bà vào chỗ nào đó.*
-- **OZELLA** (ngước lên khung cửa, mưa chảy trên mặt): "Five hours in your guest room. Let me tell my son goodbye."
-  *(VN) Năm tiếng ngồi trong phòng khách nhà bà. Cho tôi chào con trai tôi một câu.*
+- **OZELLA** (ngước lên khung cửa, mưa chảy trên mặt): "Five hours you kept me upstairs. Let me tell my son goodbye."
+  *(VN) Bà giữ tôi trên lầu năm tiếng. Cho tôi chào con trai tôi một câu.*
 - Jordyn bước xuống một bậc, đứng ngay trên đầu bà.
 - **JORDYN** (cúi sát mặt bà): "He's busy, ma'am. Busy with me."
   *(VN) Anh ấy bận rồi, thưa bà. Bận với tôi.*
@@ -775,13 +779,13 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 - **DANAE** (quỳ thụp xuống bên bà, vơ quần áo nhét vào vali): "Miss Ozella! Get in the car. Now."
   *(VN) Bà Ozella! Lên xe đi bà. Ngay bây giờ.*
 - **OZELLA** (giơ bộ vest tím trong túi nilon ướt sũng): "My church suit. For his party. Look at it."
-  *(VN) Bộ đồ đi lễ của tôi. Để dự tiệc của con tôi. Nhìn nó xem.*
+  *(VN) Bộ đồ đi lễ của bà. Để dự tiệc của con bà. Nhìn nó xem.*
 - **DANAE:** "We'll dry it, ma'am. I promise. Get in."
-  *(VN) Mình sẽ phơi khô nó, thưa bà. Con hứa. Lên xe đi.*
+  *(VN) Mình sẽ phơi khô nó, thưa bà. Cháu hứa. Lên xe đi.*
 - **OZELLA** (chưa chịu đứng, nhìn qua song sắt về phía ngôi nhà): "They threw my quilt away, sugar."
-  *(VN) Họ vứt tấm chăn của tôi đi rồi, con à.*
+  *(VN) Họ vứt tấm chăn của bà đi rồi, cháu à.*
 - **DANAE** (lắc đầu, đỡ bà đứng dậy): "No, ma'am. I took it back."
-  *(VN) Không đâu bà. Con lấy lại rồi.*
+  *(VN) Không đâu bà. Cháu lấy lại rồi.*
 - Danae mở cửa sau xe. Trên ghế sau là tấm chăn quilt cưới cuộn tròn, khô ráo: 7 mảnh lớn ghép lại, mảnh giữa satin trắng của áo rửa tội in vết chân chó bùn khô và một vết gót giày, quanh đó là mảnh len navy, mảnh jean bạc, mảnh kẻ ô xanh, mảnh nhung đỏ gạch, mảnh cotton vàng, mảnh vải sage, viền khâu tay màu be. Ozella ngồi vào ghế sau, kéo tấm chăn lên ôm vào ngực, áp má lên mảnh satin trắng.
 - **OZELLA** (nước mắt lẫn nước mưa): "Lord. Lord, thank you."
   *(VN) Lạy Chúa. Lạy Chúa, cảm ơn Người.*
@@ -811,7 +815,7 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
   *(VN) Không ai khám cho mẹ tôi ngoài bác sĩ của bà.*
 - **GRAHAM** (thở ra, cười nhẹ): "Then I'll have PR draft it. Sleep on it."
   *(VN) Vậy để bên truyền thông soạn sẵn. Cậu ngủ một đêm rồi tính.*
-- Graham cúp máy. Nolan hạ điện thoại, bước tới cửa sổ, vén rèm. Qua lớp kính nhoè mưa: lối xe vắng tanh dưới hai cột đèn cổng, đài phun nước tràn mép, cổng nhỏ đã đóng. Anh quay người, mở cửa gỗ ra hành lang tối.
+- Graham cúp máy. Nolan hạ điện thoại, bước tới cửa sổ, vén rèm. Qua lớp kính nhoè mưa: lối xe vắng dưới hai cột đèn cổng, chỉ còn bóng Moses trong chòi bảo vệ, đài phun nước tràn mép, cổng nhỏ đã đóng. Anh quay người, mở cửa gỗ ra hành lang tối.
 - **NOLAN** (gọi vào hành lang, về phía cầu thang): "Mama?"
   *(VN) Mẹ ơi?*
 - Không ai trả lời. Chỉ có tiếng mưa trên mái.
@@ -827,22 +831,22 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 
 - Phòng khách căn ranch gạch thập niên 60 của MaDear ở Cascade Heights. Đèn bàn chao vải vàng và đèn trần ấm; ngoài cửa sổ mưa rả rích, rèm ren khép. Sofa nhung hoa phủ chăn móc len; trên bàn nước là cuốn Kinh Thánh to và bình cắm quạt giấy nhà thờ. Kệ ảnh nhiều thế hệ, ở giữa là ảnh MaDear đội mũ nhà thờ. Bàn ăn chất sách giáo trình điều dưỡng, máy may cũ ở góc. Cửa trước có camera chuông cửa nhỏ, cửa sổ nhìn ra lối xe.
 - Bộ vest váy tím hoàng gia đã lấy khỏi túi nilon, treo trên mắc móc vào khung cửa bếp, nhỏ giọt xuống chiếc khăn trải dưới sàn. Hộp mũ tròn bằng bìa cứng, góc bìa sũng nước, đặt trên bàn ăn giữa chồng sách. Chiếc vali hoa bung khoá dựng cạnh cửa trước.
-- Ozella (66 tuổi, da nâu rất sâu Monk 9 ánh đỏ ấm, tóc bạc tự nhiên ngắn ép mềm rẽ ngôi bên lộ mép dưới khăn, nếp nhăn khoé mắt sâu, tay to khớp ngón thô; OZ2: áo choàng nhung tăm màu kem của MaDear khoác ngoài váy ngủ cotton dài tay, dép bông, khăn trùm đầu cotton be đã khô buộc sau gáy; không hoa tai, không trang điểm) ngồi trong chiếc ghế bành nhung hoa của MaDear cạnh sofa. Tấm chăn quilt cưới 7 mảnh trải trên đùi bà, mảnh satin trắng ở giữa còn vết chân chó bùn khô. Hai tay bà ôm cốc trà nóng bốc khói.
+- Ozella (66 tuổi, da nâu rất sâu Monk 9 ánh đỏ ấm, tóc bạc tự nhiên ngắn ép mềm rẽ ngôi bên lộ mép dưới khăn, nếp nhăn khoé mắt sâu, tay to khớp ngón thô; OZ2: áo choàng nhung tăm màu kem của MaDear khoác ngoài váy ngủ cotton dài tay, dép bông, khăn trùm đầu cotton be Danae vừa sấy khô, buộc sau gáy; không hoa tai, không trang điểm) ngồi trong chiếc ghế bành nhung hoa của MaDear cạnh sofa. Tấm chăn quilt cưới 7 mảnh trải trên đùi bà, mảnh satin trắng ở giữa còn vết chân chó bùn khô. Hai tay bà ôm cốc trà nóng bốc khói.
 - Danae (26 tuổi, da nâu sâu Monk 8 ánh vàng ấm, tóc tết box braids cỡ vừa búi thấp sau gáy còn ẩm, nốt ruồi nhỏ dưới mắt phải, mặt mộc; DA2: áo hoodie xám, quần jogger đen, tất) ngồi mép sofa đối diện, hai khuỷu tay chống lên gối.
 - **OZELLA** (nhìn cô qua làn hơi trà): "Why'd you come back for me, sugar?"
-  *(VN) Sao con quay lại đón bà, con?*
+  *(VN) Sao cháu quay lại đón bà, cháu?*
 - **DANAE** (hất cằm về phía chiếc ghế bà đang ngồi): "MaDear raised me in this house. Right in that chair."
-  *(VN) MaDear nuôi con lớn trong căn nhà này. Ngay trên chiếc ghế đó.*
+  *(VN) MaDear nuôi cháu lớn trong căn nhà này. Ngay trên chiếc ghế đó.*
 - **DANAE:** "Nobody talks to a grandmother like that. Nobody."
   *(VN) Không ai được nói với một người bà như thế. Không ai cả.*
 - Ozella nhìn lên kệ ảnh, nơi MaDear đội mũ nhà thờ mỉm cười.
 - **OZELLA:** "Your MaDear did good work."
-  *(VN) MaDear của con dạy con khéo lắm.*
+  *(VN) MaDear của cháu dạy cháu khéo lắm.*
 - **OZELLA** (ngón tay cái vuốt lên vết chân chó trên mảnh satin trắng): "Mud comes out of satin. What they did don't."
   *(VN) Bùn thì giặt khỏi satin được. Còn việc họ làm thì không.*
 - Danae nhoài người tới, rút điện thoại từ túi hoodie.
 - **DANAE:** "Miss Ozella. I recorded them."
-  *(VN) Bà Ozella. Con ghi âm họ rồi.*
+  *(VN) Bà Ozella. Cháu ghi âm họ rồi.*
 - Danae đặt điện thoại lên bàn nước, cạnh cuốn Kinh Thánh to, xoay màn hình về phía bà, bấm play.
 
 **Khung kết:** Ozella ngồi trong ghế bành nhung hoa của MaDear, OZ2, cốc trà khựng giữa ngực, tấm chăn trải trên đùi, người hơi nghiêng về phía bàn nước; Danae ngồi mép sofa, DA2, ngón tay vừa rời màn hình; điện thoại nằm trên bàn nước cạnh cuốn Kinh Thánh to, màn hình đang phát; bộ vest tím treo ở khung cửa bếp nhỏ giọt; hộp mũ trên bàn ăn; vali hoa cạnh cửa trước.
@@ -856,7 +860,7 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 - Ozella (66 tuổi, da nâu rất sâu Monk 9 ánh đỏ ấm, tóc bạc ngắn ép mềm lộ mép dưới khăn, nếp nhăn khoé mắt sâu, tay to khớp ngón thô; OZ2: áo choàng nhung tăm màu kem của MaDear ngoài váy ngủ cotton dài tay, dép bông, khăn trùm đầu cotton be đã khô) ngồi ghế bành, tấm chăn quilt trên đùi, cốc trà trong tay. Danae (26 tuổi, da nâu sâu Monk 8 ánh vàng ấm, box braids búi thấp, nốt ruồi nhỏ dưới mắt phải; DA2: áo hoodie xám, quần jogger đen, tất) ngồi mép sofa, mắt dõi theo mặt bà.
 - INSERT âm thanh (ghép lúc dựng), giọng Regina trong bếp nhà Carrington: *"That's his mother. Same face as the photo."* ... *"A confused old woman. And a thief."*
 - **OZELLA** (cốc trà dừng giữa chừng): "They knew who I was?"
-  *(VN) Họ biết tôi là ai à?*
+  *(VN) Họ biết bà là ai à?*
 - **DANAE:** "Since your phone rang. The bride's mama saw your son's picture."
   *(VN) Từ lúc điện thoại bà đổ chuông. Mẹ cô dâu đã thấy ảnh con trai bà.*
 - Danae vuốt sang đoạn video thứ hai, xoay màn hình về phía bà. Máy quay ở trên mặt Ozella: ánh màn hình hắt lên má bà; từ loa điện thoại vang ra tiếng bát inox kéo trên nền xi măng, giọng Regina *"Mya. Camera down."*, rồi một tiếng bốp khô (INSERT video gara và âm thanh ghép lúc dựng). Ozella đặt cốc trà xuống bàn nước.
@@ -865,7 +869,7 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 - **DANAE:** "We take this to the police tomorrow."
   *(VN) Mai mình mang cái này tới cảnh sát.*
 - **OZELLA** (lắc đầu, hai tay nắm mép tấm chăn): "First, my son is going to hear it. All of it."
-  *(VN) Trước đã, con trai tôi phải nghe nó. Nghe hết.*
+  *(VN) Trước đã, con trai bà phải nghe nó. Nghe hết.*
 - Điện thoại trên bàn đổ chuông, màn hình hiện một số lạ (INSERT ghép lúc dựng). Danae nhìn bà, rồi cầm máy lên, đứng dậy.
 - **DANAE** (áp máy lên tai): "Hello?"
   *(VN) A lô?*
@@ -889,10 +893,10 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 - Danae nhìn sang Ozella. Bà im lặng một nhịp, rồi gật đầu.
 - **DANAE:** "She's here. She's safe. No thanks to you."
   *(VN) Bà ở đây. Bà an toàn. Chẳng nhờ gì anh cả.*
-- **DANAE:** "I called your office at three. A man said he'd tell you."
-  *(VN) Ba giờ chiều tôi đã gọi tới văn phòng anh. Một người đàn ông bảo sẽ báo anh.*
-- **NOLAN** (ngẩng phắt khỏi vô lăng): "Nobody told me anything."
-  *(VN) Không ai báo tôi gì cả.*
+- **DANAE:** "I called your office from that curb. A man said he'd tell you."
+  *(VN) Tôi đã gọi tới văn phòng anh ngay từ lề đường đó. Một người đàn ông bảo sẽ báo anh.*
+- **NOLAN** (ngẩng phắt khỏi vô lăng): "Nobody told me you called."
+  *(VN) Không ai báo là cô đã gọi.*
 - **NOLAN** (nhắm mắt, thở hắt ra, trán tì lên vô lăng): "Give me your address. Please."
   *(VN) Cho tôi địa chỉ. Làm ơn.*
 - **DANAE:** "Come see what you missed, Mr. Grier."
@@ -914,9 +918,9 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 - Danae (26 tuổi, da nâu sâu Monk 8 ánh vàng ấm, box braids búi thấp, nốt ruồi nhỏ dưới mắt phải, mặt mộc; DA2: áo hoodie xám, quần jogger đen, tất) bước tới, chìa điện thoại cho anh.
 - **DANAE:** "Kitchen pantry. Three o'clock. Press play."
   *(VN) Kho thức ăn cạnh bếp. Ba giờ chiều. Bấm play đi.*
-- Nolan bấm. INSERT âm thanh (ghép lúc dựng), giọng Regina: *"That's his mother. Same face as the photo."* Rồi giọng Jordyn: *"I put my hand on her. I broke her phone."*
-- **NOLAN** (giọng vỡ ra): "Jordyn said that? About my mama?"
-  *(VN) Jordyn nói thế à? Về mẹ tôi?*
+- Nolan bấm. INSERT âm thanh (ghép lúc dựng), giọng Regina: *"That's his mother. Same face as the photo."*
+- **NOLAN** (giọng vỡ ra): "Jordyn knew? About my mama?"
+  *(VN) Jordyn biết à? Biết đó là mẹ tôi?*
 - INSERT âm thanh chạy tiếp (ghép lúc dựng), giọng Jordyn: *"Nolan told me she left her stove on all night."* Giọng Regina: *"Then today she's confused."* ... *"Your ring goes in her bag. Then we find it."*
 - Nolan sụp xuống mép sofa nhung hoa, điện thoại vẫn áp sát tai.
 - **NOLAN** (chậm, giọng nghẹn lại): "I told her about the stove. She used it."
@@ -1002,8 +1006,8 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
   *(VN) Năm mươi phần trăm cổ phần của nó, nếu có ngày tan vỡ.*
 - **JORDYN** (ngừng xoay nhẫn): "And our friend really has a buyer?"
   *(VN) Và người bạn của chúng ta có sẵn người mua thật à?*
-- **REGINA:** "Our friend wrote page seven. Kept Nolan in Seattle, too."
-  *(VN) Người bạn đó viết trang bảy. Giữ Nolan ở Seattle cũng là người đó.*
+- **REGINA:** "Our friend wrote page seven. Booked Nolan in Seattle, too."
+  *(VN) Người bạn đó viết trang bảy. Xếp lịch cho Nolan ở Seattle cũng là người đó.*
 - **MYA** (ngẩng lên khỏi màn hình): "Who is this friend?"
   *(VN) Người bạn đó là ai?*
 - **REGINA** (cầm ly vang lên, không trả lời thẳng): "Somebody he trusts with everything."
@@ -1021,27 +1025,27 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 
 - Trong chiếc SUV đen đậu trên lối xe nhà MaDear. Nắng sớm vàng nhạt rọi xiên qua kính chắn gió còn đọng hơi sương và vệt mưa khô. Qua kính: chiếc sedan bạc cũ của Danae đậu phía trước, căn ranch gạch, hiên bê tông nhỏ có mái, cửa lưới, cạnh cửa là camera chuông cửa nhỏ với vòng đèn xanh.
 - Nolan (34 tuổi, da nâu sâu Monk 8, râu đầy tỉa gọn nay hơi lởm chởm, lineup sắc, tóc cắt sát hai bên có sóng trên đỉnh, cao vai rộng, đồng hồ dây da nâu; NO1C: áo len cổ khoá kéo navy nhàu nát, tay áo xắn tới khuỷu, quần âu xám nhàu, giày thể thao da trắng) choàng tỉnh trên ghế lái ngả gần nằm. Anh dụi mắt, dựng ghế thẳng lên, bấm gọi. Chỉ thấy Nolan, không nghe đầu dây bên kia.
-- **NOLAN** (giọng khàn ngái ngủ): "Morning. I need the Carrington house note. Southern Crest Bank."
-  *(VN) Chào buổi sáng. Tôi cần khoản nợ căn nhà nhà Carrington. Ngân hàng Southern Crest.*
-- **NOLAN** (nghe, gật đầu): "Three payments behind? Then find who has that note."
-  *(VN) Trễ ba kỳ rồi à? Vậy tìm xem ai đang giữ khoản nợ đó.*
+- **NOLAN** (giọng khàn ngái ngủ): "Morning. I need the Carrington house note. Find the bank."
+  *(VN) Chào buổi sáng. Tôi cần khoản vay mua nhà của nhà Carrington. Tìm xem ngân hàng nào.*
+- **NOLAN** (nghe, gật đầu): "Southern Crest? Three payments behind? Then find who has that note."
+  *(VN) Southern Crest à? Trễ ba kỳ rồi à? Vậy tìm xem ai đang giữ khoản nợ đó.*
 - **NOLAN:** "I take it over before noon. Whatever it costs."
-  *(VN) Tôi nhận lại nó trước trưa nay. Tốn bao nhiêu cũng được.*
+  *(VN) Tôi mua lại nó trước trưa nay. Tốn bao nhiêu cũng được.*
 - Anh nghe tiếp, ngồi thẳng hẳn dậy, mắt tỉnh hẳn.
 - **NOLAN:** "A second mortgage too? One point eight million?"
   *(VN) Còn một khoản vay thứ hai nữa à? Một triệu tám trăm nghìn đô?*
-- **NOLAN** (nheo mắt): "Mr. Carrington's signature looks wrong? Flag it with the bank."
-  *(VN) Chữ ký của ông Carrington trông không đúng à? Báo ngay cho ngân hàng.*
+- **NOLAN** (nheo mắt): "Doesn't match his signature on the first loan? Flag it with the bank."
+  *(VN) Không khớp với chữ ký của ông ấy ở khoản vay đầu à? Báo ngay cho ngân hàng.*
 - **NOLAN:** "And call Detective Farris. Financial crimes. Seven tonight."
   *(VN) Và gọi cho Thám tử Farris. Tội phạm tài chính. Bảy giờ tối nay.*
 - **NOLAN:** "Last thing. Email me my prenup. Every page."
-  *(VN) Việc cuối. Gửi tôi bản tiền hôn nhân của tôi. Đủ mọi trang.*
+  *(VN) Việc cuối. Gửi tôi bản thoả thuận tiền hôn nhân của tôi. Đủ mọi trang.*
 - Anh cúp máy, ngả đầu ra tựa ghế, thở ra một hơi dài. Cộc, cộc: tiếng đốt ngón tay gõ lên kính cửa ghế lái.
 
 **Khung kết:** Nolan ngồi thẳng trên ghế lái, NO1C, điện thoại trong tay phải, đầu vừa quay về phía kính cửa; ngoài kính, bóng một người đứng sát cửa xe, một tay còn giơ lên sau cú gõ; nắng sớm trên kính chắn gió; sedan bạc đậu phía trước; hiên nhà với cửa lưới và camera chuông cửa phía sau.
 **Móc:** Ai gõ cửa xe lúc sáng sớm, và sau một đêm ngủ trong xe, Nolan đã sẵn sàng cho bữa tiệc tối nay chưa?
 
-#### Cụm 036 · 17:30–18:00 · Her nurse · RANCH_DRIVEWAY · thứ Bảy 10/10/2026, 7:30 sáng
+#### Cụm 036 · 17:30–18:00 · Her nurse · RANCH_DRIVEWAY · liền
 **Nhân vật:** DANAE (DA2), NOLAN (NO1C), OZELLA (OZ2); người nền: không có
 **Chức năng:** nhịp ngọt sáng sớm + Danae chọn vai "nurse" + Ozella sẵn sàng ra trận · **Cung bậc:** ngọt → quyết · **Vòng:** M5 · M4 móc cuối tập · trả "since the eggs" (cụm 2) · đặt camera chuông cửa (trả ở cụm 50–51) · đặt "I'm her nurse tonight" (trả ở cụm 40) · trả bộ vest tím + hộp mũ (cụm 26)
 
@@ -1050,7 +1054,7 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 - Kính cửa hạ xuống. Nolan (34 tuổi, da nâu sâu Monk 8, râu hơi lởm chởm, lineup sắc, tóc cắt sát hai bên có sóng trên đỉnh, đồng hồ dây da nâu; NO1C: áo len cổ khoá kéo navy nhàu nát, tay áo xắn tới khuỷu, quần âu xám nhàu, giày thể thao da trắng) ngồi ghế lái, nheo mắt vì nắng.
 - **DANAE** (chìa một cốc qua cửa kính): "You look terrible. My doorbell camera says you never left."
   *(VN) Trông anh thảm quá. Camera chuông cửa nhà tôi bảo anh không rời đi lúc nào.*
-- **NOLAN** (nhận cốc cà phê, cười mệt mỏi): "First good sleep I've had all year."
+- **NOLAN** (nhận cốc cà phê, cười mệt mỏi): "Best sleep I've had all year."
   *(VN) Giấc ngủ ngon nhất của tôi cả năm nay.*
 - **NOLAN:** "Come tonight. As my guest."
   *(VN) Tối nay cô tới nhé. Làm khách của tôi.*
@@ -1063,22 +1067,22 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
   *(VN) Con trai, mẹ sẵn sàng từ lúc mấy quả trứng vỡ rồi.*
 - Ozella quay người bước lùi vào trong, cửa lưới khép lại trước mặt bà; bà nói vọng ra qua lớp lưới.
 - **OZELLA:** "Danae, sugar. Find me a steam iron and my purple hat."
-  *(VN) Danae, con. Tìm giúp bà cái bàn là hơi nước với cái mũ tím của bà.*
+  *(VN) Danae, cháu. Tìm giúp bà cái bàn là hơi nước với cái mũ tím của bà.*
 
-**Khung kết:** Nolan ngồi ghế lái chiếc SUV đen đậu trên lối xe nhà Danae, NO1C, kính cửa hạ hết, tay phải cầm cốc cà phê giấy, mắt nhìn lên hiên; Danae đứng ngoài xe sát cửa ghế lái, DA2, cốc cà phê thứ hai trong tay, quay đầu nhìn lên hiên; Ozella đứng trên hiên ngay sau cửa lưới đã khép, OZ2, một tay áp lên lớp lưới; sedan bạc đậu phía trước SUV; camera chuông cửa sáng vòng xanh cạnh cửa; tấm chăn cưới ở trong nhà, vắt trên lưng ghế bành của MaDear (không thấy trên hình); bộ vest tím và hộp mũ trong nhà; điện thoại nứt của Ozella vẫn nằm trong ngăn kéo dưới đảo bếp nhà Carrington.
+**Khung kết:** Nolan ngồi ghế lái chiếc SUV đen đậu trên lối xe nhà Danae, NO1C, kính cửa hạ hết, tay phải cầm cốc cà phê giấy, mắt nhìn lên hiên; Danae đứng ngoài xe sát cửa ghế lái, DA2, cốc cà phê thứ hai trong tay, quay đầu nhìn lên hiên; Ozella đứng trong nhà, sau lớp cửa lưới đã khép, OZ2, một tay áp lên lớp lưới; sedan bạc đậu phía trước SUV; camera chuông cửa sáng vòng xanh cạnh cửa; tấm chăn cưới ở trong nhà, vắt trên lưng ghế bành của MaDear (không thấy trên hình); bộ vest tím và hộp mũ trong nhà; điện thoại nứt của Ozella vẫn nằm trong ngăn kéo dưới đảo bếp nhà Carrington.
 **Móc:** Nolan quay về biệt thự giả vờ không biết gì: Jordyn có nhận ra anh đã biết hết?
 
 ### TẬP 13 · PLAY ALONG · cụm 37–39 · 18:00–19:30
 
 #### Cụm 037 · 18:00–18:30 · Play along · ESTATE_GATE · thứ Bảy 10/10/2026, 3:00 chiều
-**Nhân vật:** JORDYN (JO1), NOLAN (NO2); MOSES (MO1, không nói); người nền: không có
+**Nhân vật:** JORDYN (JO1B), NOLAN (NO2); MOSES (MO1, không nói); người nền: không có
 **Chức năng:** khán giả biết trước (Nolan đã biết hết, đóng vai chú rể vui vẻ; Jordyn tưởng mình thắng) + đặt vệt trứng khô (trả ở cụm 56) · **Cung bậc:** căng · **Vòng:** S13 khán giả biết trước · S7 gài bẫy
 
 - Cổng biệt thự gạch đỏ nhà Carrington ở Niskey Lake, 3 giờ chiều, nắng tháng 10 trong và gắt. Cổng sắt đen hai cánh đang mở rộng, cổng nhỏ cho người đi bộ đóng; chòi bảo vệ có camera nhỏ trên mái. Lối xe lát gạch đỏ vòng qua đài phun nước nhỏ hình tròn. Mặt tiền gạch đỏ hai tầng, bậc thềm đá 4 bậc lên cửa gỗ đôi, hai chậu cây xén tròn hai bên. Phía còn lại là hàng sồi và thông, bãi cỏ, lối gạch nhỏ vòng ra sau nhà.
 - Moses (44 tuổi, da nâu sâu Monk 8, đầu cạo, râu quai nón ngắn, to cao, tai nghe bộ đàm một bên tai; áo polo đen bảo vệ, quần âu đen) đứng ở cửa chòi bảo vệ, tay còn đặt trên nút mở cổng.
-- Một chiếc SUV đen không logo chạy chậm qua cổng, vòng qua đài phun nước, dừng trước bậc thềm. Nolan (34 tuổi, da nâu sâu Monk 8, râu đầy tỉa gọn, lineup sắc, tóc cắt sát hai bên có sóng trên đỉnh, cao vai rộng, đồng hồ dây da nâu; vest navy, sơ mi trắng mở cổ không cà vạt, quần âu navy cùng bộ) bước xuống từ ghế lái, đóng cửa xe. Tay phải anh chạm nhẹ lên ngực trái áo vest: trong túi trong có một tờ giấy trắng gấp làm ba (giấy luật sư đưa anh trưa nay, chưa mở ra trên hình).
-- Trên nền gạch giữa xe và bậc thềm vẫn còn những vệt lòng trứng khô vàng sậm và mảnh vỏ trứng nâu vỡ kẹt trong kẽ gạch từ chiều hôm qua.
-- Cửa gỗ đôi bật mở. Jordyn (29 tuổi, da nâu Monk 6 ánh vàng, tóc dài thẳng đen pha nâu sẫm uốn sóng lớn, chân tóc tự nhiên, mi dày, móng tay dài sơn đỏ rượu, nhẫn đính hôn kim cương lớn ở ngón áp út tay trái; váy len dệt kim đỏ rượu dài tay ôm vừa dài qua gối, giày cao gót mũi nhọn đỏ rượu, hoa tai vàng tròn nhỏ) chạy xuống bốn bậc thềm, ôm chầm lấy cổ anh.
+- Một chiếc SUV đen không logo chạy chậm qua cổng, dừng ngay trong cổng, cạnh chòi bảo vệ và cổng nhỏ. Nolan (34 tuổi, da nâu sâu Monk 8, râu đầy tỉa gọn, lineup sắc, tóc cắt sát hai bên có sóng trên đỉnh, cao vai rộng, đồng hồ dây da nâu; vest navy, sơ mi trắng mở cổ không cà vạt, quần âu navy cùng bộ) bước xuống từ ghế lái, đóng cửa xe. Tay phải anh chạm nhẹ lên ngực trái áo vest: trong túi trong có một tờ giấy trắng gấp làm ba (giấy luật sư đưa anh trưa nay, chưa mở ra trên hình).
+- Ngay trong cổng nhỏ, vụn vỏ trứng nâu còn kẹt trong kẽ gạch, vệt vàng đã nhạt loang sau mưa.
+- Cửa gỗ đôi bật mở. Jordyn (29 tuổi, da nâu Monk 6 ánh vàng, tóc dài thẳng đen pha nâu sẫm uốn sóng lớn, chân tóc tự nhiên, mi dày, móng tay dài sơn đỏ rượu, nhẫn đính hôn kim cương lớn ở ngón áp út tay trái; JO1B: áo len cashmere cổ lọ màu kem dài tay ôm vừa, chân váy bút chì da lộn đỏ rượu dài qua gối, thắt lưng da mảnh màu vàng đồng, giày cao gót mũi nhọn màu nude, hoa tai vàng tròn nhỏ) chạy xuống bốn bậc thềm, băng qua lối xe ra tận cổng, ôm chầm lấy cổ anh.
 - **JORDYN** (ngọt, ôm cổ anh): "Babe! I was so worried about your mama."
   *(VN) Anh yêu! Em lo cho mẹ anh quá trời.*
 - Nolan vòng một tay qua lưng cô. Mặt anh bình thản, mắt không cười.
@@ -1093,15 +1097,15 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 - Gót giày Nolan dẫm lên một mảnh vỏ trứng, vỡ lạo xạo. Anh nhìn xuống.
 - **NOLAN:** "Somebody dropped eggs out here."
   *(VN) Ai làm rơi trứng ở đây vậy.*
-- **JORDYN** (phẩy tay, kéo anh lên bậc thềm): "Just some help, babe. Moses will hose it."
+- **JORDYN** (phẩy tay, kéo anh về phía bậc thềm): "Just the help, babe. Moses will hose it down."
   *(VN) Đứa giúp việc nào đó thôi anh. Để Moses xịt nước rửa.*
-- Nolan để cô kéo lên bậc thứ nhất, rồi ngoảnh lại nhìn vệt trứng khô một lần nữa. Ở chòi bảo vệ, Moses cũng nhìn xuống vệt trứng, rồi cúi mặt.
+- Nolan để cô kéo đi vài bước dọc lối xe, rồi ngoảnh lại nhìn vụn vỏ trứng ở cổng nhỏ một lần nữa. Ở chòi bảo vệ, Moses cũng nhìn xuống vụn trứng, rồi cúi mặt.
 
-**Khung kết:** Nolan đứng trên bậc thềm đá dưới cùng, NO2, tay phải bị Jordyn kéo, đầu ngoảnh lại nhìn vệt trứng khô trên nền gạch; tờ giấy gấp làm ba vẫn trong túi trong áo vest; Jordyn đứng trên bậc thứ hai, JO1, hai tay nắm tay anh, cười; Moses đứng ở cửa chòi bảo vệ, MO1, mắt nhìn xuống nền gạch; SUV đen đậu trước bậc thềm, cạnh đài phun nước; cổng sắt hai cánh vẫn mở.
-**Móc:** Vệt trứng của mẹ anh còn nằm ngay dưới chân, Nolan còn giả vờ được bao lâu?
+**Khung kết:** Nolan đứng trên lối xe, cách cổng nhỏ vài bước, NO2, tay phải bị Jordyn kéo về phía nhà, đầu ngoảnh lại nhìn vụn vỏ trứng trong kẽ gạch ở cổng nhỏ; tờ giấy gấp làm ba vẫn trong túi trong áo vest; Jordyn đứng trước anh một bước, JO1B, hai tay nắm tay anh, cười; Moses đứng ở cửa chòi bảo vệ, MO1, mắt nhìn xuống nền gạch; SUV đen đậu ngay trong cổng, cạnh chòi bảo vệ; cổng sắt hai cánh vẫn mở.
+**Móc:** Vụn trứng của mẹ anh còn nằm ngay ở cổng, Nolan còn giả vờ được bao lâu?
 
 #### Cụm 038 · 18:30–19:00 · Boilerplate · ESTATE_STUDY · thứ Bảy 10/10/2026, 3:30 chiều
-**Nhân vật:** REGINA (RG2), NOLAN (NO2), LOWELL (LO1)
+**Nhân vật:** REGINA (RG2), NOLAN (NO2), LOWELL (LO1); người nền: không có
 **Chức năng:** dồn ép (Regina giục ký trước khi nâng ly) + Nolan lặng lẽ lấy trang 7 + mầm luật (ngân hàng gọi cho Lowell) · **Cung bậc:** căng · **Vòng:** S13 · S7 · đặt trang 7 trong túi áo (trả ở cụm 46–47)
 
 - Phòng làm việc của Lowell, ánh chiều vàng qua cửa sổ nhìn ra lối xe, đèn bàn đồng đã bật. Bàn gỗ óc chó ở giữa phòng, hai ghế khách trước bàn; kệ sách sau bàn có bằng đại học HBCU của Lowell đóng khung và mấy mô hình xe cổ; cửa gỗ ra hành lang ở bức tường đối diện cửa sổ.
@@ -1127,7 +1131,7 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 **Móc:** Ngân hàng gọi cho Lowell vì chuyện gì mà Regina vội kéo chồng ra khỏi phòng?
 
 #### Cụm 039 · 19:00–19:30 · Second mortgage · ESTATE_FOYER (chân cầu thang) · liền
-**Nhân vật:** LOWELL (LO1), REGINA (RG2)
+**Nhân vật:** LOWELL (LO1), REGINA (RG2); người nền: không có
 **Chức năng:** lộ mảnh ghép (Lowell không biết gì về khoản vay thứ hai) + mầm luật · **Cung bậc:** căng → lạnh gáy · **Vòng:** S13 · M4 móc cuối tập · đặt hồ sơ khoản vay 1,8 triệu (trả ở cụm 48–49)
 
 - Tiền sảnh hai tầng, nắng chiều xiên qua cửa sổ trên cửa gỗ đôi, đèn chùm pha lê chưa bật. Cầu thang cong lan can sắt lên lầu; sàn đá cẩm thạch trắng vân xám sạch bóng; bàn console gỗ, gương lớn phía trên, dưới bàn là chồng thư ngân hàng chưa mở; vòm cửa sang phòng khách treo tranh của hoạ sĩ da đen và ảnh Jordyn đội vương miện cotillion năm 17 tuổi.
@@ -1196,8 +1200,8 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
   *(VN) Bà ấy tới gặp con trai mình. Lùi lại.*
 - **JORDYN** (nhìn Danae từ đầu tới chân): "And you came in scrubs. To my engagement."
   *(VN) Còn cô thì mặc đồ scrubs. Tới lễ đính hôn của tôi.*
-- **JORDYN** (mỉm cười ngọt): "Let me help you match the dress code."
-  *(VN) Để tôi giúp cô mặc cho đúng màu tiệc.*
+- **JORDYN** (mỉm cười ngọt): "Let me help you dress for my party."
+  *(VN) Để tôi giúp cô ăn mặc cho hợp tiệc của tôi.*
 - Jordyn hắt cả ly vang đỏ vào mặt và ngực Danae. Rượu đỏ chảy từ trán xuống cằm, loang từ cổ áo scrubs xuống ngực, lọn tóc trước trán ướt sũng (DA3 → DA3W). Danae nhắm mắt, đứng yên, không lau. Khách đứng im, có người đưa tay lên che miệng.
 - **OZELLA** (giọng nhỏ, rõ từng chữ): "That's enough. That's enough now."
   *(VN) Đủ rồi. Đủ rồi đấy.*
@@ -1227,7 +1231,7 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
   *(VN) Moses. Đưa bà ta ra ngoài. Nhẹ tay thôi.*
 - **JORDYN** (hất cằm về phía hông nhà): "Side gate. That's where the help goes."
   *(VN) Ra cổng hông. Chỗ của người làm là ở đó.*
-- Moses giơ bàn tay to lên, định đặt xuống vai bà. Tay ông dừng giữa không trung, chưa chạm.
+- Moses giơ bàn tay to lên, định đặt xuống vai bà. Tay anh dừng giữa không trung, chưa chạm.
 - **NOLAN** (giọng từ phía lều, to và rõ, vang khắp bãi cỏ): "Moses. Let her go."
   *(VN) Moses. Buông bà ấy ra.*
 - Moses hạ tay xuống, lùi một bước. Các ngón tay của Regina lỏng ra, buông cổ tay Ozella. Đám khách dưới lều dạt ra hai bên, mở thành một lối. Nolan (34 tuổi, da nâu sâu Monk 8, râu đầy tỉa gọn, lineup sắc, tóc cắt sát hai bên có sóng trên đỉnh, cao vai rộng, đồng hồ dây da nâu; vest navy, sơ mi trắng mở cổ không cà vạt, quần âu navy cùng bộ) đi thẳng qua lối đó, băng qua bãi cỏ về phía mẹ.
@@ -1270,8 +1274,8 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 **Chức năng:** receipt 1 (video gara + ghi âm trong kho thức ăn trên màn hình tiệc) → chối "AI" · **Cung bậc:** hả hê · **Vòng:** S8 vạch mặt công khai · trả cụm 12–14, 29, 31
 
 - Bãi cỏ dưới lều trắng mở hai bên, đèn dây vàng, trời xanh thẫm gần tối hẳn. Bàn bánh cưới và tháp ly sâm banh trên bàn (không ai cầm); màn hình trình chiếu trên giá ba chân cạnh bàn bánh, sau lưng Jordyn và Regina. Khoảng 40 khách (dạ phục và vest màu tối, không ai mặc đỏ rượu) đứng thành nhóm, không ai cầm ly; 2 nhân viên phục vụ sơ mi trắng cạnh bàn bánh.
-- Danae (26 tuổi, da nâu sâu Monk 8 ánh vàng ấm, tóc tết box braids cỡ vừa búi thấp sau gáy, nốt ruồi nhỏ dưới mắt phải; đồ scrubs xanh sage, áo thun dài tay trắng mặc trong, cardigan len hồng trầm, giày thể thao trắng cũ; vệt rượu vang đỏ loang từ cổ áo xuống ngực, lọn tóc trước trán ướt, áo vest navy của Nolan khoác ngoài vai) chạm ngón tay lên điện thoại, kết nối không dây với màn hình.
-- Màn hình trình chiếu chuyển từ ảnh cặp đôi sang video gara quay lén hôm qua (INSERT ghép lúc dựng, dùng lại cảnh cụm 13–14, không quay mới trong cụm này): Jordyn đặt bát inox của chó có đồ thừa xuống nền xi măng trước chân bà cụ; bà cụ đẩy bát ra; Regina giơ tay tát bà. Rồi tiếng ghi âm trong kho thức ăn vang qua loa của lều (INSERT âm thanh ghép lúc dựng): giọng Regina "That's his mother... A confused old woman. And a thief."; giọng Jordyn "I put my hand on her. I broke her phone."; giọng Regina "Thirty days... Then the bank takes this house."
+- Danae (26 tuổi, da nâu sâu Monk 8 ánh vàng ấm, tóc tết box braids cỡ vừa búi thấp sau gáy, nốt ruồi nhỏ dưới mắt phải; đồ scrubs xanh sage, áo thun dài tay trắng mặc trong, cardigan len hồng trầm, giày thể thao trắng cũ; vệt rượu vang đỏ loang từ cổ áo xuống ngực, lọn tóc trước trán ướt, áo vest navy của Nolan khoác ngoài vai) chạm ngón tay lên điện thoại, kết nối không dây với màn hình (Nolan đã cho người lo âm thanh ánh sáng kết nối sẵn từ chiều).
+- Màn hình trình chiếu chuyển từ ảnh cặp đôi sang video gara quay lén hôm qua (INSERT ghép lúc dựng, dùng lại cảnh cụm 13–14, không quay mới trong cụm này): Jordyn đặt bát inox của chó có đồ thừa xuống nền xi măng trước chân bà cụ; bà cụ đẩy bát ra; Regina giơ tay tát bà. Rồi tiếng ghi âm trong kho thức ăn vang qua loa của lều (INSERT âm thanh ghép lúc dựng): giọng Regina "That's his mother... A confused old woman. And a thief."
 - Mya (24 tuổi, da nâu Monk 6, tóc tết box braids dài buộc cao, móng ngắn sơn đen; đầm midi satin đen dài tay, giày cao gót đen) vô thức xoay điện thoại trên tay cầm chống rung về phía màn hình; buổi livestream đang thu trọn đoạn video.
 - Khách đồng loạt quay sang nhìn hai mẹ con nhà Carrington. Vài nhóm khách đứng gần lặng lẽ lùi ra xa họ một bước.
 - Ozella (66 tuổi, da nâu rất sâu Monk 9 ánh đỏ ấm, tóc bạc tự nhiên ngắn ép mềm rẽ ngôi bên lộ dưới vành mũ, nếp nhăn sâu ở khoé mắt, bàn tay to khớp ngón thô; bộ vest váy tím hoàng gia dài qua gối, áo trong lụa kem cổ kín, mũ nhà thờ rộng vành cùng màu tím, trâm vàng nhỏ hình con gà mái trên ve áo, găng tay ren trắng ngắn, giày gót thấp đen bóng; ví cầm tay nhỏ màu đen trong tay trái) nhìn thẳng vào Regina. Nolan (34 tuổi, da nâu sâu Monk 8, râu đầy tỉa gọn, lineup sắc, tóc sóng trên đỉnh, đồng hồ dây da nâu; sơ mi trắng mở cổ, quần âu navy, không áo vest) đứng bên phải mẹ, hàm siết lại.
@@ -1288,11 +1292,11 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 - Sau lưng đám khách, cửa kính sau nhà mở ra. Glenda (53 tuổi, da nâu Monk 7, tóc ngắn tự nhiên lốm đốm bạc, kính đọc sách đeo dây trước ngực; đầm sơ mi đen đồng phục dài tay dài qua gối, cardigan đen, giày bệt đen) bước xuống bậc đá, tay phải cầm một chiếc điện thoại cũ màn hình nứt mạng nhện.
 
 **Khung kết:** Regina đứng cạnh bàn bánh, RG2, mặt lạnh, hai tay đan trước bụng; Jordyn đứng cạnh mẹ, JO2, quay về phía Nolan; Ozella đứng giữa khoảng cỏ, OZ3, ví cầm tay đen trong tay trái; Nolan bên phải bà, NO2 không áo vest; Danae bên trái bà, DA3J, điện thoại trong tay phải; màn hình trình chiếu dừng ở khung hình cuối của video gara (INSERT ghép lúc dựng); Mya, MY2, điện thoại quay về phía màn hình; Moses đứng cạnh cột lều, MO2; Glenda đang xuống bậc đá cuối cùng, GL1, chiếc điện thoại nứt trong tay phải; khách lùi xa hai mẹ con Carrington.
-**Móc:** Glenda, người đã giấu điện thoại của bà, giờ mang nó ra đây để làm gì?
+**Móc:** Glenda, người biết Regina giấu điện thoại của bà ở đâu, giờ mang nó ra đây để làm gì?
 
 #### Cụm 045 · 22:00–22:30 · The drawer · ESTATE_LAWN · liền
 **Nhân vật:** GLENDA (GL1), JORDYN (JO2), REGINA (RG2), OZELLA (OZ3); NOLAN (NO2, không nói); DANAE (DA3J, không nói); MYA (MY2, không nói, đang livestream); MOSES (MO2, không nói); người nền: khoảng 40 khách tiệc thấy trên hình (tổng 150), đứng thành nhóm, không cầm ly (không nói); 2 nhân viên phục vụ tiệc mặc sơ mi trắng đứng cạnh bàn bánh (không nói)
-**Chức năng:** receipt 2 (điện thoại nứt trong ngăn kéo + lời khai về chiếc nhẫn) → chối "bitter" · tay sai thứ nhất lật · **Cung bậc:** hả hê · **Vòng:** S8 · M3 đổi kẻ địch · M4 móc cuối tập · trả cụm 3, 10, 16, 21
+**Chức năng:** receipt 2 (điện thoại nứt trong ngăn kéo + lời khai về chiếc nhẫn) → chối "bitter" · tay sai thứ nhất lật · **Cung bậc:** hả hê · **Vòng:** S8 · M3 đổi kẻ địch · M4 móc cuối tập · trả cụm 3, 10, 11, 16, 21
 
 - Bãi cỏ dưới lều trắng mở hai bên, đèn dây vàng, trời xanh thẫm gần tối hẳn. Bàn bánh cưới và tháp ly sâm banh trên bàn (không ai cầm), màn hình trình chiếu trên giá ba chân dừng ở khung hình cuối của video gara (INSERT ghép lúc dựng). Khoảng 40 khách (dạ phục và vest màu tối, không ai mặc đỏ rượu) đứng thành nhóm, không ai cầm ly.
 - Glenda (53 tuổi, da nâu Monk 7, tóc ngắn tự nhiên lốm đốm bạc, kính đọc sách đeo dây trước ngực; đầm sơ mi đen đồng phục dài tay dài qua gối, cardigan đen, giày bệt đen) đi xuyên qua đám khách đang dạt ra, dừng trước mặt Ozella, đặt chiếc điện thoại cũ màn hình nứt mạng nhện vào bàn tay phải đeo găng ren của bà.
@@ -1331,8 +1335,8 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 - **MOSES:** "Watched it all last night. Couldn't sleep."
   *(VN) Tôi xem đi xem lại cả đêm qua. Không ngủ được.*
 - Moses quay sang Ozella (66 tuổi, da nâu rất sâu Monk 9 ánh đỏ ấm, tóc bạc tự nhiên ngắn ép mềm rẽ ngôi bên lộ dưới vành mũ, nếp nhăn sâu ở khoé mắt, bàn tay to khớp ngón thô; bộ vest váy tím hoàng gia dài qua gối, áo trong lụa kem cổ kín, mũ nhà thờ rộng vành cùng màu tím, trâm vàng nhỏ hình con gà mái trên ve áo, găng tay ren trắng ngắn, giày gót thấp đen bóng; điện thoại nứt và ví cầm tay nhỏ màu đen trong tay trái), cúi đầu.
-- **MOSES:** "Miss Ozella, I threw your suitcase. I'm sorry."
-  *(VN) Bà Ozella, tôi đã ném vali của bà. Tôi xin lỗi.*
+- **MOSES:** "Miss Ozella, I lied at that gate. I threw your suitcase. I'm sorry."
+  *(VN) Bà Ozella, tôi đã nói dối ở cổng. Tôi đã ném vali của bà. Tôi xin lỗi.*
 - **OZELLA** (gật nhẹ một cái): "I hear you, Moses."
   *(VN) Tôi nghe rồi, Moses.*
 - Jordyn (29 tuổi, da nâu Monk 6 ánh vàng, tóc dài thẳng đen pha nâu sẫm uốn sóng lớn, mi dày, móng tay dài sơn đỏ rượu, nhẫn đính hôn kim cương lớn; đầm dạ hội satin đỏ rượu dài chấm đất, dài tay, cổ thuyền kín, hoa tai kim cương giọt) lùi một bước, tay áp lên ngực. Mya (24 tuổi, tóc tết box braids dài buộc cao; đầm midi satin đen dài tay, giày cao gót đen) vẫn giơ điện thoại quay, mắt liếc sang chị.
@@ -1388,8 +1392,8 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 - **REGINA:** "You can't-- that's our home!"
   *(VN) Cậu không thể... đó là nhà của chúng tôi!*
 - Nolan quay sang mẹ, giọng dịu hẳn xuống.
-- **NOLAN:** "It was. Mama, this is your house now."
-  *(VN) Đã từng là. Mẹ, giờ đây là nhà của mẹ.*
+- **NOLAN:** "For thirty more days. Then it's Mama's."
+  *(VN) Thêm ba mươi ngày nữa thôi. Rồi nó là của mẹ.*
 - Ozella (66 tuổi, da nâu rất sâu Monk 9 ánh đỏ ấm, tóc bạc tự nhiên ngắn ép mềm rẽ ngôi bên lộ dưới vành mũ, nếp nhăn sâu ở khoé mắt, bàn tay to khớp ngón thô; bộ vest váy tím hoàng gia dài qua gối, áo trong lụa kem cổ kín, mũ nhà thờ rộng vành cùng màu tím, trâm vàng nhỏ hình con gà mái trên ve áo, găng tay ren trắng ngắn, giày gót thấp đen bóng; điện thoại nứt và ví cầm tay nhỏ màu đen trong tay trái) đưa mắt nhìn khắp lều một lượt.
 - **OZELLA** (khô, chậm): "Then everybody wipe your feet."
   *(VN) Vậy thì ai bước vào cũng nhớ chùi chân.*
@@ -1505,8 +1509,8 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
   *(VN) Ai?*
 - **MYA:** "She never said a name. Just 'our friend.'"
   *(VN) Mẹ chưa bao giờ nói tên. Chỉ gọi là "bạn của chúng ta".*
-- **MYA:** "He wrote page seven. He kept you in Seattle."
-  *(VN) Người đó viết trang bảy. Người đó giữ anh ở lại Seattle.*
+- **MYA:** "He wrote page seven. He tried to keep you in Seattle."
+  *(VN) Người đó viết trang bảy. Người đó tìm cách giữ anh ở lại Seattle.*
 - Nolan quay sang Regina (57 tuổi, da nâu Monk 7, tóc bob ngắn màu bạch kim ép thẳng, vòng cổ ngọc trai sát cổ; đầm nhung đỏ rượu dài tay dài chấm đất, hoa tai vàng to), đứng giữa 2 cảnh sát. Regina mím môi, nhìn đi chỗ khác, ra mặt hồ tối.
 - Ozella (66 tuổi, da nâu rất sâu Monk 9 ánh đỏ ấm, tóc bạc ngắn ép mềm lộ dưới vành mũ; bộ vest váy tím hoàng gia, áo trong lụa kem cổ kín, mũ nhà thờ rộng vành tím, trâm vàng hình con gà mái, găng tay ren trắng ngắn; điện thoại nứt và ví cầm tay đen trong tay trái) nheo mắt nhìn Regina, rồi nhìn con trai. Danae (tóc tết box braids búi thấp; đồ scrubs xanh sage, vệt rượu đỏ trên ngực, áo vest navy của Nolan trên vai; điện thoại trong tay phải) đứng cạnh bà. Lowell (vest xám, kính gọng vàng; xấp hồ sơ trong tay) nhìn vợ như nhìn người lạ. Glenda (đầm sơ mi đen đồng phục) và Moses (vest đen) đứng sau Danae.
 - Detective Farris (46 tuổi, nữ, da nâu sâu Monk 8, tóc tết cornrow sát đầu buộc thấp sau gáy; blazer nâu, sơ mi xanh nhạt, quần âu đen, phù hiệu thám tử ở thắt lưng) bước tới trước mặt Regina.
@@ -1569,22 +1573,22 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 ### TẬP 19 · CUFFS · cụm 55–57 · 27:00–28:30
 
 #### Cụm 055 · 27:00–27:30 · Cuffs · ESTATE_FOYER · thứ Bảy 10/10/2026, 9:05 tối
-**Nhân vật:** FARRIS (FA1), OZELLA (OZ3), REGINA (RG2, bị còng ở cửa), NOLAN (NO2, không áo vest); JORDYN (JO2, không nói, bị còng), DANAE (DA3J, không nói), LOWELL (LO2, không nói), MYA (MY2, không nói), MOSES (MO2, không nói), GLENDA (GL1, không nói); người nền: 2 cảnh sát mặc đồng phục (không nói)
+**Nhân vật:** FARRIS (FA1), OZELLA (OZ3), REGINA (RG2, bị còng ở cửa), NOLAN (NO2, không áo vest); JORDYN (JO2, không nói, bị còng), DANAE (DA3J, không nói), LOWELL (LO2, không nói), MYA (MY2, không nói), MOSES (MO2, không nói), GLENDA (GL1, không nói); người nền: 2 cảnh sát mặc đồng phục (không nói); khoảng 12 khách tiệc còn nán lại đứng thành nhóm sau vòm cửa, không cầm ly (không nói)
 **Chức năng:** công lý pháp lý (còng tay hai mẹ con, đọc to từng tội danh) + Ozella tự nộp đơn + Regina thả móc "không chỉ mình tôi" · **Cung bậc:** công lý, hả hê lạnh → gợn gáy · **Vòng:** S3 công lý · M4 móc phần 2 · trả cú tát cụm 3, 14, cái điện thoại cụm 3, báo trộm sai cụm 16–17
 
 - Tiền sảnh hai tầng nhà Carrington, đêm. Đèn chùm pha lê sáng rực giữa trần, các góc tường chìm trong tối. Bên trái khung hình là cửa gỗ đôi mở toang ra bậc thềm (bức tường 1), ngoài kia đèn cột cổng vàng hắt lên mặt gạch; thẳng phía trước là cầu thang cong với lan can sắt uốn lên lầu (bức tường 2); bên phải là bàn console gỗ, gương lớn, dưới bàn là chồng thư ngân hàng chưa mở (bức tường 3); sau lưng máy quay là vòm cửa sang phòng khách và hành lang ra bếp, tranh hoạ sĩ da đen, ảnh Jordyn đội vương miện cotillion (bức tường 4). Dưới chân mọi người là sàn đá cẩm thạch trắng vân xám, sáng bóng.
 - Giữa sàn, trên đúng mảng đá bà đã quỳ cọ chiều hôm qua, Ozella (66 tuổi, da nâu rất sâu (Monk 9) ánh đỏ ấm, tóc bạc tự nhiên ngắn ép mềm rẽ ngôi bên dưới vành mũ, nếp nhăn khoé mắt sâu, bàn tay to khớp ngón thô của người làm vườn; OZ3: bộ vest váy tím hoàng gia dài qua gối, áo trong lụa kem cổ kín, mũ nhà thờ rộng vành cùng màu tím, trâm vàng nhỏ hình con gà mái trên ve áo, găng tay ren trắng ngắn, giày gót thấp đen bóng) đứng thẳng lưng. Tay phải bà cầm chiếc điện thoại cũ màn hình nứt mạng nhện, tay trái cầm chiếc ví cầm tay nhỏ màu đen đi nhà thờ.
 - Trước mặt bà một bước, Jordyn (29 tuổi, da nâu (Monk 6) ánh vàng, tóc dài thẳng đen pha nâu sẫm uốn sóng lớn, natural hairline, mi dày, móng tay dài sơn đỏ rượu, nhẫn đính hôn kim cương lớn; JO2: đầm dạ hội satin đỏ rượu dài chấm đất, dài tay, cổ thuyền kín, hoa tai kim cương giọt) đứng chết lặng, bàn tay trái áp lên má vừa bị tát trả, mascara nhoè dưới mắt.
 - Detective Farris (46 tuổi, nữ, da nâu sâu (Monk 8), tóc tết cornrow sát đầu buộc thấp sau gáy; FA1: blazer nâu, sơ mi xanh nhạt, quần âu đen, phù hiệu thám tử ở thắt lưng) bước tới bên Jordyn, tháo đôi còng ở thắt lưng. Bà nói khẽ, bình tĩnh, nhẹ nhàng gỡ tay Jordyn khỏi má rồi khép đôi còng kim loại quanh hai cổ tay cô trước bụng. Jordyn không chống cự; chiếc nhẫn kim cương vẫn lấp lánh trên ngón tay bị còng.
-- **FARRIS** (giọng phẳng, kiên nhẫn): "Battery on a person over sixty-five. Twice, on camera."
-  *(VN) Hành hung một người trên sáu mươi lăm tuổi. Hai lần, camera ghi lại cả.*
+- **FARRIS** (giọng phẳng, kiên nhẫn): "Battery on a person over sixty-five. On the gate camera."
+  *(VN) Hành hung một người trên sáu mươi lăm tuổi. Camera cổng ghi lại cả.*
 - **FARRIS:** "False report of theft. Damage to property."
   *(VN) Báo trộm sai sự thật. Phá hoại tài sản.*
 - Ở ngưỡng cửa gỗ đôi, Regina (57 tuổi, da nâu (Monk 7), tóc bob ngắn màu bạch kim ép thẳng, vòng ngọc trai sát cổ; RG2: đầm nhung đỏ rượu dài tay dài chấm đất, cổ tròn kín, hoa tai vàng to) đứng giữa hai cảnh sát mặc đồng phục xanh đậm (không chữ đọc được). Một người khép đôi còng mềm quanh hai cổ tay bà trước bụng; bà không chống cự, cằm vẫn ngẩng cao. Farris quay đầu về phía bà.
 - **FARRIS:** "Mrs. Carrington. Forgery. Bank fraud. Battery in your garage."
   *(VN) Bà Carrington. Giả mạo chữ ký. Lừa đảo ngân hàng. Hành hung trong gara nhà bà.*
 - Nolan (34 tuổi, da nâu sâu (Monk 8), râu đầy tỉa gọn, lineup sắc, tóc cắt sát hai bên có sóng trên đỉnh, cao vai rộng, đồng hồ dây da nâu; NO2 đã cởi áo vest: sơ mi trắng mở cổ không cà vạt, quần âu navy, giày da đen) đứng cách mẹ hai bước về phía cầu thang. Sát sau vai Ozella, Danae (26 tuổi, da nâu sâu (Monk 8) ánh vàng ấm, tóc tết box braids cỡ vừa búi thấp sau gáy, nốt ruồi nhỏ dưới mắt phải, mặt mộc; DA3J: đồ scrubs xanh sage, áo cổ chữ V tay ngắn và quần dài, áo thun dài tay trắng mặc trong, cardigan len hồng trầm khoác ngoài, vệt rượu vang đỏ loang từ cổ áo xuống ngực, lọn tóc trước trán còn ẩm, áo vest navy của Nolan khoác trên vai) đứng thẳng, hai tay giữ hai vạt áo vest.
-- Ở mép phải khung hình, ngay trong vòm cửa phòng khách (đi vào từ bãi cỏ), Lowell (61 tuổi, da nâu sâu (Monk 8), tóc muối tiêu cắt sát, ria muối tiêu dày, kính gọng vàng; LO2: vest xám, sơ mi trắng, cà vạt xám) và Mya (24 tuổi, da nâu (Monk 6), tóc tết box braids dài buộc cao, móng tay ngắn sơn đen; MY2: đầm midi satin đen dài tay, giày cao gót đen) vừa bước vào từ vòm cửa, đứng sát nhau; Mya buông thõng điện thoại trên tay cầm chống rung ngang hông, màn hình tắt. Cạnh cửa gỗ đôi, Moses (44 tuổi, da nâu sâu (Monk 8), đầu cạo, râu quai nón ngắn, to cao, tai nghe bộ đàm một bên tai; MO2: vest đen, sơ mi đen, quần âu đen) và Glenda (53 tuổi, da nâu (Monk 7), tóc ngắn tự nhiên lốm đốm bạc, kính đọc sách đeo dây trước ngực; GL1: đầm sơ mi đen đồng phục dài tay dài qua gối, cardigan đen, giày bệt đen) đứng nép sát tường.
+- Ở mép phải khung hình, cạnh bàn console (đã đi vào từ vòm cửa phòng khách ở cụm 53), Lowell (61 tuổi, da nâu sâu (Monk 8), tóc muối tiêu cắt sát, ria muối tiêu dày, kính gọng vàng; LO2: vest xám, sơ mi trắng, cà vạt xám) và Mya (24 tuổi, da nâu (Monk 6), tóc tết box braids dài buộc cao, móng tay ngắn sơn đen; MY2: đầm midi satin đen dài tay, giày cao gót đen) đứng sát nhau; Mya buông thõng điện thoại trên tay cầm chống rung ngang hông, màn hình tắt. Cạnh cửa gỗ đôi, Moses (44 tuổi, da nâu sâu (Monk 8), đầu cạo, râu quai nón ngắn, to cao, tai nghe bộ đàm một bên tai; MO2: vest đen, sơ mi đen, quần âu đen) và Glenda (53 tuổi, da nâu (Monk 7), tóc ngắn tự nhiên lốm đốm bạc, kính đọc sách đeo dây trước ngực; GL1: đầm sơ mi đen đồng phục dài tay dài qua gối, cardigan đen, giày bệt đen) đứng nép sát tường.
 - **OZELLA** (alto miền Nam chậm, rõ từng chữ): "I'm pressing charges. Every one."
   *(VN) Tôi nộp đơn kiện. Tội nào cũng kiện.*
 - Regina ngoảnh lại ở ngưỡng cửa, nhìn thẳng Ozella, khoé môi nhếch lên.
@@ -1623,7 +1627,7 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 - Trong tay Nolan, điện thoại sáng lên, rung (INSERT màn hình ghép lúc dựng: cuộc gọi đến *"Graham"*). Nolan nhìn xuống màn hình, mặt không đổi.
 
 **Khung kết:** Moses MO2 đứng giữa lối xe cạnh đài phun nước, vòi nước xanh trong tay, nước chảy trên mảng gạch đã sạch; Ozella OZ3 đứng dưới chân bậc thềm, nhìn mảng gạch; Lowell LO2 đứng trước bà một bước, hai tay buông; Mya MY2 ngồi trên bậc thềm thứ hai, ôm gối; Glenda GL1 đứng trong khung cửa gỗ đôi; Nolan NO2 đứng sau mẹ ba bước, điện thoại sáng trong tay phải; Danae DA3J đứng cạnh anh, áo vest navy trên vai; ngoài cổng, đèn xe cảnh sát đã khuất.
-**Móc:** Gần mười giờ đêm, Graham gọi — người "bạn tốt" muốn gì đúng lúc này?
+**Móc:** Hơn chín giờ đêm, Graham gọi — người "bạn tốt" muốn gì đúng lúc này?
 
 #### Cụm 057 · 28:00–28:30 · Pay them right · ESTATE_GATE · liền
 **Nhân vật:** NOLAN (NO2, không áo vest), DANAE (DA3J → DA3W), OZELLA (OZ3); MOSES (MO2, không nói), LOWELL (LO2, không nói), MYA (MY2, không nói)
@@ -1645,7 +1649,7 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
   *(VN) Hỏi lại tôi khi mẹ anh đã về tới nhà.*
 - Dưới chân bậc thềm, Ozella (66 tuổi, da nâu rất sâu (Monk 9) ánh đỏ ấm, tóc bạc tự nhiên ngắn ép mềm rẽ ngôi bên dưới vành mũ, nếp nhăn khoé mắt sâu, bàn tay to khớp ngón thô; OZ3: bộ vest váy tím hoàng gia dài qua gối, áo trong lụa kem cổ kín, mũ nhà thờ rộng vành cùng màu tím, trâm vàng nhỏ hình con gà mái trên ve áo, găng tay ren trắng ngắn, giày gót thấp đen bóng) giơ chiếc ví cầm tay đen lên gọi. Cạnh chậu cây, Moses (44 tuổi, da nâu sâu (Monk 8), đầu cạo, râu quai nón ngắn, to cao, tai nghe bộ đàm một bên tai; MO2: vest đen, sơ mi đen) đang cuộn vòi nước. Lowell (61 tuổi, da nâu sâu (Monk 8), tóc muối tiêu cắt sát, ria muối tiêu dày, kính gọng vàng; LO2: vest xám, sơ mi trắng, cà vạt xám nới lỏng) đứng cạnh bậc thềm; Mya (24 tuổi, da nâu (Monk 6), tóc tết box braids dài buộc cao; MY2: đầm midi satin đen dài tay) vẫn ngồi ôm gối trên bậc thứ hai.
 - **OZELLA** (to, rõ, ấm): "Danae! You're driving me. My quilt's at your house."
-  *(VN) Danae! Con chở bác về. Tấm chăn của bác đang ở nhà con.*
+  *(VN) Danae! Cháu chở bà về. Tấm chăn của bà đang ở nhà cháu.*
 - Ozella bước xuống lối xe, đi thẳng về phía cổng nhỏ, không ngoái lại căn biệt thự. Nolan nhìn mẹ, rồi nhìn Danae, bật cười khẽ.
 
 **Khung kết:** Ozella OZ3 đi giữa lối xe ướt về phía cổng nhỏ, ví cầm tay đen trong tay; Danae DA3W đứng ở cổng nhỏ mở, tay đặt trên song sắt, quay đầu nhìn bà; Nolan NO2 đứng cách Danae một bước, áo vest navy vắt trên cẳng tay trái, đang cười; Moses MO2 cạnh chậu cây xén tròn, ôm cuộn vòi nước; Lowell LO2 đứng cạnh bậc thềm; Mya MY2 ngồi trên bậc thứ hai; ngoài cổng, sedan bạc cũ dưới đèn đường.
@@ -1663,8 +1667,8 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 - Trước mỗi ghế là một bảng tên nhỏ bằng mica. Cận một giây bảng tên trước ghế Graham (INSERT ghép lúc dựng): *Graham E. Pryce — COO*.
 - Ms. Barrow (62 tuổi, da nâu (Monk 7), tóc tự nhiên bạc cắt ngắn gọn, kính gọng đen; BA1: vest xám tro, áo lụa trắng cổ kín) ngồi ở đầu bàn, lưng quay về vách kính, một tập hồ sơ mở trước mặt, bút trong tay. Phía xa bàn, hai thành viên hội đồng ngồi im (một ông khoảng 60 tuổi da nâu sâu, tóc bạc cắt sát, vest xám; một bà khoảng 50 tuổi da nâu, tóc tự nhiên búi thấp, vest navy), trước mặt mỗi người một tập hồ sơ.
 - Giữa cạnh bàn bên trái, Nolan (34 tuổi, da nâu sâu (Monk 8), râu đầy tỉa gọn, lineup sắc, tóc cắt sát hai bên có sóng trên đỉnh, cao vai rộng, đồng hồ dây da nâu; NO3: vest than chì, sơ mi xanh nhạt, cà vạt navy) ngồi thẳng, hai tay đan trên mặt bàn, mặt bình thản. Ngay bên phải anh, Graham (35 tuổi, da nâu (Monk 6) ánh ô liu, đầu cạo sạch, ria mép nối râu cằm tỉa vuông, nụ cười rộng răng đều, đồng hồ thép; GR2: vest than chì, sơ mi trắng, cà vạt xám bạc) ngồi nghiêng người về phía Nolan, một tay khoác hờ lên lưng ghế của anh, vẻ mặt lo lắng thân tình.
-- **BARROW** (phẳng, theo điều lệ): "Two hundred thousand views. 'Thief granny.' Investors called."
-  *(VN) Hai trăm nghìn lượt xem. "Bà già ăn trộm." Các nhà đầu tư đã gọi điện.*
+- **BARROW** (phẳng, theo điều lệ): "Two million views. 'Thief granny.' Investors called."
+  *(VN) Hai triệu lượt xem. "Bà già ăn trộm." Các nhà đầu tư đã gọi điện.*
 - **BARROW:** "And your statement says your mother is unwell."
   *(VN) Và thông cáo của anh nói mẹ anh không được khoẻ.*
 - **NOLAN** (bình tĩnh): "I never approved that statement."
@@ -1725,8 +1729,8 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
   *(VN) Đề nghị cho nghỉ việc tạm thời. Ông Pryce?*
 - **GRAHAM** (mỉm cười, giơ hai bàn tay lên): "Withdrawn. Obviously."
   *(VN) Tôi rút lại. Hiển nhiên rồi.*
-- **BARROW** (gập tập hồ sơ): "Motion fails. Nolan stays. Retract that statement today."
-  *(VN) Đề nghị không thông qua. Nolan ở lại. Rút bản thông cáo đó ngay hôm nay.*
+- **BARROW** (gập tập hồ sơ): "Motion withdrawn. Nolan stays. Retract that statement today."
+  *(VN) Đề nghị đã rút. Nolan ở lại. Rút bản thông cáo đó ngay hôm nay.*
 - Graham bước vòng qua ghế, dang tay ôm Nolan, vỗ lưng anh hai cái thật kêu.
 - **GRAHAM** (cười rộng, ấm áp): "Told you it'd work out, brother."
   *(VN) Đã bảo anh rồi mà, mọi chuyện sẽ ổn thôi, người anh em.*
@@ -1803,7 +1807,7 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
   *(VN) Với mức đó á? Tôi nhận làm thêm giờ luôn.*
 - Cô ngẩng lên nhìn ảnh MaDear đội mũ nhà thờ trên kệ.
 - **DANAE** (nhỏ giọng, ấm): "MaDear. You'd have liked her."
-  *(VN) Bà ơi. Bà mà gặp bác ấy chắc quý lắm.*
+  *(VN) Bà ơi. Bà mà gặp bà Ozella chắc quý lắm.*
 - Ngón tay cô lướt sang một bản tin (INSERT màn hình ghép lúc dựng: *"Sponsors drop influencer Jordyn Carrington"*).
 - **DANAE** (nhướn mày, giọng khô): "Mm. Not my business."
   *(VN) Ừm. Không phải việc của mình.*
@@ -1811,7 +1815,7 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
   *(VN) Nhưng mình sẽ đọc lại lần nữa.*
 - Điện thoại rung; một tin nhắn mới hiện lên (INSERT màn hình ghép lúc dựng: *"Sunday. Albany. Mama says bring an appetite. -- N."*).
 - **DANAE** (cười, nói với màn hình): "Yes ma'am. Sunday."
-  *(VN) Vâng thưa bác. Chủ nhật.*
+  *(VN) Vâng thưa bà. Chủ nhật.*
 - Danae liếc sang tấm chăn quilt trong túi giặt khô trên chiếc ghế cạnh máy may.
 
 **Khung kết:** Danae DA1 ngồi ở bàn ăn giữa chồng sách điều dưỡng, điện thoại trong tay, đang cười, mắt nhìn sang tấm chăn quilt gấp trong túi giặt khô trên chiếc ghế cạnh máy may cũ; ảnh MaDear đội mũ nhà thờ trên kệ phía sau; đèn bàn chao vải vàng.
@@ -1819,7 +1823,7 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 
 ### TẬP 22 · THE FARM · cụm 64–66 · 31:30–33:00
 
-#### Cụm 064 · 31:30–32:00 · Sixty hens · FARM_YARD · Chủ nhật 18/10/2026, 2:00 chiều
+#### Cụm 064 · 31:30–32:00 · Sixty hens · FARM_YARD · Chủ nhật 18/10/2026, 4:00 chiều
 **Nhân vật:** OZELLA (OZ4), NOLAN (NO4), DANAE (DA4)
 **Chức năng:** nhịp ấm, vui: Ozella ở nhà mình, Nolan nhặt trứng không vỡ quả nào + móc xe giao hàng · **Cung bậc:** vui, ấm · **Vòng:** echo · trả giỏ trứng cụm 1–2, 56 · M4 móc
 
@@ -1831,10 +1835,10 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 - **NOLAN** (giơ rổ lên cho mẹ xem): "Yes ma'am. Twelve. Not one cracked."
   *(VN) Vâng thưa mẹ. Mười hai quả. Không quả nào nứt.*
 - **DANAE** (nhìn quanh đàn gà): "You named all sixty hens?"
-  *(VN) Bác đặt tên cho cả sáu mươi con gà mái ạ?*
+  *(VN) Bà đặt tên cho cả sáu mươi con gà mái ạ?*
 - **OZELLA** (giọng khô): "Only the ones with opinions."
   *(VN) Chỉ những con có chính kiến thôi.*
-- **NOLAN** (cười, nói nhỏ với Danae): "That's all sixty, Mama."
+- **NOLAN** (cười, nói to lên hiên): "That's all sixty, Mama."
   *(VN) Thế là cả sáu mươi con rồi, mẹ ơi.*
 - Danae bật cười thành tiếng. Ở đầu đường đất đỏ vang lên tiếng động cơ: một chiếc xe tải giao hàng nhỏ màu trắng, không logo, đang chạy vào, cuốn theo một vệt bụi đỏ. Ozella đưa tay che nắng, nhìn ra.
 
@@ -1849,10 +1853,10 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 - Cùng sân trang trại, nắng chiều vàng. Chiếc xe giao hàng nhỏ màu trắng, không logo, dừng ở cuối đường đất đỏ dưới hàng hồ đào, máy vẫn nổ. Một người giao hàng (quay lưng về máy quay, mũ lưỡi trai xám kéo sụp, chỉ thấy từ vai trở xuống: áo khoác xám, quần sẫm màu, không chữ trên áo) đi tới bậc hiên, đặt xuống bậc thứ hai một bình hoa lily trắng lớn cắm trong bình thuỷ tinh, rồi quay lưng đi thẳng ra xe, không nói gì. Chiếc xe quay đầu, chạy đi.
 - Ozella (66 tuổi, da nâu rất sâu (Monk 9) ánh đỏ ấm, tóc bạc tự nhiên ngắn ép mềm rẽ ngôi bên, khăn trùm đầu cotton màu be buộc sau gáy, nếp nhăn khoé mắt sâu, bàn tay to khớp ngón thô; OZ4: váy sơ mi jean bạc màu dài qua bắp chân, cardigan xanh sage, ủng cao su xanh rêu) bước xuống một bậc, rút tấm thiệp nhỏ cắm giữa bó hoa, mở ra (INSERT ghép lúc dựng: *"Proud of you, brother. -- G."*).
 - Nolan (34 tuổi, da nâu sâu (Monk 8), râu đầy tỉa gọn, lineup sắc, tóc cắt sát hai bên có sóng trên đỉnh, cao vai rộng, đồng hồ dây da nâu; NO4: áo henley ô liu tay dài xắn tới khuỷu, quần jean, giày công nhân nâu) đặt rổ trứng lên bàn gỗ cạnh hiên. Danae (26 tuổi, da nâu sâu (Monk 8) ánh vàng ấm, tóc tết box braids cỡ vừa búi thấp sau gáy, nốt ruồi nhỏ dưới mắt phải, mặt mộc; DA4: váy cotton hồng trầm dài qua gối, áo khoác jean nhạt, giày vải trắng) đứng cạnh bàn gỗ, khoanh tay nhìn bình hoa.
-- **OZELLA** (giơ tấm thiệp lên): "Who's G.?"
-  *(VN) G. là ai?*
-- **NOLAN** (thoải mái): "Graham. My right hand. College roommate."
-  *(VN) Graham. Cánh tay phải của con. Bạn cùng phòng hồi đại học.*
+- **OZELLA** (giơ tấm thiệp lên, đọc, giọng phẳng): "'Proud of you, brother.' G. Graham."
+  *(VN) "Tự hào về anh, người anh em." G. Là Graham.*
+- **NOLAN** (thoải mái): "That's sweet of him, Mama."
+  *(VN) Cậu ấy chu đáo thật, mẹ.*
 - **OZELLA** (nhìn bình hoa, rồi nhìn con): "Your right hand sends lilies three hours out?"
   *(VN) Cánh tay phải của con gửi hoa lily về tận chỗ cách ba tiếng đường xe?*
 - **NOLAN** (cười): "That's just Graham. He's always helping."
@@ -1902,15 +1906,15 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 - Danae (26 tuổi, da nâu sâu (Monk 8) ánh vàng ấm, tóc tết box braids cỡ vừa búi thấp sau gáy, nốt ruồi nhỏ dưới mắt phải, mặt mộc; DA4: váy cotton hồng trầm dài qua gối, áo khoác jean nhạt, giày vải trắng) đứng giữa hiên, phủi tay vào váy. Nolan (34 tuổi, da nâu sâu (Monk 8), râu đầy tỉa gọn, lineup sắc, tóc cắt sát hai bên có sóng trên đỉnh, cao vai rộng, đồng hồ dây da nâu; NO4: áo henley ô liu tay dài xắn tới khuỷu, quần jean, giày công nhân nâu) đứng dậy khỏi bậc hiên.
 - Ozella giũ tấm chăn ra, choàng nó lên vai Danae, kéo hai mép chăn khép lại trước ngực cô.
 - **OZELLA** (vuốt phẳng mảnh satin trắng trên vai Danae): "Fixed the gown on your MaDear's machine."
-  *(VN) Bác khâu lại mảnh áo rửa tội bằng cái máy may của bà con đấy.*
+  *(VN) Bà khâu lại mảnh áo rửa tội bằng cái máy may của bà cháu đấy.*
 - **OZELLA:** "Seven pieces of my son. Made for his bride."
-  *(VN) Bảy mảnh đời của con trai bác. Làm cho cô dâu của nó.*
+  *(VN) Bảy mảnh đời của con trai bà. Làm cho cô dâu của nó.*
 - **DANAE** (lùi nửa bước, giọng lạc đi): "Miss Ozella, I can't--"
-  *(VN) Bác Ozella, con không thể--*
+  *(VN) Bà Ozella, cháu không thể--*
 - **OZELLA** (giữ hai mép chăn lại): "You keep it till he deserves somebody."
-  *(VN) Con cứ giữ nó cho tới khi nó xứng đáng với ai đó.*
+  *(VN) Cháu cứ giữ nó cho tới khi nó xứng đáng với ai đó.*
 - **OZELLA** (liếc con trai): "Might be you. Might take him years."
-  *(VN) Có khi là con. Có khi nó phải mất nhiều năm.*
+  *(VN) Có khi là cháu. Có khi nó phải mất nhiều năm.*
 - **NOLAN** (đỏ mặt, bật kêu): "Mama!"
   *(VN) Mẹ!*
 - **DANAE** (bật cười, kéo chăn chặt quanh vai): "Take your time, Mr. Grier. I'm busy."
@@ -1975,8 +1979,8 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 - Cửa kính mở ra. Regina (57 tuổi, da nâu (Monk 7), tóc bob ngắn bạch kim nay rối và xẹp một bên, mặt không trang điểm; RG3: chính chiếc đầm nhung đỏ rượu dài tay dài chấm đất cổ tròn kín, nay nhàu nát sau 8 ngày, không hoa tai, không vòng ngọc trai) bước ra, tay phải cầm túi nhựa trong đựng đồ cá nhân (ví da, chùm chìa khoá, đôi hoa tai vàng to, chuỗi ngọc trai cuộn tròn). Bà nheo mắt vì nắng, đứng lại giữa vỉa hè, nhìn quanh. Không ai đợi.
 - **REGINA** (nói một mình, giọng khàn): "Eight days. Not one visit."
   *(VN) Tám ngày. Không một ai tới thăm.*
-- **REGINA** (nhìn túi đồ trong tay): "One hundred fifty thousand. Lowell didn't pay that."
-  *(VN) Một trăm năm mươi nghìn. Lowell không đời nào trả khoản đó.*
+- **REGINA** (nhìn túi đồ trong tay): "One hundred fifty thousand. Cash. Through a bondsman. No name."
+  *(VN) Một trăm năm mươi nghìn. Tiền mặt. Qua người bảo lãnh. Không đề tên.*
 - **REGINA** (ngoái lại nhìn cửa kính nhà giam): "Jordyn's still inside. So who paid?"
   *(VN) Jordyn vẫn còn trong đó. Vậy ai đã trả?*
 - Bên kia phố, kính xe bên lái của chiếc sedan đen từ từ hạ xuống một nửa. Trong bóng tối của xe chỉ thấy đường viền một người đàn ông đầu cạo ngồi sau tay lái (GR3, mặt còn khuất trong bóng). Regina nhìn thấy. Mặt bà cứng lại, rồi môi mím chặt.
@@ -2007,12 +2011,12 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
   *(VN) Jordyn ở trong đó vì cô ta động tay vào một người già. Trước ống kính.*
 - Graham bấm nút; kính xe từ từ kéo lên, ép Regina phải rụt tay khỏi khe kính. Bà áp mạnh lòng bàn tay lên mặt kính tối màu. Chiếc sedan rời lề, chậm rãi.
 
-**Khung kết:** Regina RG3 đứng sát lề phố, lòng bàn tay trái vừa trượt khỏi mặt kính xe, túi nhựa trong đựng đồ trong tay phải, miệng hé mở; chiếc sedan đen kính đã kéo kín đang lăn bánh rời lề; trong xe, Graham GR3 nhìn thẳng ra kính chắn gió, hai tay trên vô lăng, điện thoại nắp gập đen trên ghế phụ.
+**Khung kết:** Regina RG3 đứng dưới lòng đường, sát thân xe, lòng bàn tay trái vừa trượt khỏi mặt kính xe, túi nhựa trong đựng đồ trong tay phải, miệng hé mở; chiếc sedan đen kính đã kéo kín đang lăn bánh rời lề; trong xe, Graham GR3 nhìn thẳng ra kính chắn gió, hai tay trên vô lăng, điện thoại nắp gập đen trên ghế phụ.
 **Móc:** Kế hoạch đã đổ cả hai lần — Graham còn định làm gì với Nolan?
 
 #### Cụm 072 · 35:30–36:00 · Twice now · SEDAN_INTERIOR · liền
 **Nhân vật:** GRAHAM (GR3); REGINA (RG3, không nói, nhỏ dần trong gương chiếu hậu)
-**Chức năng:** twist mở phần 2 (người dùng chọn): kẻ đồng loã trong công ty ngồi một mình, mỉm cười, nói thẳng hai kế hoạch đã hỏng nhưng chưa xong · **Cung bậc:** lạnh gáy · **Vòng:** R2 lật động cơ · M4 móc phần 2 · trả chuyến Seattle cụm 22, trang 7 cụm 34, 47, phiếu hội đồng cụm 58–60, bó hoa cụm 65
+**Chức năng:** twist mở phần 2: kẻ đồng loã trong công ty ngồi một mình, mỉm cười, nói thẳng hai kế hoạch đã hỏng nhưng chưa xong · **Cung bậc:** lạnh gáy · **Vòng:** R2 lật động cơ · M4 móc phần 2 · trả chuyến Seattle cụm 22, trang 7 cụm 34, 47, phiếu hội đồng cụm 58–60, bó hoa cụm 65
 
 - Bên trong chiếc sedan đen đang chạy chậm khỏi phố trước nhà giam. Nắng chiều xiên qua kính chắn gió, vệt sáng trượt trên bảng táp-lô đen. Graham (35 tuổi, da nâu (Monk 6) ánh ô liu, đầu cạo sạch, ria mép nối râu cằm tỉa vuông, nụ cười rộng răng đều, đồng hồ thép; GR3: vest than chì, sơ mi đen mở cổ, khăn túi ngực đỏ rượu, kính râm gọng thép đẩy lên trán) ngồi ghế lái một mình, tay trái trên vô lăng. Chiếc điện thoại nắp gập đen vẫn nằm trên ghế phụ.
 - Trong gương chiếu hậu, Regina (57 tuổi, da nâu (Monk 7), tóc bob bạch kim rối; RG3: đầm nhung đỏ rượu nhàu nát) đứng một mình bên lề phố, túi nhựa trong trong tay, nhỏ dần, nhỏ dần.
@@ -2030,7 +2034,7 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
   *(VN) Chưa xong đâu, N. Còn lâu mới xong.*
 - Graham kéo chiếc kính râm gọng thép từ trán xuống che mắt. Chiếc sedan đen rẽ vào dòng xe. Phía trước, xa xa, toà tháp kính 22 tầng của Grier Systems trên Peachtree Street hiện lên, phản chiếu trọn trên kính chắn gió, đè lên gương mặt đang cười của hắn.
 
-*Khung kết Phần 1:* kính chắn gió của chiếc sedan đen, trên đó phản chiếu toà tháp kính Grier Systems lấp loá nắng chiều; sau lớp phản chiếu, Graham GR3 đeo kính râm, mỉm cười, hai tay trên vô lăng; chiếc sedan hoà vào dòng xe về phía Midtown.
+**Khung kết (hết Phần 1):** kính chắn gió của chiếc sedan đen, trên đó phản chiếu toà tháp kính Grier Systems lấp loá nắng chiều; sau lớp phản chiếu, Graham GR3 đeo kính râm, mỉm cười, hai tay trên vô lăng; chiếc sedan hoà vào dòng xe về phía Midtown.
 **Móc (sang Phần 2):** Cưới hỏng, hội đồng hỏng. Lần thứ ba, Graham sẽ nhắm vào thứ gì mà Nolan không ngờ tới nhất?
 
 **— HẾT PHẦN 1 —**
@@ -2044,7 +2048,7 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 
 > **Ghi chú tác quyền:** Toàn bộ Phần 2 (cụm 73–120) là **bản nháp do AI (Claude, Anthropic) viết ngày 06/11/2026** theo yêu cầu và định hướng của tác giả Nguyễn Đức Tùng, dựa trên ý tưởng gốc, nhân vật và Phần 1 của tác giả. Tác giả duyệt, chọn, sửa trước khi chốt. Lý do của từng cú ngoặt: xem `03a_bao-cao-gop-y.md`.
 
-**Logline phần 2:** Hai ngày sau khi Graham bảo lãnh cho Regina, Jordyn bước ra khỏi toà án, đặt tay lên bụng và gọi bà Ozella là "Grandma": cô có thai mười tuần, "con của Nolan". Dư luận quay lưng với Nolan, Danae bị gắn mác "người thứ ba". Rồi khán giả biết điều Nolan chưa biết: bà mẹ quê nuôi gà giữ 12% cổ phần Grier Systems, phiếu quyết định của cuộc bỏ phiếu phế truất Nolan. Lúc 6 giờ sáng, bằng một lá thư bác sĩ giả và chính câu "Let's get you checked Monday" của Nolan, bà bị đưa vào một cơ sở chăm sóc trí nhớ, bị tháo khăn trùm đầu, bị trộn thuốc an thần vào sốt táo. Người giám hộ bỏ 12% của bà cho Graham và Nolan bị đuổi khỏi chính toà tháp của mình. Nhưng kết quả xét nghiệm ADN của đứa bé nói một điều không ai ngờ: cha nó là một người đàn ông mang dòng máu nội nhà Grier. Và bà Ozella đã biết người đó là ai suốt mười sáu năm.
+**Logline phần 2:** Một ngày sau khi Graham bảo lãnh cho Regina, Jordyn bước ra khỏi toà án, đặt tay lên bụng và gọi bà Ozella là "Grandma": cô có thai mười tuần, "con của Nolan". Dư luận quay lưng với Nolan, Danae bị gắn mác "người thứ ba". Rồi khán giả biết điều Nolan chưa biết: bà mẹ quê nuôi gà giữ 12% cổ phần Grier Systems, phiếu quyết định của cuộc bỏ phiếu phế truất Nolan. Lúc 6 giờ sáng, bằng một lá thư bác sĩ giả và chính câu "Let's get you checked Monday" của Nolan, bà bị đưa vào một cơ sở chăm sóc trí nhớ, bị tháo khăn trùm đầu, bị trộn thuốc an thần vào sốt táo. Người giám hộ bỏ 12% của bà cho Graham và Nolan bị đuổi khỏi chính toà tháp của mình. Nhưng kết quả xét nghiệm ADN của đứa bé nói một điều không ai ngờ: cha nó là một người đàn ông mang dòng máu nội nhà Grier. Và bà Ozella đã biết người đó là ai suốt mười sáu năm.
 
 **Thời gian:** thứ Hai 19/10/2026 → thứ Ba 3/11/2026 → Lễ Tạ ơn thứ Năm 26/11/2026. Atlanta cuối thu: ngày 18–22°C, đêm 8–12°C; đêm thứ Sáu 30/10 sang thứ Bảy 31/10 mưa lớn.
 
@@ -2053,14 +2057,15 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 **Hậu truyện (kể bằng lời thoại và thư từ, không hồi tưởng):** Ông Earl James Grier (1956–2006), chồng bà Ozella. Hai vợ chồng cưới năm 1984, bảy năm không có con. Năm 1990 ông có quan hệ với Della Pryce ở Macon; Graham ra đời tháng 6/1991, chín tháng trước Nolan (3/3/1992). Della không cho Earl gặp con. Earl gửi thư mỗi năm vào sinh nhật con, cả 14 lá bị trả lại với chữ "Refused" bằng nét chữ Della; bà Ozella gửi phiếu chuyển tiền mỗi tháng tới năm Graham 18 tuổi. Earl phát bệnh Alzheimer khởi phát sớm năm 2001 (dấu hiệu đầu tiên: để quên bếp), sang tên trang trại cho vợ ngay năm đó, mất năm 2006. Graham lớn lên với câu chuyện "nhà Grier vứt bỏ hai mẹ con", tự tìm tới làm bạn cùng phòng đại học của Nolan. Lễ Tạ ơn đầu tiên Graham về trang trại, bà Ozella nhận ra hắn.
 
 **Nhân vật mới:**
-- CLIFFORD BANKS (52) — luật sư của Jordyn, sau tự đề cử làm người giám hộ của bà Ozella; bạn của Graham. CB1: vest ba mảnh xanh navy, cà vạt vàng mù tạt, cặp da nâu. Da nâu Monk 8, tóc cắt sát muối tiêu, ria mép tỉa mỏng, kính không gọng.
-- DR. ALTON WHITFIELD (64) — bác sĩ tâm thần lão khoa, giám đốc y khoa cơ sở chăm sóc trí nhớ Magnolia Gardens; nợ Graham 200.000 đô tiền bài bạc; năm ngoái là bác sĩ của MaDear. WH1: áo blouse trắng ngoài gile len xám, nơ cổ kẻ ô đỏ rượu, quần âu xám, kính lão gọng vàng cài túi áo. Da nâu Monk 7, tóc bạc chải ngược.
+- CLIFFORD BANKS (52) — người giám hộ chuyên nghiệp trong danh sách của toà, được đề cử trong đơn để làm người giám hộ của bà Ozella; bí mật là bạn của Graham. CB1: vest ba mảnh xanh navy, cà vạt vàng mù tạt, cặp da nâu. Da nâu Monk 8, tóc cắt sát muối tiêu, ria mép tỉa mỏng, kính không gọng.
+- DR. ALTON WHITFIELD (64) — bác sĩ tâm thần lão khoa, giám đốc y khoa cơ sở chăm sóc trí nhớ Hollin Pines Memory Care; nợ Graham 200.000 đô tiền bài bạc; năm ngoái là bác sĩ của MaDear. WH1: áo blouse trắng ngoài gile len xám, nơ cổ kẻ ô đỏ rượu, quần âu xám, kính lão gọng vàng cài túi áo. Da nâu Monk 7, tóc bạc chải ngược.
 - JUDGE ANITA HOLLIS (61, nữ) — thẩm phán toà di chúc và giám hộ hạt Fulton. HO1: áo choàng thẩm phán đen. Da nâu sâu Monk 8, tóc locs ngắn bạc búi gọn, kính đọc sách gọng đỏ.
 - SIMONE OKAFOR (46, nữ) — luật sư của Nolan. OK1: vest váy đen, sơ mi trắng, khuyên tai ngọc trai nhỏ, cặp hồ sơ dày. Da nâu rất sâu Monk 9, tóc tự nhiên cắt ngắn tapered.
-- CORINNE (44) — hộ lý Magnolia Gardens. CO1: scrubs xám than, thẻ tên cơ sở (chữ INSERT ghép lúc dựng), giày y tế trắng. Da nâu Monk 6, tóc buộc đuôi ngựa thấp.
-- RAY (38) — hộ lý nam Magnolia Gardens, chỉ điểm cho Whitfield. RY1: đồng phục hộ lý xám tro, thẻ tên. Da nâu Monk 7, to cao, râu lún phún.
+- CORINNE (44) — hộ lý Hollin Pines. CO1: scrubs xám than, thẻ tên cơ sở (chữ INSERT ghép lúc dựng), giày y tế trắng. Da nâu Monk 8, tóc buộc đuôi ngựa thấp.
+- RAY (38) — hộ lý nam Hollin Pines, chỉ điểm cho Whitfield. RY1: đồng phục hộ lý xám tro, thẻ tên. Da nâu Monk 7, to cao, râu lún phún.
 - DEACON PRUITT (74) — hàng xóm trang trại, chấp sự nhà thờ. PR1: quần yếm jean bạc, sơ mi kẻ ô, mũ phớt nâu, gậy gỗ. Da nâu rất sâu Monk 9, ria bạc, gầy.
 - MOTHER HATTIE (82) — trưởng hội các bà mẹ (Mothers' Board) nhà thờ Mount Pisgah Missionary Baptist ở Albany. HA1: toàn đồ trắng, đầm trắng dài, mũ trắng rộng vành, găng trắng, quạt giấy nhà thờ. Da nâu sâu Monk 8, nhỏ người, kính dày.
+- BẢO VỆ DARNELL (khoảng 50) — bảo vệ sảnh toà tháp Grier Systems. DN1: đồng phục bảo vệ xanh đen, thẻ an ninh đeo dây, bộ đàm ở vai. Da nâu sâu Monk 8, tóc cắt sát, ria mép.
 - Chỉ được nhắc tới: EARL JAMES GRIER (bia mộ dưới gốc hồ đào lớn nhất trang trại); DELLA PRYCE, mẹ Graham (chỉ thấy bàn tay ở khung cuối phim).
 
 **Trang phục mới (mã dùng trong Phần 2):**
@@ -2069,12 +2074,12 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 - OZ7: bộ vest váy tím hoàng gia (như OZ3) nhưng không mũ, quấn khăn lụa tím mận của MaDear, trâm vàng hình con gà mái.
 - OZ8 (Lễ Tạ ơn): đầm nhà thờ vàng nghệ dài tay dài qua bắp chân, tạp dề trắng có túi, khăn trùm đầu vải sáp in hoa văn nâu vàng, kính đọc sách đeo dây.
 - NO3C: NO3 nhàu nát, cà vạt nới lỏng, râu lởm chởm. NO5: hoodie đen kéo mũ, quần jean tối, mũ lưỡi trai đen, giày thể thao đen. NO6: áo len cổ lọ màu kem, quần kaki nâu.
-- DA5: scrubs xanh navy của Magnolia Gardens, thẻ tên cơ sở (chữ INSERT), đồng hồ điều dưỡng đeo ngược mặt vào trong cổ tay, giày thể thao trắng cũ. DA5H: DA5 + vết rách nhỏ rỉ máu trên trán phải, cổ tay trái sưng. DA4H: DA4 + băng gạc trán phải, nẹp cổ tay trái màu đen. DA6: áo len đỏ gạch, quần jean, khuyên vàng nhỏ, box braids xoã dài. DA7 (ở nhà): áo thun xám rộng, quần nỉ đen, mũ satin bọc tóc khi ngủ.
-- JO3: đầm quấn trắng dài tay dài qua gối, giày cao gót nude, kính râm to đẩy lên đầu, nhẫn đính hôn kim cương **vẫn đeo**. JO4: bộ len cashmere màu kem (áo cổ lọ, quần ống rộng), kính râm gọng vàng, túi xách đỏ rượu. JO5: đầm đen dài tay cổ kín, giày cao gót đen. Từ cụm 88: khăn trùm đầu be của bà Ozella buộc quanh cổ tay trái Jordyn như vòng tay.
+- DA5: scrubs xanh navy của Hollin Pines, thẻ tên cơ sở (chữ INSERT), đồng hồ điều dưỡng đeo ngược mặt vào trong cổ tay, giày thể thao trắng cũ. DA5H: DA5 + vết rách nhỏ rỉ máu trên trán phải, cổ tay trái sưng. DA4H: DA4 + băng gạc trán phải, nẹp cổ tay trái màu đen. DA6: áo len đỏ gạch, quần jean, khuyên vàng nhỏ, box braids xoã dài. DA7 (ở nhà): áo thun xám rộng, quần nỉ đen, mũ satin bọc tóc khi ngủ.
+- JO3: đầm quấn trắng dài tay dài qua gối, giày cao gót nude, kính râm to đẩy lên đầu, nhẫn đính hôn kim cương **vẫn đeo**. JO4: bộ len cashmere màu kem (áo cổ lọ, quần ống rộng), kính râm gọng vàng, túi xách đỏ rượu. JO5: đầm đen dài tay cổ kín, giày cao gót đen. JO6: đồ tù màu cam của nhà giam hạt Fulton, tóc buộc gọn, không trang điểm, không trang sức. Từ cụm 88: khăn trùm đầu be của bà Ozella buộc quanh cổ tay trái Jordyn như vòng tay.
 - GR4: áo măng tô đen dài, vest than chì, sơ mi đen mở cổ, khăn túi ngực đỏ rượu. GR5: vest navy, sơ mi trắng, cà vạt đỏ rượu, khăn túi ngực đỏ rượu. GR6 (ở nhà): áo thun đen cổ tròn, quần âu đen, chân trần.
 - RG4: áo trench be giản dị, quần âu đen, giày bệt đen, không ngọc trai; tóc bob bạch kim đã lộ chân tóc đen. MY3: hoodie xám rộng, quần jean, giày thể thao trắng, box braids xoã. MO3: vest đen, sơ mi đen, tai nghe nhỏ một bên tai (an ninh riêng nhà Grier). LO4: cardigan len nâu, sơ mi kẻ ô, quần kaki. GL2: đầm nhà thờ xanh navy, áo khoác len trắng.
 
-**Bối cảnh mới:** COURTHOUSE_STEPS (bậc thềm granite toà án hạt Fulton, trung tâm Atlanta, không biển chữ) · SOUL_FOOD (quán soul food nhỏ ở West End) · PARKING_GARAGE (hầm xe bê tông) · PROBATE_CLERK (quầy kính thư ký toà di chúc & giám hộ) · JET_CABIN (khoang máy bay riêng da kem) · FARM_GATE (đầu đường đất đỏ: quầy bán trứng gỗ có mái che, hộp tiền tự giác, hộp thư, cây hồ đào lớn nhất với bia mộ đá xám của Earl) · MAGNOLIA_INTAKE / MAGNOLIA_ROOM (phòng 114) / MAGNOLIA_HALL / MAGNOLIA_GATE (cơ sở chăm sóc trí nhớ Magnolia Gardens, Southwest Atlanta) · TOWER_LOBBY (sảnh toà tháp, cửa quay kính) · GRAHAM_CONDO (căn hộ tầng cao ở Buckhead) · PROBATE_COURTROOM · FARM_TABLE (bàn dài dưới hàng hồ đào).
+**Bối cảnh mới:** COURTHOUSE_STEPS (bậc thềm granite toà án hạt Fulton, trung tâm Atlanta, không biển chữ) · SOUL_FOOD (quán soul food nhỏ ở West End) · PARKING_GARAGE (hầm xe bê tông) · PROBATE_CLERK (quầy kính thư ký toà di chúc & giám hộ) · JET_CABIN (khoang máy bay riêng da kem) · FARM_GATE (đầu đường đất đỏ: quầy bán trứng gỗ có mái che, hộp tiền tự giác, hộp thư, cây hồ đào lớn nhất với bia mộ đá xám của Earl) · PINES_INTAKE / PINES_ROOM (phòng 114) / PINES_HALL / PINES_GATE (cơ sở chăm sóc trí nhớ Hollin Pines Memory Care, Southwest Atlanta; sảnh tiếp nhận có camera an ninh) · RANCH_PORCH (hiên trước căn ranch nhà MaDear, cửa lưới) · COURTHOUSE_LOT (bãi xe ngoài trời cạnh toà án) · TOWER_LOBBY (sảnh toà tháp, cửa quay kính) · GRAHAM_CONDO (căn hộ tầng cao ở Buckhead) · PROBATE_COURTROOM · FARM_TABLE (bàn dài dưới hàng hồ đào).
 
 ---
 
@@ -2083,13 +2088,13 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 ### TẬP 25 · HI, GRANDMA · cụm 73–75 · 36:00–37:30
 
 #### Cụm 073 · 36:00–36:30 · Hi, Grandma · COURTHOUSE_STEPS · thứ Hai 19/10/2026, 11:00 sáng
-**Nhân vật:** JORDYN (JO3), OZELLA (OZ3), NOLAN (NO3); BANKS (CB1, không nói); MOSES (MO3, không nói); người nền: 6 phóng viên cầm micro không logo, 2 người quay phim (1 phóng viên nói)
-**Chức năng:** móc 3 giây đầu Phần 2 (cô dâu cũ vừa được tại ngoại, tay đặt lên bụng, gọi bà là "Grandma") + quả bom có thai + đặt (Banks là luật sư của Jordyn; Moses giờ làm cho nhà Grier) · **Cung bậc:** sững → lạnh gáy · **Vòng:** M4 móc 3 giây · M6 đoán → lật (tưởng đã xong, hoá ra mới bắt đầu) · M3 đổi kẻ địch · đặt Banks (trả ở cụm 81, 84, 94) · đặt Moses đổi phe (trả ở cụm 106)
+**Nhân vật:** JORDYN (JO3), OZELLA (OZ3), NOLAN (NO3); MOSES (MO3, không nói); người nền: 1 luật sư bào chữa của Jordyn (nam, khoảng 50 tuổi, không tên, không nói), 6 phóng viên cầm micro không logo, 2 người quay phim (1 phóng viên nói)
+**Chức năng:** móc 3 giây đầu Phần 2 (cô dâu cũ vừa được tại ngoại, tay đặt lên bụng, gọi bà là "Grandma") + quả bom có thai + đặt (Jordyn tại ngoại kèm lệnh cấm tiếp xúc với bà Ozella; Moses giờ làm cho nhà Grier) · **Cung bậc:** sững → lạnh gáy · **Vòng:** M4 móc 3 giây · M6 đoán → lật (tưởng đã xong, hoá ra mới bắt đầu) · M3 đổi kẻ địch · đặt lệnh cấm tiếp xúc (trả ở cụm 92, 111) · đặt Moses đổi phe (trả ở cụm 106)
 
 - Ngay khung đầu, cận cảnh: một bàn tay móng dài sơn đỏ rượu, ngón áp út vẫn đeo chiếc nhẫn kim cương lớn, đặt xoè lên bụng phẳng của chiếc đầm trắng. Đèn flash nháy liên tục.
 - Toàn cảnh: bậc thềm granite rộng trước toà án hạt Fulton ở trung tâm Atlanta (không biển chữ), hai hàng cột bê tông, nắng trưa tháng 10 trong. Sáu phóng viên cầm micro không logo và hai người quay phim chen ở chân bậc thềm.
-- Jordyn (29 tuổi, da nâu Monk 6 ánh vàng, tóc dài uốn sóng lớn, mi dày, móng tay dài sơn đỏ rượu, nhẫn đính hôn kim cương lớn vẫn trên ngón áp út trái; JO3: đầm quấn trắng dài tay dài qua gối, giày cao gót nude, kính râm to đẩy lên đầu, mặt mộc cố ý để trông tiều tuỵ) bước ra khỏi cửa kính toà án, đứng ở bậc trên cùng. Banks (52 tuổi, da nâu Monk 8, tóc cắt sát muối tiêu, ria mép tỉa mỏng, kính không gọng; CB1: vest ba mảnh xanh navy, cà vạt vàng mù tạt, cặp da nâu) đi sát sau vai cô, một tay giơ ngang chắn phóng viên.
-- Ở giữa bậc thềm, Ozella (66 tuổi, da nâu rất sâu Monk 9 ánh đỏ ấm, tóc bạc ngắn lộ dưới vành mũ, nếp nhăn khoé mắt sâu, bàn tay to khớp ngón thô; OZ3: bộ vest váy tím hoàng gia dài qua gối, áo lụa kem cổ kín, mũ nhà thờ tím rộng vành, trâm vàng hình con gà mái, găng ren trắng ngắn, ví cầm tay đen) vừa bước xuống sau khi đọc lời khai của nạn nhân trong phòng xử, khựng lại. Nolan (34 tuổi, da nâu sâu Monk 8, râu đầy tỉa gọn, lineup sắc, tóc cắt sát hai bên có sóng trên đỉnh, cao vai rộng, đồng hồ dây da nâu; NO3: vest than chì, sơ mi xanh nhạt, cà vạt navy) đứng bên phải mẹ. Một bậc dưới họ, Moses (44 tuổi, da nâu sâu Monk 8, đầu cạo, râu quai nón ngắn, to cao; MO3: vest đen, sơ mi đen, tai nghe nhỏ một bên tai) đứng chắn đám phóng viên.
+- Jordyn (29 tuổi, da nâu Monk 6 ánh vàng, tóc dài uốn sóng lớn, mi dày, móng tay dài sơn đỏ rượu, nhẫn đính hôn kim cương lớn vẫn trên ngón áp út trái; JO3: đầm quấn trắng dài tay dài qua gối, giày cao gót nude, kính râm to đẩy lên đầu, mặt mộc cố ý để trông tiều tuỵ) bước ra khỏi cửa kính toà án, đứng ở bậc trên cùng. Luật sư bào chữa của cô (nam, khoảng 50 tuổi, da nâu, vest xám, cặp hồ sơ) đi sát sau vai cô, một tay giơ ngang chắn phóng viên.
+- Ở giữa bậc thềm, Ozella (66 tuổi, da nâu rất sâu Monk 9 ánh đỏ ấm, tóc bạc ngắn lộ dưới vành mũ, nếp nhăn khoé mắt sâu, bàn tay to khớp ngón thô; OZ3: bộ vest váy tím hoàng gia dài qua gối, áo lụa kem cổ kín, mũ nhà thờ tím rộng vành, trâm vàng hình con gà mái, găng ren trắng ngắn, ví cầm tay đen) vừa bước xuống sau phiên điều trần về điều kiện tại ngoại, nơi thẩm phán hình sự cho Jordyn tại ngoại kèm lệnh cấm tiếp xúc với chính bà, khựng lại. Nolan (34 tuổi, da nâu sâu Monk 8, râu đầy tỉa gọn, lineup sắc, tóc cắt sát hai bên có sóng trên đỉnh, cao vai rộng, đồng hồ dây da nâu; NO3: vest than chì, sơ mi xanh nhạt, cà vạt navy) đứng bên phải mẹ. Một bậc dưới họ, Moses (44 tuổi, da nâu sâu Monk 8, đầu cạo, râu quai nón ngắn, to cao; MO3: vest đen, sơ mi đen, tai nghe nhỏ một bên tai) đứng chắn đám phóng viên.
 - Jordyn bước xuống từng bậc, dừng ngay trên đầu Ozella một bậc, nghiêng đầu, mỉm cười ngọt.
 - **JORDYN** (ngọt, khẽ, chỉ đủ cho bà nghe): "Hi, Grandma."
   *(VN) Chào bà nội.*
@@ -2103,11 +2108,11 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 - **PHÓNG VIÊN** (hét): "Mr. Grier! Is it yours?"
   *(VN) Ông Grier! Có phải con ông không?*
 
-**Khung kết:** Jordyn JO3 đứng trên Ozella một bậc, kính râm che mắt, tay trái đeo nhẫn đặt trên bụng, mặt quay về phía micro; Banks CB1 sát sau vai cô; Ozella OZ3 đứng giữa bậc thềm, ví cầm tay trong tay trái, mắt nhìn bàn tay trên bụng Jordyn; Nolan NO3 bên phải mẹ, mặt tái đi; Moses MO3 dưới một bậc, hai tay dang chắn; sáu micro chĩa về phía Nolan, flash trắng loá.
+**Khung kết:** Jordyn JO3 đứng trên Ozella một bậc, kính râm che mắt, tay trái đeo nhẫn đặt trên bụng, mặt quay về phía micro; luật sư bào chữa sát sau vai cô; Ozella OZ3 đứng giữa bậc thềm, ví cầm tay trong tay trái, mắt nhìn bàn tay trên bụng Jordyn; Nolan NO3 bên phải mẹ, mặt tái đi; Moses MO3 dưới một bậc, hai tay dang chắn; sáu micro chĩa về phía Nolan, flash trắng loá.
 **Móc:** Đứa bé có thật là con Nolan, và vì sao Jordyn chọn đúng lúc này để nói?
 
 #### Cụm 074 · 36:30–37:00 · My blood gets tested · COURTHOUSE_STEPS · liền
-**Nhân vật:** NOLAN (NO3), OZELLA (OZ3), JORDYN (JO3), DANAE (DA4); BANKS (CB1, không nói); MOSES (MO3, không nói); người nền: 6 phóng viên, 2 người quay phim (1 phóng viên nói)
+**Nhân vật:** NOLAN (NO3), OZELLA (OZ3), JORDYN (JO3), DANAE (DA4); MOSES (MO3, không nói); người nền: luật sư bào chữa của Jordyn (không nói), 6 phóng viên, 2 người quay phim (1 phóng viên nói)
 **Chức năng:** Nolan không dám chắc (Miami, tháng 8) + Ozella không né, đòi xét nghiệm công khai + Jordyn câu giờ + Danae (sinh viên điều dưỡng) vạch cái cớ + phóng viên quay sang Danae "người thứ ba" · **Cung bậc:** rối → cứng cỏi → uất · **Vòng:** M2 dồn nén · S13 (khán giả thấy Jordyn câu giờ) · đặt xét nghiệm ADN tiền sản (trả ở cụm 92, 96, 97) · vu oan 1 (Danae)
 
 - Bậc thềm toà án, flash vẫn nháy. Moses dang tay giữ đám phóng viên cách một bậc.
@@ -2131,7 +2136,7 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
   *(VN) Thưa cô! Cô có phải là người thứ ba không?*
 - Danae đứng sững. Moses giơ bàn tay to chắn micro, gạt nó ra.
 
-**Khung kết:** Danae DA4 đứng sững trên bậc thềm, micro vừa bị Moses gạt khỏi mặt; Moses MO3 một tay chắn micro; Ozella OZ3 nắm cánh tay Nolan, mắt nhìn thẳng Jordyn; Nolan NO3 nhìn Danae, rồi nhìn Jordyn; Jordyn JO3 đứng bậc trên, tay ôm bụng, khoé môi nhếch lên dưới kính râm; Banks CB1 đặt tay lên lưng cô, dẫn cô về phía chiếc SUV trắng đậu dưới chân bậc thềm.
+**Khung kết:** Danae DA4 đứng sững trên bậc thềm, micro vừa bị Moses gạt khỏi mặt; Moses MO3 một tay chắn micro; Ozella OZ3 nắm cánh tay Nolan, mắt nhìn thẳng Jordyn; Nolan NO3 nhìn Danae, rồi nhìn Jordyn; Jordyn JO3 đứng bậc trên, tay ôm bụng, khoé môi nhếch lên dưới kính râm; luật sư bào chữa đặt tay lên lưng cô, dẫn cô về phía chiếc SUV trắng đậu dưới chân bậc thềm.
 **Móc:** Một cái nhãn mới vừa dán lên Danae: ai đang đứng sau màn kịch này?
 
 #### Cụm 075 · 37:00–37:30 · Protect you · SUV_INTERIOR + TOWER_OFFICE · liền, cắt qua lại
@@ -2148,7 +2153,7 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
   *(VN) Chưa xét nghiệm thì không ai được trả đồng nào.*
 - **GRAHAM** (thở dài thật dài): "Then I can't protect you this time, brother."
   *(VN) Vậy thì lần này tôi không che chắn cho anh được nữa đâu, anh em.*
-- Nolan cúp máy, tựa đầu vào kính cửa. Ở băng ghế sau, điện thoại của Danae rung. Cô mở email (INSERT ghép lúc dựng: *Georgia State University School of Nursing — "Your clinical placement is suspended pending a professional conduct review."*).
+- Nolan cúp máy, tựa đầu vào kính cửa. Ở băng ghế sau, điện thoại của Danae rung. Cô mở email (INSERT ghép lúc dựng: *School of Nursing — Clinical Placement Office — "Your clinical placement is suspended pending a professional conduct review."*).
 - **DANAE** (đọc, giọng tắt dần): "They suspended my clinicals. A 'conduct complaint.'"
   *(VN) Họ đình chỉ thực tập lâm sàng của tôi. Một "đơn khiếu nại về đạo đức nghề nghiệp".*
 - **DANAE:** "Seven weeks from graduating."
@@ -2164,7 +2169,7 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 
 #### Cụm 076 · 37:30–38:00 · Receipts · RANCH_LIVING · thứ Ba 20/10/2026, 8:00 tối
 **Nhân vật:** MYA (MY3), DANAE (DA7), OZELLA (OZ1)
-**Chức năng:** tay sai cũ thành đồng minh (Mya dùng chính nghề của mình: hashtag #DeadbeatBillionaire là chiến dịch trả tiền) + đặt Magnolia Gardens và Dr. Whitfield (bác sĩ của MaDear, cái tên Graham từng nhắc ở cụm 27) · **Cung bậc:** phẫn nộ → hy vọng → gợn · **Vòng:** M3 đảo vai (power shift) · S13 · đặt Magnolia Gardens (trả ở cụm 84–90) · đặt Whitfield (trả ở cụm 80, 89, 110) · đặt 40 tài khoản (trả ở cụm 117)
+**Chức năng:** tay sai cũ thành đồng minh (Mya dùng chính nghề của mình: hashtag #DeadbeatBillionaire là chiến dịch trả tiền) + đặt Hollin Pines và Dr. Whitfield (bác sĩ của MaDear, cái tên Graham từng nhắc ở cụm 27) · **Cung bậc:** phẫn nộ → hy vọng → gợn · **Vòng:** M3 đảo vai (power shift) · S13 · đặt Hollin Pines (trả ở cụm 84–90) · đặt Whitfield (trả ở cụm 80, 89, 110) · đặt 40 tài khoản (trả ở cụm 117)
 
 - Phòng khách căn ranch gạch của MaDear ở Cascade Heights, buổi tối. Đèn bàn chao vải vàng; sofa nhung hoa phủ chăn móc len; Kinh Thánh to trên bàn nước; kệ ảnh nhiều thế hệ, giữa là ảnh MaDear đội mũ nhà thờ; bàn ăn chất sách điều dưỡng; máy may cũ ở góc, cạnh đó là chiếc vali hoa của bà Ozella đã sửa khoá.
 - Ozella (66 tuổi, da nâu rất sâu Monk 9 ánh đỏ ấm, tóc bạc ngắn lộ mép khăn, tay to khớp ngón thô; OZ1: váy nhà cotton xanh sage bạc màu dài qua bắp chân, cardigan len be xù lông hai khuỷu, khăn trùm đầu cotton be, dép bông be) ngồi bên máy may của MaDear, kính đọc sách trễ mũi, đang cắt một mảnh vải.
@@ -2182,9 +2187,9 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
   *(VN) Ai trả tiền? Chị cô thì cháy túi rồi.*
 - **MYA:** "Somebody with a PR firm on retainer."
   *(VN) Một người có cả công ty PR làm thuê thường xuyên.*
-- Điện thoại Danae trên bàn ăn sáng lên (INSERT ghép lúc dựng: *"Magnolia Gardens — PRN night shift available Thu"*). Cô nhìn màn hình, rồi nhìn lên ảnh MaDear.
-- **DANAE** (khô): "Can't do clinicals. But Magnolia Gardens still wants me on nights."
-  *(VN) Thực tập thì bị cấm. Nhưng Magnolia Gardens vẫn muốn tôi làm ca đêm.*
+- Điện thoại Danae trên bàn ăn sáng lên (INSERT ghép lúc dựng: *"Hollin Pines — PRN night shift available Thu"*). Cô nhìn màn hình, rồi nhìn lên ảnh MaDear.
+- **DANAE** (khô): "Hollin Pines keeps texting me for nights. I never go back."
+  *(VN) Hollin Pines cứ nhắn gọi tôi làm ca đêm. Tôi chưa bao giờ quay lại đó.*
 - **DANAE** (nhỏ hẳn): "MaDear died there. Dr. Whitfield kept her so doped she forgot my name."
   *(VN) MaDear mất ở đó. Bác sĩ Whitfield cho bà uống thuốc an thần tới mức bà quên cả tên tôi.*
 - Ozella ngừng tay cắt vải, ngẩng lên.
@@ -2206,7 +2211,7 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
   *(VN) Mẹ nghe thấy chữ "thứ Năm" rồi. Nên tôi ở đây. Thứ Năm.*
 - Ngoài cửa kính, đèn flash loé. Ở bàn bên, một người phụ nữ khoảng 45 tuổi (da nâu, tóc ngắn nhuộm đỏ, áo khoác jean đính đá) đứng phắt dậy, tay cầm lọ trà đá.
 - **KHÁCH NỮ** (to, cả quán nghe): "You're that maid! Laid up with a pregnant woman's man!"
-  *(VN) Mày là con ở đó! Cặp với chồng của người ta đang có bầu!*
+  *(VN) Mày là con ở đó! Cặp với người đàn ông của người ta đang có bầu!*
 - Bà ta hắt cả lọ trà đá vào mặt Danae. Nước trà và đá viên đổ xuống tóc, mặt, ngực áo khoác jean. Cả quán im phăng phắc. Danae nhắm mắt, ngồi yên.
 - **KHÁCH NỮ:** "Homewrecker."
   *(VN) Đồ phá hoại gia đình người ta.*
@@ -2229,7 +2234,7 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 - Trong xe: Graham (GR3: vest than chì, sơ mi đen mở cổ, khăn túi ngực đỏ rượu, kính râm gọng thép đẩy lên trán) ngồi ghế lái, hai tay trên vô lăng, không quay sang.
 - **JORDYN** (gằn giọng, giật kính râm xuống): "Nine days, Graham. You left me in there nine days."
   *(VN) Chín ngày, Graham. Anh để em trong đó chín ngày.*
-- **GRAHAM** (bình thản): "Nine days pregnant in a cell. That's a better story."
+- **GRAHAM** (bình thản): "Pregnant, nine days in a cell. That's a better story."
   *(VN) Bầu bí mà ngồi xà lim chín ngày. Chuyện vậy mới hay.*
 - **JORDYN:** "Your story. My cell."
   *(VN) Chuyện của anh. Xà lim của em.*
@@ -2251,11 +2256,11 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 ### TẬP 27 · TWELVE PERCENT · cụm 79–81 · 39:00–40:30
 
 #### Cụm 079 · 39:00–39:30 · The swing vote · TOWER_BOARDROOM · thứ Sáu 23/10/2026, 9:00 sáng
-**Nhân vật:** BARROW (BA1), GRAHAM (GR2), NOLAN (NO3); người nền: 2 thành viên hội đồng, 1 đại diện quỹ Halvorsen Capital (nam, khoảng 58 tuổi, không nói)
-**Chức năng:** lộ con số (Nolan 40%, phe nhà đầu tư do Graham dẫn 48%, bà Ozella 12%) + đại hội cổ đông bất thường thứ Sáu 30/10 + câu "assuming she can" · **Cung bậc:** căng → lạnh gáy · **Vòng:** S2 lộ thân phận tầng 2 (bà mẹ quê là cổ đông lớn thứ hai, nối từ "observer seat" cụm 59) · trả bảng tên *Graham E. Pryce* (cụm 58) · trả "eight more days" (cụm 78)
+**Nhân vật:** BARROW (BA1), GRAHAM (GR2), NOLAN (NO3); người nền: 2 thành viên hội đồng, 1 đại diện quỹ Kestrel Ridge Capital (nam, khoảng 58 tuổi, không nói)
+**Chức năng:** lộ con số (Nolan 40%, phe nhà đầu tư do Graham dẫn 48%, bà Ozella 12%) + đại hội cổ đông bất thường thứ Sáu 30/10 + câu "assuming she can" · **Cung bậc:** căng → lạnh gáy · **Vòng:** S2 lộ thân phận tầng 2 (bà mẹ quê là cổ đông lớn thứ hai, nối từ "observer seat" cụm 59) · trả "eight more days" (cụm 78)
 
 - Phòng họp hội đồng tầng 22, nắng sáng qua vách kính. Trước mỗi ghế là bảng tên mica. Màn hình lớn hiện một biểu đồ tròn ba màu (INSERT ghép lúc dựng: *N. Grier 40% · Investor bloc 48% · O. Grier 12%*).
-- Ms. Barrow (62 tuổi, da nâu Monk 7, tóc tự nhiên bạc cắt ngắn gọn, kính gọng đen; BA1: vest xám tro, áo lụa trắng cổ kín) ngồi đầu bàn. Nolan (NO3) ngồi giữa cạnh trái. Graham (GR2) ngồi đối diện anh, cạnh đại diện quỹ Halvorsen (nam khoảng 58 tuổi, da trắng, tóc bạc, vest xám).
+- Ms. Barrow (62 tuổi, da nâu Monk 7, tóc tự nhiên bạc cắt ngắn gọn, kính gọng đen; BA1: vest xám tro, áo lụa trắng cổ kín) ngồi đầu bàn. Nolan (NO3) ngồi giữa cạnh trái. Graham (GR2) ngồi đối diện anh, cạnh đại diện quỹ Kestrel Ridge (nam khoảng 58 tuổi, da trắng, tóc bạc, vest xám).
 - **BARROW** (phẳng): "Special shareholder vote. Friday the thirtieth. Under the morality clause."
   *(VN) Đại hội cổ đông bất thường. Thứ Sáu ngày ba mươi. Theo điều khoản đạo đức.*
 - **BARROW:** "Mr. Grier holds forty. The investor bloc, forty-eight."
@@ -2271,14 +2276,14 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 - **GRAHAM** (giơ hai tay, giọng vô hại): "Means the whole internet thinks she's confused. Investors read too."
   *(VN) Nghĩa là cả mạng xã hội đang nghĩ bà lú lẫn. Nhà đầu tư cũng đọc tin mà.*
 
-**Khung kết:** biểu đồ tròn trên màn hình lớn, mảnh 12% sáng lên; Graham GR2 ngả lưng ra ghế, bút trong tay, mỉm cười; Nolan NO3 nghiêng người về phía hắn qua mặt bàn, hai tay đặt phẳng; Barrow BA1 đầu bàn, kính cầm trong tay, nhìn hai người; đại diện Halvorsen ghi chép.
+**Khung kết:** biểu đồ tròn trên màn hình lớn, mảnh 12% sáng lên; Graham GR2 ngả lưng ra ghế, bút trong tay, mỉm cười; Nolan NO3 nghiêng người về phía hắn qua mặt bàn, hai tay đặt phẳng; Barrow BA1 đầu bàn, kính cầm trong tay, nhìn hai người; đại diện Kestrel Ridge ghi chép.
 **Móc:** "Nếu bà còn bỏ phiếu được": Graham định lấy 12% của bà bằng cách nào?
 
 #### Cụm 080 · 39:30–40:00 · Checked Monday · SEDAN_INTERIOR · thứ Sáu 23/10/2026, 9:40 sáng (đậu dưới hầm toà tháp)
-**Nhân vật:** JORDYN (JO4), GRAHAM (GR3)
+**Nhân vật:** JORDYN (JO4), GRAHAM (GR2)
 **Chức năng:** Jordyn phát hiện bà Ozella là tỷ phú + KẾ HOẠCH C nói thẳng: bảo hộ khẩn cấp, dùng chính câu của Nolan ("checked Monday") trong đoạn Mya quay mà chưa tắt máy, Jordyn đứng đơn với tư cách "mẹ của đứa cháu duy nhất", thư của Dr. Whitfield · **Cung bậc:** sốc → lạnh gáy · **Vòng:** S13 · trả chấm đỏ ghi hình (cụm 23) · trả Whitfield (cụm 27, 76) · đặt đơn bảo hộ (trả ở cụm 81, 84)
 
-- Trong chiếc sedan đen đậu dưới hầm toà tháp Grier Systems. Graham (GR3) ngồi ghế lái, máy tính bảng trên vô lăng. Jordyn (JO4) ngồi ghế phụ, giật lấy máy tính bảng, nhìn biểu đồ 12%.
+- Trong chiếc sedan đen đậu dưới hầm toà tháp Grier Systems. Graham (GR2, cà vạt đã nới lỏng) ngồi ghế lái, máy tính bảng trên vô lăng. Jordyn (JO4) ngồi ghế phụ, giật lấy máy tính bảng, nhìn biểu đồ 12%.
 - **JORDYN** (đọc, mắt mở to): "Twelve percent of a nine-billion-dollar company?"
   *(VN) Mười hai phần trăm của một công ty chín tỷ đô?*
 - **JORDYN** (rít lên): "The henhouse lady is worth a BILLION dollars?"
@@ -2286,10 +2291,10 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 - **GRAHAM:** "And she's confused. Remember? It's on camera."
   *(VN) Và bà ta lú lẫn. Nhớ không? Có cả trên video.*
 - Graham chạm vào màn hình. Một đoạn video cũ của Mya, khung hình nghiêng, quay sát đùi, chỉ thấy mép váy và sàn đá ướt; tiếng vang rõ (INSERT âm thanh ghép lúc dựng), giọng Nolan: *"Mama, you're tired. Let's get you checked Monday."*
-- **JORDYN** (sững người): "Mya's phone was still recording?"
-  *(VN) Điện thoại của Mya vẫn đang ghi à?*
-- **GRAHAM:** "Mya's always recording."
-  *(VN) Mya lúc nào chẳng ghi.*
+- **JORDYN** (sững người): "That's in Mya's video?"
+  *(VN) Cái đó nằm trong video của Mya à?*
+- **GRAHAM:** "It's in the full video Mya posted. Nobody watched to the end."
+  *(VN) Nó nằm trong video đầy đủ Mya đăng. Chẳng ai xem tới cuối.*
 - **GRAHAM** (chậm, như giảng bài): "Emergency guardianship. A judge appoints a guardian. The guardian votes her shares."
   *(VN) Bảo hộ khẩn cấp. Thẩm phán chỉ định người giám hộ. Người giám hộ bỏ phiếu thay bà ta.*
 - **GRAHAM** (đặt tay lên bụng cô): "And you file. As the mother of her only grandchild."
@@ -2297,15 +2302,15 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 - **GRAHAM:** "Dr. Whitfield already wrote the letter."
   *(VN) Bác sĩ Whitfield viết sẵn thư rồi.*
 
-**Khung kết:** Jordyn JO4 ôm máy tính bảng vào ngực, nhìn Graham, miệng hé mở rồi từ từ cong lên thành nụ cười; Graham GR3 một tay trên bụng cô, tay kia kéo kính râm từ trán xuống; trên màn hình máy tính bảng dừng ở khung hình nghiêng mép váy ướt và sàn đá.
+**Khung kết:** Jordyn JO4 ôm máy tính bảng vào ngực, nhìn Graham, miệng hé mở rồi từ từ cong lên thành nụ cười; Graham GR2 một tay trên bụng cô, tay kia nới lỏng thêm cà vạt; trên màn hình máy tính bảng dừng ở khung hình nghiêng mép váy ướt và sàn đá.
 **Móc:** Một lá thư bác sĩ, một đoạn clip, một cái bụng bầu: liệu có đủ để nhốt một người hoàn toàn tỉnh táo?
 
 #### Cụm 081 · 40:00–40:30 · The petition · PROBATE_CLERK · thứ Sáu 23/10/2026, 4:45 chiều
 **Nhân vật:** BANKS (CB1), JORDYN (JO4); người nền: THƯ KÝ toà (nữ, khoảng 50 tuổi, sau quầy kính, nói 2 câu)
-**Chức năng:** đơn bảo hộ khẩn cấp được nộp, khán giả thấy rõ từng "bằng chứng"; Banks tự đề cử làm người giám hộ; Danae bị vu là "người chăm sóc trục lợi, cô lập bà cụ"; thẩm phán xét đơn khẩn lúc 6 giờ sáng thứ Hai · **Cung bậc:** lạnh gáy · **Vòng:** S13 · vu oan 2 (Danae) · đặt 6 giờ sáng thứ Hai (trả ở cụm 84)
+**Chức năng:** đơn bảo hộ khẩn cấp được nộp, khán giả thấy rõ từng "bằng chứng"; Banks, người giám hộ chuyên nghiệp trong danh sách của toà, được đề cử làm người giám hộ; Danae bị vu là "người chăm sóc trục lợi, cô lập bà cụ"; thẩm phán xét đơn khẩn lúc 6 giờ sáng thứ Hai · **Cung bậc:** lạnh gáy · **Vòng:** S13 · vu oan 2 (Danae) · đặt 6 giờ sáng thứ Hai (trả ở cụm 84)
 
 - Hành lang toà di chúc và giám hộ hạt Fulton: tường kem, ghế nhựa xếp hàng, quầy thư ký sau tấm kính có khe đẩy giấy. Đồng hồ treo tường chỉ 4 giờ 45.
-- Banks (CB1) đẩy một xấp giấy dày qua khe kính (INSERT ghép lúc dựng: *"Emergency Petition for Appointment of Guardian and Conservator — Ozella Mae Grier"*; Exhibit A: *letter, A. Whitfield, M.D.*; Exhibit B: *video*). Jordyn (JO4) đứng cạnh hắn, một tay trên bụng, mắt đỏ hoe.
+- Banks (CB1) đẩy một xấp giấy dày qua khe kính (INSERT ghép lúc dựng: *"Emergency Petition for Appointment of Guardian and Conservator — Ozella Mae Grier"*; Exhibit A: *letter, A. Whitfield, M.D.*; Exhibit B: *video*; Proposed guardian: *Clifford Banks, registered professional guardian*). Jordyn (JO4) đứng cạnh hắn, một tay trên bụng, mắt đỏ hoe.
 - **BANKS:** "Emergency petition. Guardian and conservator. Ozella Mae Grier."
   *(VN) Đơn khẩn cấp. Xin chỉ định người giám hộ và người quản lý tài sản. Bà Ozella Mae Grier.*
 - **THƯ KÝ** (không ngẩng lên): "Grounds?"
@@ -2337,13 +2342,11 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 - Danae (DA7) ngồi mép sofa, cúi nhìn, rồi ngồi thẳng dậy.
 - **DANAE** (thì thầm): "Miss Ozella. That paper is worth a billion dollars."
   *(VN) Bà Ozella. Tờ giấy đó đáng giá một tỷ đô.*
-- **OZELLA** (gấp lại cẩn thận): "That paper's worth sixty thousand. What I borrowed on my farm."
-  *(VN) Tờ giấy này đáng sáu mươi nghìn. Bằng số tiền tôi thế chấp trang trại để vay.*
-- **OZELLA:** "Twenty-fourteen. My boy had an idea and no money."
-  *(VN) Năm hai nghìn mười bốn. Thằng con tôi có ý tưởng mà không có tiền.*
-- **OZELLA** (kẹp tờ giấy lại vào Kinh Thánh): "He gave me this so I'd quit fussing. I keep it in Psalms."
-  *(VN) Nó đưa tôi cái này cho tôi khỏi cằn nhằn. Tôi kẹp nó trong sách Thi Thiên.*
-- Danae mở hộp điện thoại mới, bật máy, giơ lên trước mặt bà, bấm quay video.
+- **OZELLA** (gấp lại cẩn thận): "That paper's worth sixty thousand. What I borrowed on my farm in twenty-fourteen."
+  *(VN) Tờ giấy này đáng sáu mươi nghìn. Bằng số tiền tôi thế chấp trang trại để vay hồi năm 2014.*
+- **OZELLA** (kẹp tờ giấy lại vào Kinh Thánh): "I keep it in Psalms."
+  *(VN) Tôi kẹp nó trong sách Thi Thiên.*
+- Danae rút điện thoại của mình khỏi túi quần, giơ lên trước mặt bà, bấm quay video.
 - **DANAE:** "Then let's make a record. Look right here."
   *(VN) Vậy mình làm một cái bằng chứng. Bà nhìn vào đây.*
 - **OZELLA** (nhìn thẳng ống kính, chậm, rõ từng chữ): "My name is Ozella Mae Grier. Today is Friday, October twenty-third."
@@ -2355,17 +2358,17 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 - **OZELLA:** "Too high. Stop recording."
   *(VN) Đắt quá trời. Tắt máy đi.*
 
-**Khung kết:** màn hình điện thoại mới trong tay Danae DA7 vẫn đang quay, chấm đỏ sáng, khung hình là gương mặt Ozella OZ1 nghiêm nghị; Ozella ngồi ghế bành, Kinh Thánh khép trên đùi, hai bàn tay to đặt lên bìa sách; ảnh MaDear đội mũ nhà thờ trên kệ phía sau.
+**Khung kết:** màn hình điện thoại trong tay Danae DA7 vẫn đang quay, chấm đỏ sáng, khung hình là gương mặt Ozella OZ1 nghiêm nghị; Ozella ngồi ghế bành, Kinh Thánh khép trên đùi, hai bàn tay to đặt lên bìa sách; ảnh MaDear đội mũ nhà thờ trên kệ phía sau.
 **Móc:** Vì sao bà Ozella phải tự quay video chứng minh mình tỉnh táo? Bà linh cảm điều gì?
 
 #### Cụm 083 · 41:00–41:30 · Now New York · JET_CABIN + RANCH_LIVING · Chủ nhật 25/10/2026, 8:00 tối, cắt qua lại
 **Nhân vật:** NOLAN (NO3), OZELLA (OZ1); DANAE (DA7, không nói, ở hậu cảnh)
-**Chức năng:** Graham đẩy Nolan đi xa lần thứ hai (New York gặp quỹ Halvorsen) + Ozella chỉ ra quy luật "Seattle. Now New York." + Nolan vẫn đi vì có lý do (muốn lật phe nhà đầu tư cho chắc) + Moses canh ngoài cửa nhà MaDear · **Cung bậc:** lo · **Vòng:** trả chuyến Seattle (cụm 7, 66) · M4 · đặt Moses gác cửa (trả ở cụm 84)
+**Chức năng:** Graham đẩy Nolan đi xa lần thứ hai (New York gặp quỹ Kestrel Ridge) + Ozella chỉ ra quy luật "Seattle. Now New York." + Nolan vẫn đi vì có lý do (muốn lật phe nhà đầu tư cho chắc) + Moses canh ngoài cửa nhà MaDear · **Cung bậc:** lo · **Vòng:** trả chuyến Seattle (cụm 7, 66) · M4 · đặt Moses gác cửa (trả ở cụm 84)
 
 - JET_CABIN: khoang máy bay riêng bọc da kem, đèn vàng dịu, cửa sổ tròn tối đen. Nolan (NO3, áo vest vắt lên ghế bên) ngồi ghế da, điện thoại áp tai, cặp hồ sơ mở trên bàn gỗ gập.
 - RANCH_LIVING: Ozella (OZ1) ngồi bên máy may của MaDear, điện thoại mới bật loa để trên bàn may. Phía sau, Danae (DA7) gấp quần áo trên sofa. Qua cửa sổ, chiếc SUV đen của Moses đậu dưới đèn đường.
-- **NOLAN:** "Back Tuesday, Mama. If Halvorsen flips, the vote's over before it starts."
-  *(VN) Thứ Ba con về, mẹ. Nếu quỹ Halvorsen đổi phe thì chưa bỏ phiếu đã xong.*
+- **NOLAN:** "Back Tuesday, Mama. If Kestrel Ridge flips, the vote's over before it starts."
+  *(VN) Thứ Ba con về, mẹ. Nếu quỹ Kestrel Ridge đổi phe thì chưa bỏ phiếu đã xong.*
 - **OZELLA** (không ngừng tay đạp máy may): "Seattle. Now New York. Who booked it?"
   *(VN) Seattle. Giờ tới New York. Ai đặt lịch?*
 - **NOLAN** (khựng một nhịp): "...Graham set the meeting."
@@ -2385,8 +2388,8 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 **Khung kết:** cắt đôi: trong JET_CABIN, Nolan NO3 tựa đầu vào ghế da, điện thoại vẫn áp tai, mắt nhắm; ở RANCH_LIVING, Ozella OZ1 ngừng đạp máy may, nhìn qua cửa sổ ra chiếc SUV đen dưới đèn đường; Danae DA7 dừng tay gấp áo, nhìn bà.
 **Móc:** Nolan cất cánh. Trong lúc đó, ai đang chuẩn bị tới nhà MaDear?
 
-#### Cụm 084 · 41:30–42:00 · Six a.m. · RANCH_LIVING + hiên nhà MaDear · thứ Hai 26/10/2026, 5:58 sáng
-**Nhân vật:** OZELLA (OZ5), BANKS (CB1), DANAE (DA7); MOSES (MO3, không nói); người nền: 2 phó cảnh sát trưởng hạt Fulton (1 nói), 1 nữ điều dưỡng tiếp nhận của Magnolia Gardens (không nói)
+#### Cụm 084 · 41:30–42:00 · Six a.m. · RANCH_LIVING + RANCH_PORCH · thứ Hai 26/10/2026, 7:15 sáng
+**Nhân vật:** OZELLA (OZ5), BANKS (CB1), DANAE (DA7); MOSES (MO3, không nói); người nền: 2 phó cảnh sát trưởng hạt Fulton (1 nói), 1 nữ điều dưỡng tiếp nhận của Hollin Pines (không nói)
 **Chức năng:** cú sốc lớn: lệnh bảo hộ khẩn cấp ngay cửa nhà lúc tờ mờ sáng; Moses không chặn được vì đó là lệnh toà hợp pháp · **Cung bậc:** sững → lạnh gáy · **Vòng:** M4 móc cuối tập · M1 pha 1 (sỉ nhục lượt hai bắt đầu) · trả "6 a.m." (cụm 81) · đặt mảnh vải scrubs dính rượu (trả ở cụm 119)
 
 - Trời xanh thẫm trước bình minh. Phòng khách nhà MaDear chỉ sáng đèn máy may. Ozella (OZ5: áo choàng ngủ cotton xanh lam nhạt điểm hoa trắng nhỏ, dép bông be, khăn trùm đầu cotton be) đã dậy từ sớm như mọi ngày ở trang trại, ngồi bên máy may. Trong tay bà là chiếc áo scrubs xanh sage cũ của Danae, vết rượu vang đỏ đã ngả nâu trên ngực áo; bà đang cắt từ đó ra một mảnh vuông.
@@ -2411,16 +2414,16 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 
 ### TẬP 29 · TAKEN · cụm 85–87 · 42:00–43:30
 
-#### Cụm 085 · 42:00–42:30 · Third phone · hiên + lối xe nhà MaDear · liền
+#### Cụm 085 · 42:00–42:30 · Third time · RANCH_PORCH + RANCH_DRIVEWAY · liền
 **Nhân vật:** BANKS (CB1), OZELLA (OZ5), DANAE (DA7), JORDYN (JO4); MOSES (MO3, không nói); người nền: 2 phó cảnh sát trưởng, 1 nữ điều dưỡng tiếp nhận, 3 hàng xóm đứng trên hiên nhà mình cầm điện thoại quay (không nói)
 **Chức năng:** sỉ nhục lượt hai: điện thoại bị lấy lần thứ ba, Danae bị cấm tiếp xúc ngay trước mặt bà, hàng xóm quay phim, Jordyn quay vlog "đưa bà nội đi chữa bệnh" · **Cung bậc:** phẫn nộ · **Vòng:** M1 pha 1 · gương soi cụm 3 (điện thoại bị cướp) · trả lời vu Danae (cụm 81)
 
 - Hiên bê tông nhỏ và lối xe nhà MaDear, trời vừa hửng xám. Đèn xanh đỏ trên nóc hai xe sheriff vẫn nháy. Xe van trắng mở cửa trượt.
-- Banks (CB1) đưa tay vào túi áo choàng ngủ của Ozella (OZ5), rút chiếc điện thoại mới ra.
+- Ozella (OZ5) gấp mảnh vải sage làm tư, nhét vào túi áo choàng bên phải. Banks (CB1) đưa tay vào túi áo choàng bên trái của bà, rút chiếc điện thoại mới ra.
 - **BANKS:** "The ward's devices are held by the guardian."
   *(VN) Thiết bị của người được giám hộ do người giám hộ giữ.*
-- **OZELLA** (nhìn bàn tay trống trơn của mình): "Third phone this month."
-  *(VN) Cái điện thoại thứ ba trong tháng này rồi đấy.*
+- **OZELLA** (nhìn bàn tay trống trơn của mình): "Third time this month somebody took my phone."
+  *(VN) Lần thứ ba trong tháng có người giật điện thoại của tôi.*
 - Danae (DA7) lao ra hiên, chen tới giữa Ozella và Banks.
 - **DANAE:** "You can't take her! I'm the one who takes care of her!"
   *(VN) Các người không được bắt bà! Tôi là người chăm sóc bà!*
@@ -2436,15 +2439,15 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 - **JORDYN** (giọng vlog, ngọt như mật): "Y'all, today we're getting Grandma the help she needs."
   *(VN) Cả nhà ơi, hôm nay mình đưa bà nội đi được chăm sóc đàng hoàng nè.*
 
-**Khung kết:** Ozella OZ5 đứng ở bậc hiên trên cùng, hai bàn tay trống, khăn trùm đầu be, nhìn thẳng sang chiếc SUV trắng; Banks CB1 đứng cạnh bà, cất chiếc điện thoại vào túi áo vest; Danae DA7 bị chặn ở cửa lưới, cánh tay phó cảnh sát trưởng ngang trước ngực cô; Moses MO3 đứng dưới lối xe, nắm chặt hai tay; bên kia đường Jordyn JO4 cầm điện thoại quay qua cửa kính SUV.
+**Khung kết:** Ozella OZ5 đứng ở bậc hiên trên cùng, hai bàn tay trống, mảnh vải sage gấp tư trong túi áo choàng bên phải, khăn trùm đầu be, nhìn thẳng sang chiếc SUV trắng; Banks CB1 đứng cạnh bà, cất chiếc điện thoại vào túi áo vest; Danae DA7 bị chặn ở cửa lưới, cánh tay phó cảnh sát trưởng ngang trước ngực cô; Moses MO3 đứng dưới lối xe, nắm chặt hai tay; bên kia đường Jordyn JO4 cầm điện thoại quay qua cửa kính SUV.
 **Móc:** Bà Ozella chỉ kịp xin mang theo một thứ. Thứ gì?
 
-#### Cụm 086 · 42:30–43:00 · Psalms · lối xe nhà MaDear, cạnh xe van · liền
+#### Cụm 086 · 42:30–43:00 · Psalms · RANCH_DRIVEWAY · liền
 **Nhân vật:** OZELLA (OZ5), BANKS (CB1), DANAE (DA7), MOSES (MO3); người nền: 2 phó cảnh sát trưởng, 1 nữ điều dưỡng tiếp nhận (không nói)
 **Chức năng:** Ozella tự bước lên xe với phẩm giá; Banks lấy cuốn Kinh Thánh và tìm thấy tờ chứng nhận cổ phần (kẻ ác cầm được "12%") + bà dặn lại: gọi Nolan, gọi hội các bà mẹ nhà thờ · **Cung bậc:** đau → quyết · **Vòng:** M2 im lặng · trả chứng nhận trong Thi Thiên (cụm 82) · đặt Mothers' Board (trả ở cụm 87, 109, 117)
 
-- Lối xe nhà MaDear. Xe van trắng (INSERT logo nhỏ *Magnolia Gardens* trên cửa, ghép lúc dựng) mở cửa trượt, bậc lên xe hạ xuống.
-- Ozella (OZ5) tự bước xuống từng bậc hiên, cuốn Kinh Thánh nhỏ bìa sờn ôm trước ngực. Moses (MO3) đứng chờ ở bậc dưới cùng, chìa cánh tay. Bà khoác lấy.
+- Lối xe nhà MaDear. Xe van trắng (INSERT logo nhỏ *Hollin Pines* trên cửa, ghép lúc dựng) mở cửa trượt, bậc lên xe hạ xuống.
+- Ozella (OZ5) quay vào lấy cuốn Kinh Thánh nhỏ bìa sờn trên bàn may; phó cảnh sát trưởng gật đầu cho phép. Bà tự bước xuống từng bậc hiên, cuốn Kinh Thánh ôm trước ngực. Moses (MO3) đứng chờ ở bậc dưới cùng, chìa cánh tay. Bà khoác lấy.
 - **OZELLA** (khẽ): "Thank you, Moses."
   *(VN) Cảm ơn cậu, Moses.*
 - Tới cửa xe, Banks chìa tay ra.
@@ -2469,7 +2472,7 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 
 #### Cụm 087 · 43:00–43:30 · Forty acres · FARM_GATE · thứ Hai 26/10/2026, 9:00 sáng
 **Nhân vật:** DEACON PRUITT (PR1); người nền: MÔI GIỚI bất động sản (nam, khoảng 30 tuổi, nói 1 câu), 3 công nhân bắt gà vào lồng (không nói), xe tải chở lồng
-**Chức năng:** sỉ nhục lan sang đất đai và mồ mả: người giám hộ "thanh lý" đàn gà, cắm biển BÁN 40 MẪU ngay cạnh mộ ông Earl + đặt bia mộ Earl (1956–2006) · **Cung bậc:** phẫn nộ · **Vòng:** M1 · đặt mộ Earl (trả ở cụm 113, 117) · đặt biển bán (trả ở cụm 117)
+**Chức năng:** sỉ nhục lan sang đất đai và mồ mả: người giám hộ "thanh lý" đàn gà, cắm biển BÁN 40 MẪU ngay cạnh mộ ông Earl + đặt bia mộ Earl (1956–2006) · **Cung bậc:** phẫn nộ · **Vòng:** M1 · đặt mộ Earl (trả ở cụm 113, 117) · đặt biển bán (trả ở cụm 117) · đặt dấu hiệu dàn xếp từ trước (xe chở lồng tới chỉ vài giờ sau khi lệnh được ký)
 
 - Đầu đường đất đỏ vào trang trại của bà Ozella, nắng sớm vàng. Quầy bán trứng bằng gỗ có mái che nhỏ, hộp tiền tự giác bằng thiếc, hộp thư sơn trắng bong tróc. Cây hồ đào lớn nhất tán rộng che nửa sân; dưới gốc là một bia mộ đá granite xám (INSERT khắc chữ ghép lúc dựng: *Earl James Grier · 1956–2006 · "He came home"*).
 - Một xe tải nhỏ chất đầy lồng sắt lùi sát chuồng gà sơn đỏ. Ba công nhân chạy đuổi gà mái nâu, tóm cánh nhét vào lồng; lông gà bay, gà kêu ầm ĩ.
@@ -2477,10 +2480,12 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 - Một chiếc xe bán tải cũ phanh gấp, bụi đỏ tung lên. Deacon Pruitt (74 tuổi, da nâu rất sâu Monk 9, ria bạc, gầy; PR1: quần yếm jean bạc, sơ mi kẻ ô, mũ phớt nâu, gậy gỗ) chống gậy bước xuống.
 - **PRUITT** (gõ gậy xuống đất): "Y'all put them hens down! That's Ozella Grier's land!"
   *(VN) Bỏ mấy con gà xuống! Đất này của bà Ozella Grier!*
-- **MÔI GIỚI** (không ngẩng lên, vẫn đóng): "Not anymore, sir. Her guardian's listing it."
-  *(VN) Hết rồi, bác ơi. Người giám hộ của bà ấy đang rao bán.*
+- **MÔI GIỚI** (không ngẩng lên, vẫn đóng): "Not anymore, sir. Her guardian's listing it. Order came down this morning."
+  *(VN) Hết rồi, bác ơi. Người giám hộ của bà ấy đang rao bán. Lệnh mới có sáng nay.*
 - **PRUITT:** "Her WHAT?"
   *(VN) Người GÌ của bà ấy?*
+- **PRUITT:** "This morning? Y'all had that truck loaded before the ink dried."
+  *(VN) Sáng nay á? Vậy mà tụi bay chất lồng lên xe từ trước khi mực kịp khô.*
 - **PRUITT** (chỉ gậy vào bia mộ): "That's Earl Grier under that tree, son. You're nailing a sign on a grave."
   *(VN) Dưới gốc cây đó là Earl Grier, cậu ạ. Cậu đang đóng biển lên mồ người ta đấy.*
 - Môi giới nhún vai, đóng thêm hai búa. Một con gà mái thoát khỏi tay công nhân, chạy tới nép vào chân bia mộ.
@@ -2493,16 +2498,16 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 
 ### TẬP 30 · ROOM 114 · cụm 88–90 · 43:30–45:00
 
-#### Cụm 088 · 43:30–44:00 · No head coverings · MAGNOLIA_INTAKE · thứ Hai 26/10/2026, 7:00 sáng
+#### Cụm 088 · 43:30–44:00 · No head coverings · PINES_INTAKE · thứ Hai 26/10/2026, 9:30 sáng
 **Nhân vật:** OZELLA (OZ5 → OZ5B), CORINNE (CO1), JORDYN (JO4)
-**Chức năng:** sỉ nhục mạnh nhất Phần 2: vòng tay "nguy cơ đi lạc", bị tháo khăn trùm đầu, Jordyn lấy khăn của bà buộc lên cổ tay mình làm trang sức, "ở trong này, bà là thứ tôi nói" + câu trả của bà · **Cung bậc:** phẫn nộ → nghẹn · **Vòng:** M1 · M2 im lặng · đặt khăn trùm đầu (trả ở cụm 111) · đặt cửa khoá từ có bàn phím mã (trả ở cụm 98)
+**Chức năng:** sỉ nhục mạnh nhất Phần 2: vòng tay "nguy cơ đi lạc", bị tháo khăn trùm đầu, Jordyn lấy khăn của bà buộc lên cổ tay mình làm trang sức, "ở trong này, bà là thứ tôi nói" + câu trả của bà + Jordyn đang tại ngoại mà tự tay chạm vào bà trước camera an ninh · **Cung bậc:** phẫn nộ → nghẹn · **Vòng:** M1 · M2 im lặng · đặt khăn trùm đầu (trả ở cụm 111) · đặt vi phạm lệnh cấm tiếp xúc (trả ở cụm 111) · đặt cửa khoá từ có bàn phím mã (trả ở cụm 98)
 
-- Sảnh tiếp nhận cơ sở chăm sóc trí nhớ Magnolia Gardens ở Southwest Atlanta: cửa kính đôi khoá từ với bàn phím mã số, bàn tiếp nhận gỗ sáng màu, ghế nhựa xếp dọc tường, tranh hoa mộc lan in sẵn, đèn trần trắng lạnh. Qua cửa kính thứ hai thấy hành lang dài có tay vịn.
-- Ozella (OZ5) ngồi ghế nhựa. Corinne (44 tuổi, da nâu Monk 6, tóc buộc đuôi ngựa thấp; CO1: scrubs xám than, thẻ tên cơ sở, giày y tế trắng) bấm một vòng tay nhựa trắng vào cổ tay trái bà (INSERT ghép lúc dựng: *GRIER, O. — ELOPEMENT RISK*).
+- Sảnh tiếp nhận cơ sở chăm sóc trí nhớ Hollin Pines ở Southwest Atlanta: cửa kính đôi khoá từ với bàn phím mã số, bàn tiếp nhận gỗ sáng màu, ghế nhựa xếp dọc tường, tranh rừng thông in sẵn, đèn trần trắng lạnh; ở góc trần là một camera an ninh nhỏ, đèn đỏ sáng, chĩa xuống dãy ghế tiếp nhận. Qua cửa kính thứ hai thấy hành lang dài có tay vịn.
+- Ozella (OZ5) ngồi ghế nhựa. Corinne (44 tuổi, da nâu Monk 8, tóc buộc đuôi ngựa thấp; CO1: scrubs xám than, thẻ tên cơ sở, giày y tế trắng) bấm một vòng tay nhựa trắng vào cổ tay trái bà (INSERT ghép lúc dựng: *GRIER, O. — ELOPEMENT RISK*).
 - **CORINNE** (đều đều, như đọc nội quy): "No head coverings on the unit. Policy."
   *(VN) Trong khu không được trùm đầu. Quy định.*
-- **OZELLA:** "I've worn a head wrap since before your mama was born."
-  *(VN) Tôi quấn khăn từ hồi mẹ cô còn chưa ra đời.*
+- **OZELLA:** "I've worn a head wrap since before you were born."
+  *(VN) Tôi quấn khăn từ hồi cô còn chưa ra đời.*
 - Corinne ngập ngừng, tay dừng lại. Từ phía ghế khách, Jordyn (JO4) đứng dậy, bước tới, dây thẻ "người đứng đơn" (INSERT) đeo trên cổ.
 - **JORDYN** (ngọt): "Policy is policy, Grandma."
   *(VN) Quy định là quy định mà, bà nội.*
@@ -2516,10 +2521,10 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 - **OZELLA** (nhỏ, rõ từng chữ): "Sugar, I been underestimated by better than you."
   *(VN) Cháu à, người coi thường tôi tôi gặp nhiều rồi. Họ còn khá hơn cháu nhiều.*
 
-**Khung kết:** Ozella OZ5B ngồi thẳng lưng trên ghế nhựa, đầu trần, tóc bạc ngắn, vòng tay trắng ở cổ tay trái, hai bàn tay to đặt trên đùi; Jordyn JO4 đứng thẳng lên, chiếc khăn be thắt nơ quanh cổ tay trái, cạnh chiếc nhẫn kim cương; Corinne CO1 đứng sau bà, mắt nhìn xuống sàn; sau lưng họ, cửa kính khoá từ đèn đỏ.
+**Khung kết:** camera an ninh ở góc trần sáng đèn đỏ, chĩa xuống ghế tiếp nhận; Ozella OZ5B ngồi thẳng lưng trên ghế nhựa, đầu trần, tóc bạc ngắn, vòng tay trắng ở cổ tay trái, hai bàn tay to đặt trên đùi; Jordyn JO4 đứng thẳng lên, chiếc khăn be thắt nơ quanh cổ tay trái, cạnh chiếc nhẫn kim cương; Corinne CO1 đứng sau bà, mắt nhìn xuống sàn; sau lưng họ, cửa kính khoá từ đèn đỏ.
 **Móc:** Trong căn nhà khoá từ này, họ còn định làm gì bà nữa?
 
-#### Cụm 089 · 44:00–44:30 · Applesauce · MAGNOLIA_ROOM · thứ Hai 26/10/2026, 11:00 sáng
+#### Cụm 089 · 44:00–44:30 · Applesauce · PINES_ROOM · thứ Hai 26/10/2026, 11:00 sáng
 **Nhân vật:** OZELLA (OZ5B), WHITFIELD (WH1); CORINNE (CO1, không nói)
 **Chức năng:** phản đòn nhỏ bằng trí: bà ngậm viên thuốc trộn trong sốt táo rồi nhả vào khăn giấy giấu trong tay áo; trả lời bác sĩ chính xác từng chữ; hắn vẫn viết "lú lẫn" và bà đọc ngược được sổ của hắn · **Cung bậc:** hồi hộp → hả hê nhỏ · **Vòng:** S7 · M2 · đặt viên thuốc giấu (trả ở cụm 90, 96, 110) · đặt "viết sai chính tả" (trả ở cụm 110)
 
@@ -2544,12 +2549,12 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 **Khung kết:** Ozella OZ5B ngồi mép giường, hai tay đặt trên đùi, một góc khăn giấy trắng lộ ra ở mép ống tay áo trái; cốc sốt táo rỗng trên tủ đầu giường; Whitfield WH1 đứng ở cửa, kẹp hồ sơ ép vào ngực, ngoái lại nhìn bà; Corinne CO1 đứng sau hắn.
 **Móc:** Viên thuốc giấu trong tay áo là thuốc gì, và ai sẽ mang nó ra ngoài?
 
-#### Cụm 090 · 44:30–45:00 · Night shift · MAGNOLIA_ROOM · thứ Hai 26/10/2026, 11:30 tối
+#### Cụm 090 · 44:30–45:00 · Night shift · PINES_ROOM · thứ Hai 26/10/2026, 11:30 tối
 **Nhân vật:** DANAE (DA5), OZELLA (OZ5B → OZ5M)
-**Chức năng:** nhịp ấm và hy vọng: Danae vào ca đêm bất chấp lệnh cấm (cô biết mã cửa, biết từng hành lang vì MaDear sống năm cuối ở đây); đội cho bà khăn của MaDear; bà đưa viên thuốc · **Cung bậc:** ấm → hồi hộp · **Vòng:** đồng minh · S5 lợi thế riêng · trả Magnolia Gardens và MaDear (cụm 76) · trả viên thuốc (cụm 89) · đặt Danae ghi âm từ xe đẩy (trả ở cụm 110)
+**Chức năng:** nhịp ấm và hy vọng: Danae vào ca đêm bất chấp lệnh cấm (cô biết mã cửa, biết từng hành lang vì MaDear sống năm cuối ở đây); đội cho bà khăn của MaDear; bà đưa viên thuốc · **Cung bậc:** ấm → hồi hộp · **Vòng:** đồng minh · S5 lợi thế riêng · trả Hollin Pines và MaDear (cụm 76) · trả viên thuốc (cụm 89) · đặt điện thoại ghi âm trong ngăn kéo tủ đầu giường (trả ở cụm 110)
 
 - Phòng 114 về đêm: chỉ còn đèn ngủ xanh nhạt ở chân tường, ánh đèn bãi xe vàng lọt qua song cửa. Ozella (OZ5B) nằm nghiêng, mắt mở.
-- Cửa hé. Một xe đẩy đồ vải được đẩy vào. Người đẩy mặc scrubs xanh navy của cơ sở: Danae (DA5: scrubs xanh navy Magnolia Gardens, thẻ tên cơ sở (chữ INSERT), đồng hồ điều dưỡng đeo ngược mặt vào trong cổ tay, box braids búi thấp, nốt ruồi dưới mắt phải). Cô khép cửa thật khẽ.
+- Cửa hé. Một xe đẩy đồ vải được đẩy vào. Người đẩy mặc scrubs xanh navy của cơ sở: Danae (DA5: scrubs xanh navy Hollin Pines, thẻ tên cơ sở (chữ INSERT), đồng hồ điều dưỡng đeo ngược mặt vào trong cổ tay, box braids búi thấp, nốt ruồi dưới mắt phải). Cô khép cửa thật khẽ.
 - **OZELLA** (ngồi bật dậy, thì thầm): "Child, you're under a court order."
   *(VN) Con ơi, con đang bị toà cấm đấy.*
 - **DANAE** (thì thầm): "Then they can arrest me in scrubs."
@@ -2565,18 +2570,18 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 - Danae mở khăn giấy dưới đèn pin điện thoại. Cận: viên thuốc trắng nhỏ. Mặt cô cứng lại.
 - **DANAE** (rất nhỏ): "That's what they gave MaDear. Every night."
   *(VN) Đó là thứ họ cho MaDear uống. Đêm nào cũng vậy.*
-- Tiếng bước chân ngoài hành lang. Danae nhét khăn giấy vào túi áo ngực, đặt điện thoại của mình nằm úp trong ngăn dưới xe đẩy, màn hình vẫn sáng chế độ ghi âm, rồi đẩy xe ra cửa.
+- Tiếng bước chân ngoài hành lang. Danae nhét khăn giấy vào túi áo ngực, đặt điện thoại của mình nằm úp trong ngăn kéo tủ đầu giường của bà, chế độ ghi âm vẫn chạy, đẩy ngăn kéo khép lại, rồi đẩy xe ra cửa.
 
-**Khung kết:** Ozella OZ5M ngồi trên giường, khăn lụa tím mận của MaDear trên đầu, một tay đặt lên nút thắt sau gáy; Danae DA5 ở cửa, lưng quay vào phòng, tay trên tay đẩy xe đồ vải; ở ngăn dưới xe đẩy, màn hình điện thoại úp sáng mờ chấm đỏ ghi âm; vệt đèn hành lang hắt vào qua khe cửa.
+**Khung kết:** Ozella OZ5M ngồi trên giường, khăn lụa tím mận của MaDear trên đầu, một tay đặt lên nút thắt sau gáy; Danae DA5 ở cửa, lưng quay vào phòng, tay trên tay đẩy xe đồ vải; ngăn kéo tủ đầu giường khép hờ, bên trong le lói chấm đỏ ghi âm của điện thoại úp; vệt đèn hành lang hắt vào qua khe cửa.
 **Móc:** Viên thuốc đó là gì, và Danae ở lại được bao lâu trước khi bị phát hiện?
 
 ### TẬP 31 · NO VISITORS · cụm 91–93 · 45:00–46:30
 
-#### Cụm 091 · 45:00–45:30 · Not on the list · MAGNOLIA_INTAKE (ngoài cửa kính khoá từ) · thứ Ba 27/10/2026, 8:00 sáng
+#### Cụm 091 · 45:00–45:30 · Not on the list · PINES_INTAKE (ngoài cửa kính khoá từ) · thứ Ba 27/10/2026, 8:00 sáng
 **Nhân vật:** NOLAN (NO3C), CORINNE (CO1), BANKS (CB1); OZELLA (OZ5M, không nói, sau lớp kính thứ hai)
 **Chức năng:** sỉ nhục cho Nolan (gương soi cổng nhà Carrington): con trai tỷ phú bị chặn ngoài cửa, chỉ nhìn được mẹ qua hai lớp kính; Banks dùng chính câu của Nolan để đâm lại · **Cung bậc:** phẫn nộ → đau · **Vòng:** M1 · gương soi cụm 1 và 19 (người bị chặn ở cổng giờ là Nolan) · trả "checked Monday" (cụm 23, 80)
 
-- Bên ngoài cửa kính đôi khoá từ của Magnolia Gardens. Nolan (NO3C: vest than chì nhàu nát, cà vạt nới lỏng, râu lởm chởm sau chuyến bay đêm từ New York) xách một túi giấy: đôi giày đi lễ của mẹ, kính đọc sách, một hộp bánh quy bơ. Anh bấm nút loa ở cửa.
+- Bên ngoài cửa kính đôi khoá từ của Hollin Pines. Nolan (NO3C: vest than chì nhàu nát, cà vạt nới lỏng, râu lởm chởm; chưa thay đồ từ lúc bỏ dở cuộc gặp Kestrel Ridge, bay gấp từ New York về chiều thứ Hai; đây là lần thứ ba anh bị chặn ở cửa này) xách một túi giấy: đôi giày đi lễ của mẹ, kính đọc sách, một hộp bánh quy bơ. Anh bấm nút loa ở cửa.
 - **CORINNE** (qua loa, lạo xạo): "Name?"
   *(VN) Tên?*
 - **NOLAN:** "Nolan Grier. I'm her son."
@@ -2589,7 +2594,7 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 - Banks (CB1) bước ra từ hành lang phía trong, đứng sau lớp kính, hai tay chắp sau lưng.
 - **BANKS** (qua loa): "The guardian restricts visits. For her stability."
   *(VN) Người giám hộ hạn chế thăm nom. Vì sự ổn định của bà.*
-- Qua lớp cửa kính thứ hai cuối hành lang, trong phòng sinh hoạt chung, Ozella (OZ5M) ngồi trên ghế nhựa cạnh cửa sổ. Bà thấy con. Bà đứng dậy, đi tới, áp lòng bàn tay to thô lên kính. Ngoài này, Nolan áp bàn tay mình lên kính, đúng chỗ ấy, cách hai lớp kính và một hành lang.
+- Qua lớp cửa kính thứ hai cuối hành lang, trong phòng sinh hoạt chung, Ozella (OZ5M) ngồi trên ghế nhựa cạnh cửa sổ. Bà thấy con. Bà đứng dậy, đi tới, áp lòng bàn tay to thô lên kính. Ngoài này, Nolan áp bàn tay mình lên kính, đúng chỗ ấy, cách hai lớp kính và một hành lang. Banks nhìn chiếc khăn tím trên đầu bà, nheo mắt.
 - **NOLAN** (nghẹn): "Mama..."
   *(VN) Mẹ...*
 - **BANKS:** "You told the whole internet she needed to be checked, Mr. Grier. We're checking."
@@ -2600,20 +2605,22 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 
 #### Cụm 092 · 45:30–46:00 · A blood draw · PROBATE_COURTROOM · thứ Ba 27/10/2026, 2:00 chiều
 **Nhân vật:** OKAFOR (OK1), JUDGE HOLLIS (HO1), BANKS (CB1); NOLAN (NO3C, không nói); JORDYN (JO4, không nói); người nền: 1 thư ký phiên toà (không nói)
-**Chức năng:** phản đòn pháp lý đầu tiên: luật sư của Nolan chỉ ra tư cách đứng đơn của Jordyn chỉ dựa vào cái thai → thẩm phán ra lệnh xét nghiệm ADN tiền sản trong 24 giờ, kết quả về trước thứ Sáu; phiên điều trần đầy đủ thứ Hai 2/11 · Banks thì thầm "kết quả tối thứ Sáu, bỏ phiếu sáng thứ Sáu" · **Cung bậc:** hy vọng → căng · **Vòng:** S3 công lý (mầm) · trả xét nghiệm (cụm 74) · đặt kết quả về sau giờ bỏ phiếu (trả ở cụm 96)
+**Chức năng:** phản đòn pháp lý đầu tiên: luật sư của Nolan chỉ ra tư cách đứng đơn của Jordyn chỉ dựa vào cái thai → thẩm phán ra lệnh xét nghiệm ADN tiền sản trong 24 giờ, kết quả về trước thứ Sáu; Okafor nêu lệnh cấm tiếp xúc khi tại ngoại của Jordyn (thẩm phán: việc của toà hình sự) và xin cấm người giám hộ bỏ phiếu (bị bác: chính vì con trai cần phiếu nên anh không được làm người giám hộ); phiên điều trần đầy đủ thứ Hai 2/11 · Banks thì thầm "kết quả tối thứ Sáu, bỏ phiếu sáng thứ Sáu" · **Cung bậc:** hy vọng → căng · **Vòng:** S3 công lý (mầm) · trả xét nghiệm (cụm 74) · trả lệnh cấm tiếp xúc (cụm 73, trả tiếp ở cụm 111) · đặt kết quả về sau giờ bỏ phiếu (trả ở cụm 96)
 
 - Phòng xử nhỏ của toà di chúc và giám hộ hạt Fulton: bục thẩm phán gỗ sẫm, cờ Mỹ và cờ bang Georgia hai bên, hai bàn luật sư, năm hàng ghế dự khán gỗ gần như trống.
 - Judge Hollis (61 tuổi, nữ, da nâu sâu Monk 8, tóc locs ngắn bạc búi gọn, kính đọc sách gọng đỏ; HO1: áo choàng thẩm phán đen) ngồi trên bục. Bàn bên trái: Okafor (46 tuổi, nữ, da nâu rất sâu Monk 9, tóc tự nhiên cắt ngắn tapered, khuyên ngọc trai nhỏ; OK1: vest váy đen, sơ mi trắng, cặp hồ sơ dày) đứng; Nolan (NO3C) ngồi cạnh. Bàn bên phải: Banks (CB1) và Jordyn (JO4, khăn be của bà vẫn thắt quanh cổ tay trái).
-- **OKAFOR:** "Your Honor, the petitioner's only standing is a pregnancy she swears is my client's."
-  *(VN) Thưa quý toà, tư cách đứng đơn duy nhất của bên nguyên là cái thai mà cô ta thề là con của thân chủ tôi.*
-- **OKAFOR:** "We ask for a prenatal paternity test. A blood draw. Today."
-  *(VN) Chúng tôi đề nghị xét nghiệm huyết thống trước sinh. Chỉ lấy máu. Ngay hôm nay.*
-- **BANKS** (đứng dậy): "Your Honor, my client's health—"
-  *(VN) Thưa quý toà, sức khoẻ của thân chủ tôi—*
-- **HOLLIS** (nhìn hắn qua gọng kính đỏ): "It's a blood draw, counselor. Not a C-section."
-  *(VN) Lấy máu thôi, luật sư. Có phải mổ đẻ đâu.*
-- **HOLLIS:** "Test within twenty-four hours. Results to this court by Friday."
-  *(VN) Xét nghiệm trong hai mươi bốn giờ. Kết quả gửi toà chậm nhất thứ Sáu.*
+- **OKAFOR:** "Her only standing is a pregnancy she swears is my client's. Test it."
+  *(VN) Tư cách đứng đơn duy nhất của cô ta là cái thai mà cô ta thề là con của thân chủ tôi. Xét nghiệm đi.*
+- **HOLLIS** (nhìn xuống qua gọng kính đỏ): "Blood draw within twenty-four hours. Results by Friday."
+  *(VN) Lấy máu trong hai mươi bốn giờ. Kết quả chậm nhất thứ Sáu.*
+- **OKAFOR:** "She's also on bond. No contact with my client's mother."
+  *(VN) Cô ta còn đang tại ngoại, bị cấm tiếp xúc với mẹ của thân chủ tôi.*
+- **HOLLIS:** "Bond is the criminal court's business. Not probate's."
+  *(VN) Tại ngoại là việc của toà hình sự. Không phải của toà di chúc.*
+- **OKAFOR:** "Then bar the guardian from voting her shares Friday."
+  *(VN) Vậy xin cấm người giám hộ dùng cổ phần của bà bỏ phiếu hôm thứ Sáu.*
+- **HOLLIS:** "Her son needs those votes, counselor. That's exactly why he isn't her guardian. Denied."
+  *(VN) Con trai bà cần mấy lá phiếu đó, luật sư. Chính vì thế anh ta không được làm người giám hộ. Bác.*
 - **HOLLIS** (gõ búa): "Full hearing Monday, November second. Until then, the order stands."
   *(VN) Phiên điều trần đầy đủ vào thứ Hai, ngày hai tháng Mười Một. Tới lúc đó, lệnh vẫn giữ nguyên.*
 - Tay Jordyn trên bụng siết lại. Cô liếc Banks. Banks cúi xuống sát tai cô.
@@ -2623,7 +2630,7 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 **Khung kết:** Judge Hollis HO1 đặt búa xuống, ghi chép; Okafor OK1 ngồi xuống cạnh Nolan, đặt tay lên cánh tay anh; Nolan NO3C nhìn chằm chằm vào bàn tay Jordyn trên bụng và chiếc khăn be quanh cổ tay cô; Jordyn JO4 ngồi thẳng lại, môi mím; Banks CB1 thẳng lưng lên, chỉnh cà vạt.
 **Móc:** Kết quả về tối thứ Sáu, cuộc bỏ phiếu sáng thứ Sáu: Nolan còn kịp không?
 
-#### Cụm 093 · 46:00–46:30 · A plastic bag · bãi xe toà án · thứ Ba 27/10/2026, 4:00 chiều
+#### Cụm 093 · 46:00–46:30 · A plastic bag · COURTHOUSE_LOT · thứ Ba 27/10/2026, 4:00 chiều
 **Nhân vật:** REGINA (RG4), NOLAN (NO3C); MOSES (MO3, không nói)
 **Chức năng:** TWIST nhỏ, ác đấu ác: Regina (bị Graham bỏ rơi ở lề đường) tự tìm tới, khai "Friend" là Graham và Whitfield nợ Graham 200.000 đô tiền bài bạc + đòi điều kiện cho Jordyn + Nolan từ chối mặc cả thay mẹ · **Cung bậc:** sốc → lạnh gáy · **Vòng:** M3 đảo vai · S4 vạch mặt (mầm) · trả "Friend" (cụm 61) · trả cảnh lề đường (cụm 71–72) · đặt nợ bài bạc (trả ở cụm 110) · câu "brother" hai nghĩa (trả ở cụm 99)
 
@@ -2631,8 +2638,8 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 - Nolan (NO3C) đi tới. Moses (MO3) bước lên chắn trước; Nolan đặt tay lên vai anh.
 - **NOLAN:** "Let her talk."
   *(VN) Để bà ta nói.*
-- **REGINA** (nhếch môi): "You want 'Friend'? You've been calling him brother for sixteen years."
-  *(VN) Anh muốn biết "Friend" là ai à? Anh gọi hắn là anh em mười sáu năm nay rồi đấy.*
+- **REGINA** (nhếch môi): "You want 'Friend'? Ask the man you call brother."
+  *(VN) Muốn biết "Friend" là ai à? Hỏi cái người anh vẫn gọi là anh em ấy.*
 - **NOLAN** (lạnh): "Say his name."
   *(VN) Nói tên hắn ra.*
 - **REGINA:** "Graham Pryce. Page seven was his. My daughter was his idea."
@@ -2655,13 +2662,13 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 ### TẬP 32 · THE VOTE · cụm 94–96 · 46:30–48:00
 
 #### Cụm 094 · 46:30–47:00 · Sixty to forty · TOWER_BOARDROOM · thứ Sáu 30/10/2026, 10:00 sáng
-**Nhân vật:** BARROW (BA1), BANKS (CB1), GRAHAM (GR2), NOLAN (NO3); người nền: 2 thành viên hội đồng, đại diện quỹ Halvorsen (không nói)
-**Chức năng:** ĐÁY LỚN: người giám hộ bỏ 12% của bà cho phe Graham, Nolan bị phế khỏi ghế chủ tịch và CEO ngay trong phòng họp mình dựng + Nolan nói thẳng "tôi biết Friend", Graham thách "chứng minh vào thứ Hai" · **Cung bậc:** đau → nhục · **Vòng:** M1 đáy · trả "eight more days" (cụm 78) · trả 12% (cụm 79) · trả "Friend" (cụm 93) · trả cuộc gọi bị chặn ở văn phòng (cụm 30)
+**Nhân vật:** BARROW (BA1), BANKS (CB1), GRAHAM (GR2), NOLAN (NO3); người nền: 2 thành viên hội đồng, đại diện quỹ Kestrel Ridge (không nói)
+**Chức năng:** ĐÁY LỚN: người giám hộ bỏ 12% của bà cho phe Graham, Nolan bị phế khỏi ghế CEO và hội đồng quản trị ngay trong phòng họp mình dựng + Nolan nói thẳng "tôi biết Friend", Graham thách "chứng minh vào thứ Hai" · **Cung bậc:** đau → nhục · **Vòng:** M1 đáy · trả "eight more days" (cụm 78) · trả 12% (cụm 79) · trả "Friend" (cụm 93) · trả cuộc gọi bị chặn ở văn phòng (cụm 30)
 
 - Phòng họp hội đồng tầng 22, trời xám, mây thấp ngoài vách kính. Bàn đầy người. Ở ghế từng trống bên cạnh Barrow, nay đặt bảng tên mica mới (INSERT ghép lúc dựng: *Guardian for O. Grier*), Banks (CB1) ngồi, cặp da trên đùi.
 - Barrow (BA1) ở đầu bàn. Graham (GR2) ngồi thẳng lưng, hai tay đan. Nolan (NO3, vest phẳng phiu, cà vạt thắt chặt, râu cạo sạch) ngồi đối diện.
-- **BARROW** (phẳng): "On the motion to remove Nolan Grier as Chair and CEO."
-  *(VN) Về kiến nghị phế truất Nolan Grier khỏi ghế Chủ tịch và Tổng giám đốc.*
+- **BARROW** (phẳng): "On the motion to remove Nolan Grier as CEO and from the board."
+  *(VN) Về kiến nghị phế truất Nolan Grier khỏi ghế Tổng giám đốc và hội đồng quản trị.*
 - **BARROW:** "Investor bloc, forty-eight in favor. Mr. Grier, forty against."
   *(VN) Khối nhà đầu tư, bốn mươi tám tán thành. Ông Grier, bốn mươi phản đối.*
 - **BARROW:** "Guardian for Mrs. Grier?"
@@ -2681,12 +2688,12 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 **Móc:** Bị phế ngay trong phòng họp mình dựng: Nolan còn bước ra khỏi toà tháp này với tư cách gì?
 
 #### Cụm 095 · 47:00–47:30 · Badge declined · TOWER_LOBBY · liền
-**Nhân vật:** NOLAN (NO3), GRAHAM (GR2), BẢO VỆ DARNELL (nói 2 câu); người nền: khoảng 15 nhân viên trong sảnh (không nói), 1 nhân viên trẻ giơ điện thoại quay (không nói)
+**Nhân vật:** NOLAN (NO3), GRAHAM (GR2), DARNELL (DN1, nói 2 câu); người nền: khoảng 15 nhân viên trong sảnh (không nói), 1 nhân viên trẻ giơ điện thoại quay (không nói)
 **Chức năng:** sỉ nhục công khai cho Nolan (gương soi cảnh mẹ bị đuổi ra mưa): thẻ bị khoá, bị bảo vệ hộ tống ra khỏi toà tháp mình xây; Graham nhìn xuống từ ban công tầng lửng · câu nói đúng hơn Nolan tưởng · **Cung bậc:** nhục → đau · **Vòng:** M1 đáy · gương soi cụm 25 · đặt "personal" (trả ở cụm 99)
 
 - Sảnh tầng trệt toà tháp Grier Systems: sàn đá xám bóng, hàng cửa quay kính an ninh, quầy lễ tân dài, ban công kính tầng lửng nhìn xuống sảnh, cửa xoay lớn ra phố Peachtree. Ngoài kia trời xám, mưa phùn bắt đầu.
 - Nolan (NO3) ôm một thùng các-tông: trên cùng là khung ảnh anh mặc áo tốt nghiệp ôm mẹ. Anh quẹt thẻ ở cửa quay. Đèn đỏ, tiếng bíp từ chối (INSERT dấu X đỏ ghép lúc dựng).
-- Bảo vệ Darnell (khoảng 50 tuổi, da nâu sâu, đồng phục bảo vệ xanh đen) bước tới, ngượng ngùng.
+- Bảo vệ Darnell (khoảng 50 tuổi, da nâu sâu Monk 8, tóc cắt sát, ria mép; DN1: đồng phục bảo vệ xanh đen, thẻ an ninh đeo dây, bộ đàm ở vai) bước tới, ngượng ngùng.
 - **DARNELL** (nhỏ giọng): "Sir... I'm sorry. Your access was revoked at ten-oh-six."
   *(VN) Thưa ông... tôi xin lỗi. Quyền ra vào của ông bị khoá lúc mười giờ sáu phút.*
 - **NOLAN** (nhìn cửa quay): "I picked these turnstiles, Darnell."
@@ -2705,18 +2712,18 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 **Khung kết:** ngoài cửa xoay, trên vỉa hè Peachtree Street, Nolan NO3 đứng dưới mưa phùn, thùng các-tông trong tay, khung ảnh mẹ lấm tấm nước; qua cửa kính sau lưng anh, Darnell đứng ở cửa quay; trên ban công tầng lửng, Graham GR2 vẫn nâng cốc cà phê.
 **Móc:** "Từ đầu đã là chuyện riêng": Nolan không biết mình vừa nói đúng tới mức nào.
 
-#### Cụm 096 · 47:30–48:00 · Results ready · SUV_INTERIOR + MAGNOLIA_ROOM · thứ Sáu 30/10/2026, 6:10 tối, mưa, cắt qua lại
+#### Cụm 096 · 47:30–48:00 · Results ready · SUV_INTERIOR + PINES_ROOM · thứ Sáu 30/10/2026, 6:10 tối, mưa, cắt qua lại
 **Nhân vật:** NOLAN (NO3), DANAE (DA4); MOSES (MO3, không nói, lái xe); OZELLA (OZ5M, không nói, trong phòng 114)
 **Chức năng:** Danae mang kết quả viên thuốc (lorazepam 2 mg, bà không có đơn: trói bằng hoá chất) + email kết quả ADN tới + kết HỒI 4 · **Cung bậc:** đau → hồi hộp nín thở · **Vòng:** M4 móc cuối hồi · trả viên thuốc (cụm 89–90) · trả kết quả tối thứ Sáu (cụm 92) · đặt bản kết quả (trả ở cụm 97)
 
-- SUV_INTERIOR: chiếc SUV đen đậu bên lề phố gần Magnolia Gardens, mưa quất lên kính, cần gạt nước đứng yên. Moses (MO3) ngồi ghế lái. Nolan (NO3, cà vạt đã tháo, vắt trên đùi) ngồi ghế sau. Cửa sau bật mở; Danae (DA4: váy hồng trầm, áo khoác jean ướt mưa) chui vào, ngồi cạnh anh, đóng cửa.
+- SUV_INTERIOR: chiếc SUV đen đậu bên lề phố gần Hollin Pines, mưa quất lên kính, cần gạt nước đứng yên. Moses (MO3) ngồi ghế lái. Nolan (NO3, cà vạt đã tháo, vắt trên đùi) ngồi ghế sau. Cửa sau bật mở; Danae (DA4: váy hồng trầm, áo khoác jean ướt mưa) chui vào, ngồi cạnh anh, đóng cửa.
 - **DANAE** (không nhìn anh): "I'm not here for you. I'm here for her."
   *(VN) Tôi không tới vì anh. Tôi tới vì bà.*
 - **NOLAN:** "I know."
   *(VN) Tôi biết.*
 - Danae đặt vào tay anh một túi zip nhỏ đựng viên thuốc trắng.
-- **DANAE:** "Lorazepam. Two milligrams. Nobody prescribed it to her."
-  *(VN) Lorazepam. Hai mi-li-gam. Không ai kê đơn thuốc này cho bà.*
+- **DANAE:** "Lab called an hour ago. Lorazepam, two milligrams. Nobody prescribed it to her."
+  *(VN) Phòng xét nghiệm vừa gọi một tiếng trước. Lorazepam, hai mi-li-gam. Không ai kê đơn thuốc này cho bà.*
 - **DANAE:** "That's a chemical restraint. That's a crime."
   *(VN) Đó là trói người bằng thuốc. Là phạm pháp.*
 - **NOLAN** (nhắm mắt, giọng vỡ): "They're drugging my mother."
@@ -2724,7 +2731,7 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 - Điện thoại Nolan trên ghế sáng lên, rung (INSERT ghép lúc dựng: email *"Prenatal Paternity Results — CONFIDENTIAL"*, kèm một tệp PDF).
 - **NOLAN** (nhìn màn hình): "The test."
   *(VN) Kết quả xét nghiệm.*
-- MAGNOLIA_ROOM: phòng 114, chỉ đèn ngủ. Ozella (OZ5M) đứng ở cửa sổ có song, nhìn mưa chảy trên kính, hai bàn tay to đan trước bụng, môi mấp máy như đang cầu nguyện.
+- PINES_ROOM: phòng 114, chỉ đèn ngủ. Ozella (OZ5M) đứng ở cửa sổ có song, nhìn mưa chảy trên kính, hai bàn tay to đan trước bụng, môi mấp máy như đang cầu nguyện.
 - SUV_INTERIOR: ngón cái Nolan dừng trên tệp PDF.
 - **DANAE** (khẽ): "Open it."
   *(VN) Mở ra đi.*
@@ -2750,21 +2757,21 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
   *(VN) Nhiễm sắc thể Y giống hệt... một người đàn ông họ hàng bên nội của tôi.*
 - **DANAE** (nhìn thẳng anh): "Y only passes father to son. So it's your daddy. Or your daddy's son."
   *(VN) Nhiễm sắc thể Y chỉ truyền từ cha sang con trai. Vậy thì hoặc là bố anh. Hoặc là con trai của bố anh.*
-- **NOLAN:** "Daddy's been dead twenty years."
-  *(VN) Bố tôi mất hai mươi năm rồi.*
+- **NOLAN:** "Daddy's been dead twenty years. He was an only child."
+  *(VN) Bố tôi mất hai mươi năm rồi. Bố là con một.*
 - **NOLAN:** "And I don't have a brother."
   *(VN) Còn tôi thì không có anh em trai nào cả.*
 - Im lặng. Chỉ có tiếng mưa. Trên gương chiếu hậu, mắt Moses dừng lại trên Nolan.
 - **DANAE** (rất khẽ): "Then who's carrying your daddy's Y, Nolan?"
   *(VN) Vậy thì ai đang mang nhiễm sắc thể Y của bố anh, Nolan?*
-- Nolan nhìn qua kính mưa, về phía toà nhà Magnolia Gardens sáng đèn ở cuối phố.
+- Nolan nhìn qua kính mưa, về phía toà nhà Hollin Pines sáng đèn ở cuối phố.
 - **NOLAN:** "Mama. Mama would know."
   *(VN) Mẹ. Mẹ sẽ biết.*
 
-**Khung kết:** Nolan NO3 nhìn ra kính xe mưa nhoè, điện thoại sáng trong tay, dòng chữ nghiêng của bản kết quả còn trên màn hình; Danae DA4 nhìn anh; Moses MO3 nhìn qua gương chiếu hậu; xa cuối phố qua lớp mưa là toà nhà thấp Magnolia Gardens, một ô cửa sổ có song sáng đèn.
+**Khung kết:** Nolan NO3 nhìn ra kính xe mưa nhoè, điện thoại sáng trong tay, dòng chữ nghiêng của bản kết quả còn trên màn hình; Danae DA4 nhìn anh; Moses MO3 nhìn qua gương chiếu hậu; xa cuối phố qua lớp mưa là toà nhà thấp Hollin Pines, một ô cửa sổ có song sáng đèn.
 **Móc:** Chỉ một người còn sống biết bí mật dòng họ Grier, và bà đang bị khoá trong phòng 114.
 
-#### Cụm 098 · 48:30–49:00 · Room 109 · MAGNOLIA_HALL · thứ Bảy 31/10/2026, 2:00 sáng
+#### Cụm 098 · 48:30–49:00 · Room 109 · PINES_HALL · thứ Bảy 31/10/2026, 2:00 sáng
 **Nhân vật:** DANAE (DA5), NOLAN (NO5), RAY (RY1); người nền: 1 y tá trực đêm ngủ gật ở quầy (không nói)
 **Chức năng:** hồi hộp, lén lút: Danae (ca đêm) đưa Nolan vào qua cửa phụ cạnh phòng 109 (phòng cũ của MaDear), suýt bị hộ lý Ray bắt gặp · nhịp ấm nhỏ giữa hai người · **Cung bậc:** hồi hộp → ấm → hồi hộp · **Vòng:** S5 lợi thế riêng · trả mã cửa (cụm 88) · trả phòng 109 (cụm 90) · đặt Ray (trả ở cụm 102, 104)
 
@@ -2791,7 +2798,7 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 **Khung kết:** Danae DA5 đứng tựa lưng vào cửa kho đồ vải, tay đặt trên chồng khăn trên xe đẩy, mắt dõi theo lưng Ray; Ray RY1 ở cuối hành lang, đang ngoái lại; cửa phòng 109 bên cạnh khép kín; y tá trực vẫn gục ngủ ở quầy.
 **Móc:** Nolan sắp gặp mẹ. Bà sẽ nói gì khi đọc tờ kết quả?
 
-#### Cụm 099 · 49:00–49:30 · You've called him brother · MAGNOLIA_ROOM · liền
+#### Cụm 099 · 49:00–49:30 · You've called him brother · PINES_ROOM · liền
 **Nhân vật:** OZELLA (OZ5M), NOLAN (NO5); DANAE (DA5, không nói)
 **Chức năng:** TWIST LỚN NHẤT PHIM: bà Ozella xác nhận chồng bà có một đứa con trai trước Nolan, và đó là Graham · **Cung bậc:** sốc · **Vòng:** R1 lật thân phận · trả "Abel had a brother too" (cụm 66) · trả "brother" (cụm 22, 27, 58, 60, 65, 75, 93) · trả "personal" (cụm 95) · M4 móc cuối tập
 
@@ -2804,8 +2811,8 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
   *(VN) Ngồi xuống đi con.*
 - **NOLAN** (không ngồi): "Mama, who is it?"
   *(VN) Mẹ, là ai?*
-- **OZELLA:** "Your daddy had a son. A year before you."
-  *(VN) Bố con có một đứa con trai. Trước con một năm.*
+- **OZELLA:** "Your daddy had a son. Nine months before you."
+  *(VN) Bố con có một đứa con trai. Trước con chín tháng.*
 - **NOLAN** (lắc đầu): "No. Daddy wouldn't—"
   *(VN) Không. Bố không đời nào—*
 - **OZELLA:** "Your daddy was a man, son. Not a saint."
@@ -2823,7 +2830,7 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 
 ### TẬP 34 · EARL'S BOY · cụm 100–102 · 49:30–51:00
 
-#### Cụm 100 · 49:30–50:00 · Macon · MAGNOLIA_ROOM · liền
+#### Cụm 100 · 49:30–50:00 · Macon · PINES_ROOM · liền
 **Nhân vật:** OZELLA (OZ5M), NOLAN (NO5); DANAE (DA5, không nói)
 **Chức năng:** lời kể của bà (kể bằng lời, không hồi tưởng): bảy năm mong con, Macon, Della Pryce, thư bị trả lại, phiếu chuyển tiền 18 năm, Lễ Tạ ơn đầu tiên bà nhận ra Graham · **Cung bậc:** đau → lặng · **Vòng:** R2 lật động cơ · đặt thư bị trả lại (trả ở cụm 108) · đặt "ghế của Earl" (trả ở cụm 120)
 
@@ -2836,17 +2843,17 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
   *(VN) Năm nào tới sinh nhật nó, Earl cũng viết thư. Lá nào cũng bị gửi trả.*
 - **OZELLA:** "I sent her egg money every month. Till that boy was eighteen."
   *(VN) Tháng nào mẹ cũng gửi tiền trứng cho cô ta. Cho tới khi thằng bé mười tám tuổi.*
-- **NOLAN** (giọng khàn): "And you knew it was Graham. Since when?"
-  *(VN) Và mẹ biết đó là Graham. Từ bao giờ?*
-- **OZELLA:** "First Thanksgiving you brought him home. He sat down in your daddy's chair. Nobody told him to."
-  *(VN) Lễ Tạ ơn đầu tiên con dẫn nó về nhà. Nó ngồi xuống đúng cái ghế của bố con. Không ai bảo nó cả.*
+- **NOLAN** (giọng khàn): "Since when?"
+  *(VN) Mẹ biết từ bao giờ?*
+- **OZELLA:** "First Thanksgiving you brought him home. He sat down in your daddy's chair."
+  *(VN) Lễ Tạ ơn đầu tiên con dẫn nó về nhà. Nó ngồi xuống đúng cái ghế của bố con.*
 - **OZELLA** (giọng chùng xuống): "Same hands. Same laugh. I went out to the henhouse and cried."
   *(VN) Cùng đôi bàn tay. Cùng tiếng cười. Mẹ phải ra chuồng gà mà khóc.*
 
 **Khung kết:** Ozella OZ5M ngồi mép giường, mắt nhìn ra song cửa, một tay vô thức xoay chiếc nhẫn cưới mỏng trên ngón áp út; Nolan NO5 ngồi trên ghế, khuỷu tay chống gối, hai bàn tay ôm đầu; Danae DA5 vẫn đứng ở cửa, mắt rơm rớm.
 **Móc:** Mẹ biết suốt mười sáu năm. Nolan sẽ phản ứng thế nào?
 
-#### Cụm 101 · 50:00–50:30 · Sixteen years · MAGNOLIA_ROOM · liền
+#### Cụm 101 · 50:00–50:30 · Sixteen years · PINES_ROOM · liền
 **Nhân vật:** NOLAN (NO5), OZELLA (OZ5M), DANAE (DA5)
 **Chức năng:** xung đột mẹ–con lần hai, biên độ lớn hơn lần một: Nolan nổ tung vì mẹ giấu; bà không xin lỗi mà nói thẳng phần lỗi của ai; Danae chen vào giữa · **Cung bậc:** giận → đau · **Vòng:** M5 ngọt → đau sâu hơn · gương soi cụm 23 (lần trước con không tin mẹ, lần này mẹ giấu con) · đặt "set a plate" (trả ở cụm 120)
 
@@ -2870,7 +2877,7 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 **Khung kết:** Danae DA5 đứng giữa hai mẹ con, một tay đặt trên ngực Nolan; Nolan NO5 lùi một bước, hai tay buông thõng, thở dốc; Ozella OZ5M ngồi thẳng lưng trên mép giường, cằm ngẩng, mắt đỏ; thanh sắt đầu giường còn rung nhẹ.
 **Móc:** Giữa cơn giận, Nolan chợt nhớ ra một chuyện: chuyện cái bếp tháng trước.
 
-#### Cụm 102 · 50:30–51:00 · Gaslit · MAGNOLIA_ROOM · liền
+#### Cụm 102 · 50:30–51:00 · Gaslit · PINES_ROOM · liền
 **Nhân vật:** NOLAN (NO5), OZELLA (OZ5M); DANAE (DA5, không nói); RAY (RY1, không nói, ngoài cửa)
 **Chức năng:** TWIST nhỏ lật lại cái cớ lớn nhất Phần 1: vụ "quên bếp" là Graham dàn dựng (hắn ngủ lại trang trại đêm đó, sáng ra gọi cho Nolan); Graham biết bố Nolan khởi bệnh từ cái bếp nên đánh đúng nỗi sợ của em mình + mẹ con làm lành + bà chỉ chỗ giấu thư · Ray chỉ điểm · **Cung bậc:** sững → giận lạnh → ấm, quyết → lạnh gáy · **Vòng:** R2 · trả "stove" (cụm 11, 23, 31) · trả "Daddy started with a stove too" (cụm 23) · gương soi cụm 32 (Nolan lại quỳ bên mẹ) · đặt hộp kim chỉ (trả ở cụm 108) · M4 móc cuối tập
 
@@ -2882,15 +2889,15 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
   *(VN) Sáu giờ sáng hắn gọi cho con. Nói thấy bếp cháy suốt đêm.*
 - **OZELLA:** "I've cut that stove off at nine o'clock for forty years, son."
   *(VN) Bốn mươi năm nay, chín giờ tối là mẹ tắt bếp, con ạ.*
-- **NOLAN** (giọng vỡ ra): "He knew about Daddy. He knew exactly what would scare me."
-  *(VN) Hắn biết chuyện của bố. Hắn biết chính xác cái gì làm con sợ.*
+- **NOLAN** (giọng vỡ ra): "He knew exactly what would scare me."
+  *(VN) Hắn biết chính xác cái gì làm con sợ.*
 - **OZELLA** (khô, đau): "That boy gaslit me. With my own gas."
   *(VN) Thằng đó thao túng mẹ. Bằng chính cái bếp ga nhà mẹ.*
 - Nolan quỳ xuống bên giường, cầm hai bàn tay to thô của mẹ, áp trán lên các khớp ngón tay bà (gương soi cụm 32).
 - **NOLAN:** "I'm sorry, Mama. Again."
   *(VN) Con xin lỗi, mẹ. Lại một lần nữa.*
-- **OZELLA:** "Don't be sorry. Be quick. Earl's letters are in my sewing tin. In my suitcase at MaDear's."
-  *(VN) Đừng xin lỗi. Nhanh lên. Thư của Earl để trong hộp kim chỉ. Trong vali của mẹ ở nhà MaDear.*
+- **OZELLA:** "Don't be sorry. Be quick. Earl's letters are in my sewing tin. I brought them for that boy. In my suitcase at MaDear's."
+  *(VN) Đừng xin lỗi. Nhanh lên. Thư của Earl để trong hộp kim chỉ. Mẹ mang theo để đưa cho thằng bé đó. Trong vali của mẹ ở nhà MaDear.*
 - Ngoài khe cửa, một bóng người lướt qua. Ray (RY1) đứng nép tường hành lang, điện thoại sáng trong tay (INSERT tin nhắn ghép lúc dựng: *"Grier's son is here. Room 114."* gửi tới *"Dr. W"*).
 
 **Khung kết:** trong phòng: Nolan NO5 quỳ bên giường, trán áp lên tay mẹ; Ozella OZ5M cúi xuống, áp má lên đỉnh đầu con; Danae DA5 ở cửa, mắt nhìn khe cửa; ngoài hành lang: Ray RY1 nép tường, ngón cái vừa bấm gửi.
@@ -2906,8 +2913,8 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 - Graham (GR6: áo thun đen cổ tròn, quần âu đen, chân trần) đọc tin nhắn trên điện thoại thông minh (INSERT: *"Grier's son is here. Room 114."*, chuyển tiếp từ *"Dr. W"*). Hắn bấm gọi, bật loa, đặt máy lên mặt đá.
 - **GRAHAM:** "The son was in her room tonight. That's a breach of the order."
   *(VN) Tối nay thằng con vào tận phòng bà ta. Vậy là vi phạm lệnh toà.*
-- **WHITFIELD** (giọng qua loa, ngái ngủ): "Graham, it's three in the morning—"
-  *(VN) Graham, ba giờ sáng rồi—*
+- **WHITFIELD** (giọng qua loa, ngái ngủ): "Graham, it's almost three in the morning—"
+  *(VN) Graham, gần ba giờ sáng rồi—*
 - **GRAHAM:** "Transfer her. Sunrise Pines, Jacksonville. Out of state by sunrise."
   *(VN) Chuyển bà ta đi. Sunrise Pines, ở Jacksonville. Trước khi trời sáng phải ra khỏi bang.*
 - **WHITFIELD** (giọng qua loa): "She won't go quietly."
@@ -2922,7 +2929,7 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 **Khung kết:** Graham GR6 đứng sau đảo bếp, một bàn tay đặt phẳng lên khung ảnh vừa úp xuống, mắt nhìn ra vách kính, nơi mưa chảy trên ánh đèn thành phố; điện thoại thông minh tắt màn hình cạnh tay hắn; chiếc điện thoại nắp gập đen nằm ở mép đảo bếp.
 **Móc:** Một kim tiêm, một xe chuyển viện lúc nửa đêm: ai sẽ đứng chắn trước cửa phòng 114?
 
-#### Cụm 104 · 51:30–52:00 · Chemical restraint · MAGNOLIA_ROOM · thứ Bảy 31/10/2026, 3:30 sáng
+#### Cụm 104 · 51:30–52:00 · Chemical restraint · PINES_ROOM · thứ Bảy 31/10/2026, 3:30 sáng
 **Nhân vật:** RAY (RY1), OZELLA (OZ5M → OZ5B), WHITFIELD (WH1), DANAE (DA5 → DA5H); người nền: 1 hộ lý nam thứ hai (to cao, đồng phục xám tro, không nói)
 **Chức năng:** HÀNH ĐỘNG MẠNH: hai hộ lý lôi bà khỏi giường, giật mất khăn của MaDear; Whitfield cầm kim tiêm; Danae lao vào chắn và nói thẳng đây là trói bằng thuốc trái luật; bị xô đập đầu vào khung cửa, ngã trẹo cổ tay; bà vẫn không để mình bị tiêm · **Cung bậc:** sợ → phẫn nộ · **Vòng:** M1 đáy · đỉnh nguy hiểm · S12 (kiến thức điều dưỡng của Danae)
 
@@ -2953,15 +2960,15 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 **Khung kết:** Ozella OZ5B ngồi trên xe lăn, dây đai vải ngang ngực, đầu trần, mắt nhìn Danae; Danae DA5H ngồi bệt dưới chân khung cửa, máu rỉ trên trán, tay phải ôm cổ tay trái; chiếc khăn lụa tím mận nằm trên sàn giữa hai người; Ray RY1 nắm tay đẩy xe lăn; Whitfield WH1 đứng thẳng lên, một tay trong túi áo blouse.
 **Móc:** Bà bị trói vào xe lăn, Danae gục bên khung cửa, còn chiếc xe chuyển viện đã nổ máy ngoài mưa.
 
-#### Cụm 105 · 52:00–52:30 · Twice in the rain · MAGNOLIA_GATE · liền, mưa lớn
+#### Cụm 105 · 52:00–52:30 · Twice in the rain · PINES_GATE · liền, mưa lớn
 **Nhân vật:** OZELLA (OZ5BW), DANAE (DA5H); RAY (RY1, không nói); WHITFIELD (WH1, không nói); người nền: hộ lý thứ hai, tài xế xe chuyển viện (không nói)
 **Chức năng:** cao trào nguy hiểm: bà bị đẩy ra xe dưới mưa (gương soi cụm 25: mưa lần hai); Danae lết theo, ôm cổ tay, vẫn quay video; cổng barie nâng lên; một chiếc SUV đen lao tới chắn ngang · **Cung bậc:** sợ → hy vọng · **Vòng:** gương soi cụm 25–26 · M4 móc
 
-- Bãi xe Magnolia Gardens, mưa trút như đổ dưới đèn cao áp vàng. Ở lối ra là cổng trượt sắt và thanh barie sọc đỏ trắng. Một xe van chuyển viện màu trắng mở cửa sau, cầu dốc hạ xuống.
+- Bãi xe Hollin Pines, mưa trút như đổ dưới đèn cao áp vàng. Ở lối ra là cổng trượt sắt và thanh barie sọc đỏ trắng. Một xe van chuyển viện màu trắng mở cửa sau, cầu dốc hạ xuống.
 - Ray (RY1) đẩy chiếc xe lăn băng qua mặt nhựa ướt. Ozella (OZ5BW: áo choàng ngủ xanh lam nhạt ướt sũng dính sát người, đầu trần, tóc bạc ướt bết, vòng tay trắng ở cổ tay trái, dây đai vải ngang ngực) ngẩng mặt lên trời mưa.
 - **OZELLA** (nhỏ, rõ từng chữ): "Twice in one month, Lord. Twice in the rain."
   *(VN) Hai lần trong một tháng, lạy Chúa. Hai lần dưới mưa.*
-- Cửa phụ bật mở. Danae (DA5H) loạng choạng bước ra, máu trên trán hoà nước mưa, tay trái ôm sát ngực, tay phải giơ điện thoại đang quay.
+- Cửa phụ bật mở. Danae (DA5H) loạng choạng bước ra, máu trên trán hoà nước mưa, tay trái ôm sát ngực chiếc khăn lụa tím mận nhặt từ sàn phòng 114, tay phải giơ điện thoại đang quay.
 - **DANAE** (hét qua tiếng mưa): "I'm recording! Every second! Her name is Ozella Grier!"
   *(VN) Tôi đang quay! Từng giây một! Bà ấy tên là Ozella Grier!*
 - Ray đẩy xe lăn lên cầu dốc. Cửa sau xe van đóng dần; khe cửa cuối cùng là gương mặt bà Ozella nhìn ra Danae.
@@ -2973,11 +2980,11 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 
 ### TẬP 36 · RETURN TO SENDER · cụm 106–108 · 52:30–54:00
 
-#### Cụm 106 · 52:30–53:00 · Not tonight · MAGNOLIA_GATE · liền, mưa
+#### Cụm 106 · 52:30–53:00 · Not tonight · PINES_GATE · liền, mưa
 **Nhân vật:** MOSES (MO3), RAY (RY1), NOLAN (NO5), FARRIS (FA1), OZELLA (OZ5BW); DANAE (DA5H, không nói)
 **Chức năng:** Moses chuộc lỗi trọn vẹn (lần trước ném vali bà ra đường mưa, lần này chặn xe) + Nolan và Farris tới với lệnh đình chỉ khẩn cấp của thẩm phán (kết quả ADN chứng minh người đứng đơn khai gian; bà được giao về cho con trai tới phiên điều trần) · **Cung bậc:** hả hê · **Vòng:** S1 · trả Moses (cụm 19, 25, 46, 56, 73, 86) · trả kết quả ADN → tư cách đứng đơn sụp
 
-- Moses (MO3) bước xuống khỏi SUV, đứng giữa mưa, hai tay buông. Ray (RY1) nhảy xuống khỏi xe van, bấm còi inh ỏi, đi tới.
+- Moses (MO3) bước xuống khỏi SUV, đứng giữa mưa, hai tay buông. Tài xế xe van bấm còi inh ỏi. Ray (RY1) nhảy xuống từ cửa sau, đi tới.
 - **RAY:** "Move the truck, man. Court order."
   *(VN) Dời xe đi, ông bạn. Lệnh toà đấy.*
 - **MOSES** (không nhúc nhích, giọng bass): "Last time it rained on that lady, I threw her suitcase in the street."
@@ -2986,8 +2993,8 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
   *(VN) Tối nay thì không.*
 - Ray xông tới. Moses túm cổ áo hắn, nhấc bổng lên khỏi mặt đất, ép lưng hắn vào thân xe van, giữ yên ở đó. Không ai bị đánh.
 - Một chiếc sedan không biển hiệu rẽ vào, đèn xanh đỏ gắn trên kính trước nháy. Farris (46 tuổi, nữ, da nâu sâu Monk 8, tóc tết cornrow sát đầu buộc thấp; FA1: blazer nâu, sơ mi xanh nhạt, quần âu đen, phù hiệu ở thắt lưng) bước ra. Nolan (NO5) nhảy ra từ ghế phụ, tay giơ cao một tờ giấy gấp đôi trong túi nhựa chống ướt.
-- **NOLAN:** "Emergency stay. Judge Hollis. Signed at three-fifty. She's released to me."
-  *(VN) Lệnh đình chỉ khẩn cấp. Thẩm phán Hollis. Ký lúc ba giờ năm mươi. Mẹ tôi được giao về cho tôi.*
+- **NOLAN:** "Emergency stay. Judge Hollis. Simone's been on her since midnight. Signed at three-fifteen. She's released to me."
+  *(VN) Lệnh đình chỉ khẩn cấp. Thẩm phán Hollis. Simone đã bám bà ấy từ nửa đêm. Ký lúc ba giờ mười lăm. Mẹ tôi được giao về cho tôi.*
 - **FARRIS** (giơ phù hiệu): "The petitioner lied to the court. Nobody's crossing a state line tonight."
   *(VN) Người đứng đơn đã khai gian với toà. Tối nay không ai qua khỏi ranh giới bang hết.*
 - Moses thả Ray xuống. Nolan giật mở cửa sau xe van, leo lên, tháo dây đai trên ngực mẹ.
@@ -2999,8 +3006,8 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 **Khung kết:** Nolan NO5 quỳ trong lòng xe van, hai tay vừa tháo dây đai, đỡ mẹ đứng dậy khỏi xe lăn; Ozella OZ5BW đặt tay lên vai con; Moses MO3 đứng cạnh thân xe, Ray RY1 trượt lưng ngồi bệt xuống vũng nước; Farris FA1 giơ phù hiệu trước mũi xe; Danae DA5H đi tới, điện thoại vẫn quay.
 **Móc:** Đèn pha một chiếc xe nữa rẽ vào cổng: chiếc sedan đen quen thuộc.
 
-#### Cụm 107 · 53:00–53:30 · Hello, brother · MAGNOLIA_GATE · liền, mưa
-**Nhân vật:** GRAHAM (GR4), NOLAN (NO5), OZELLA (OZ5BW); MOSES, FARRIS, DANAE (không nói)
+#### Cụm 107 · 53:00–53:30 · Hello, brother · PINES_GATE · liền, mưa
+**Nhân vật:** GRAHAM (GR4), NOLAN (NO5), OZELLA (OZ5BW); MOSES (MO3), FARRIS (FA1), DANAE (DA5H) (không nói)
 **Chức năng:** đối mặt: Graham tới tận nơi; Nolan gọi "Hello, brother", lần đầu chữ ấy mang nghĩa thật; Graham lật bài, nói thẳng nỗi hận ("Earl Grier had two sons. He kept one.") và "đồng xu" Alzheimer · bà Ozella lật lại: "Mẹ con mới là người giữ ông ấy khỏi con" · **Cung bậc:** sốc → căng · **Vòng:** R1 · R2 (động cơ thật của phản diện) · S13
 
 - Chiếc sedan đen phanh lại sau SUV. Graham (GR4: áo măng tô đen dài, vest than chì bên trong, sơ mi đen mở cổ, khăn túi ngực đỏ rượu) bước xuống, không ô. Mưa chảy trên đầu cạo. Hắn nhìn một lượt: Moses, Farris, Danae đầy máu, và Nolan đang đỡ mẹ bước xuống cầu dốc xe van.
@@ -3026,8 +3033,8 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 **Khung kết:** Graham GR4 đứng giữa mưa trước mũi sedan, hai tay buông, mặt ướt; Ozella OZ5BW đứng một mình trước hắn ba bước, đầu trần, áo choàng ngủ dính sát người, lưng thẳng; Nolan NO5 sau vai mẹ một bước; Moses MO3 và Farris FA1 đứng cạnh xe van; Danae DA5H ôm cổ tay, đứng dưới đèn cao áp.
 **Móc:** "Là mẹ con": bà Ozella có bằng chứng gì?
 
-#### Cụm 108 · 53:30–54:00 · Return to sender · MAGNOLIA_GATE · liền, mưa
-**Nhân vật:** OZELLA (OZ5BW), GRAHAM (GR4), FARRIS (FA1); NOLAN (NO5), DANAE (DA5H), MOSES (MO3) (không nói)
+#### Cụm 108 · 53:30–54:00 · Return to sender · PINES_GATE · liền, mưa
+**Nhân vật:** OZELLA (OZ5BW), GRAHAM (GR4), FARRIS (FA1); NOLAN (NO5), DANAE (DA5H), MOSES (MO3), RAY (RY1), WHITFIELD (WH1) (không nói)
 **Chức năng:** QUẢ BOM CẢM XÚC: hộp kim chỉ: 14 lá thư sinh nhật của Earl bị trả lại với chữ "Refused" bằng nét chữ Della + cuống phiếu chuyển tiền; Graham đọc lá thư sinh nhật 7 tuổi, quỵ xuống; rồi hắn vẫn bỏ đi vì "công ty là của tao" · **Cung bậc:** vỡ oà → căng · **Vòng:** R2 · trả hộp kim chỉ (cụm 102) · trả thư bị trả lại (cụm 100) · M4 móc cuối tập
 
 - Nolan đưa cho mẹ một hộp bánh quy thiếc tròn màu xanh dương đã tróc sơn: hộp kim chỉ anh vừa lấy từ vali ở nhà MaDear trước khi tới gặp thẩm phán. Ozella mở nắp ngay giữa mưa. Bên trong: một bó phong bì cột bằng chỉ khâu chăn màu be, và một xấp cuống phiếu chuyển tiền đã ngả vàng.
@@ -3046,19 +3053,19 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 - **GRAHAM** (giọng khàn, mắt đỏ): "Doesn't matter now. The vote's done. The company's mine."
   *(VN) Giờ chẳng còn quan trọng nữa. Phiếu đã bầu xong. Công ty là của tao.*
 - Hắn lên xe, lùi ra, phóng đi trong mưa. Farris nhìn theo, không đuổi.
-- **FARRIS:** "Let him run. Warrants by Monday."
-  *(VN) Để hắn chạy. Thứ Hai sẽ có lệnh bắt.*
+- **FARRIS:** "Let him run. Warrants by Tuesday."
+  *(VN) Để hắn chạy. Thứ Ba sẽ có lệnh bắt.*
 
-**Khung kết:** đèn hậu sedan đen khuất qua cổng; Ozella OZ5BW đứng giữa bãi xe, hộp kim chỉ mở trong tay, nước mưa nhỏ xuống những phong bì còn lại; Danae DA5H loạng choạng, Nolan NO5 vòng tay đỡ ngang lưng cô; Moses MO3 cởi áo vest đen khoác lên vai bà Ozella; Farris FA1 đứng cạnh xe van, điện thoại áp tai.
+**Khung kết:** đèn hậu sedan đen khuất qua cổng; Ozella OZ5BW đứng giữa bãi xe, hộp kim chỉ mở trong tay, nước mưa nhỏ xuống những phong bì còn lại; Danae DA5H loạng choạng, Nolan NO5 vòng tay đỡ ngang lưng cô; Moses MO3 cởi áo vest đen khoác lên vai bà Ozella; Farris FA1 đứng cạnh xe van, điện thoại áp tai, vừa còng tay Ray RY1 vào thanh cầu dốc; Whitfield WH1 đứng nép dưới mái hiên cửa phụ, điện thoại áp tai.
 **Móc:** Graham vẫn nắm cả công ty trong tay. Thứ Hai, ai sẽ thắng ở toà?
 
 ### TẬP 37 · THE HEARING · cụm 109–111 · 54:00–55:30
 
 #### Cụm 109 · 54:00–54:30 · The price of eggs · PROBATE_COURTROOM · thứ Hai 2/11/2026, 9:00 sáng
-**Nhân vật:** BANKS (CB1), OKAFOR (OK1), JUDGE HOLLIS (HO1), OZELLA (OZ7); NOLAN (NO3), DANAE (DA4H), JORDYN (JO5), REGINA (RG4) (không nói); người nền: MOTHER HATTIE (HA1) và 5 bà mẹ nhà thờ mặc toàn trắng ở hàng ghế dự khán, Deacon Pruitt (PR1), Mya (MY3) (không nói)
+**Nhân vật:** BANKS (CB1), OKAFOR (OK1), JUDGE HOLLIS (HO1), OZELLA (OZ7); NOLAN (NO3), DANAE (DA4H), JORDYN (JO5), REGINA (RG4), FARRIS (FA1) (không nói); người nền: MOTHER HATTIE (HA1) và 5 bà mẹ nhà thờ mặc toàn trắng ở hàng ghế dự khán, Deacon Pruitt (PR1), Mya (MY3) (không nói)
 **Chức năng:** phe ác trình "bằng chứng" (câu "checked Monday" của Nolan) → phản đòn bằng video "for the record" của bà + bà tự đứng lên trả lời thẩm phán · Mothers' Board xuất hiện, phòng xử không còn trống · **Cung bậc:** căng → hả hê · **Vòng:** S4 · trả video tự quay (cụm 82) · trả Mothers' Board (cụm 86–87)
 
-- Phòng xử của toà di chúc và giám hộ, lần này kín chỗ. Hai hàng ghế đầu dự khán là sáu bà mẹ nhà thờ mặc toàn trắng, mũ trắng rộng vành, găng trắng, quạt giấy nhà thờ phe phẩy cùng một nhịp; ở giữa là Mother Hattie (82 tuổi, da nâu sâu Monk 8, nhỏ người, kính dày; HA1). Cạnh họ: Deacon Pruitt, mũ phớt đặt trên đùi; Mya ngồi cuối hàng. Hàng ghế bên kia: Regina (RG4), một mình.
+- Phòng xử của toà di chúc và giám hộ, lần này kín chỗ. Hai hàng ghế đầu dự khán là sáu bà mẹ nhà thờ mặc toàn trắng, mũ trắng rộng vành, găng trắng, quạt giấy nhà thờ phe phẩy cùng một nhịp; ở giữa là Mother Hattie (82 tuổi, da nâu sâu Monk 8, nhỏ người, kính dày; HA1). Cạnh họ: Deacon Pruitt, mũ phớt đặt trên đùi; Mya ngồi cuối hàng. Hàng ghế bên kia: Regina (RG4), một mình. Cạnh cửa phòng xử: Farris (FA1) đứng khoanh tay.
 - Bàn bên trái: Okafor (OK1), Ozella (OZ7: vest váy tím hoàng gia, áo lụa kem, trâm vàng hình con gà mái, khăn lụa tím mận của MaDear quấn đầu, không mũ), Nolan (NO3), Danae (DA4H: váy hồng trầm, áo khoác jean, băng gạc trán phải, nẹp cổ tay trái màu đen). Bàn bên phải: Banks (CB1) và Jordyn (JO5: đầm đen dài tay cổ kín; chiếc khăn be của bà Ozella vẫn thắt quanh cổ tay trái).
 - **BANKS** (đứng): "Exhibit B, Your Honor. Her own son. On video."
   *(VN) Vật chứng B, thưa quý toà. Chính con trai bà. Trên video.*
@@ -3067,7 +3074,7 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
   *(VN) Đến chính anh ta còn tin.*
 - **OKAFOR** (đứng dậy): "Then let's hear from the ward herself. Exhibit D. Recorded October twenty-third."
   *(VN) Vậy hãy nghe chính người được giám hộ. Vật chứng D. Quay ngày hai mươi ba tháng Mười.*
-- Màn hình phòng xử chạy đoạn video (INSERT ghép lúc dựng): Ozella ngồi ghế bành nhà MaDear, nhìn thẳng ống kính: *"My name is Ozella Mae Grier... I know my name, my son's name, and the price of eggs."*
+- Màn hình phòng xử chạy đoạn video quay bằng điện thoại của Danae (INSERT ghép lúc dựng): Ozella ngồi ghế bành nhà MaDear, nhìn thẳng ống kính: *"My name is Ozella Mae Grier... I know my name, my son's name, and the price of eggs."*
 - Hàng ghế bà mẹ nhà thờ khẽ cười; một chiếc quạt giấy gập lại đánh "tách".
 - **HOLLIS** (nhìn qua gọng kính đỏ xuống bàn bên trái): "Mrs. Grier. What is the price of eggs?"
   *(VN) Bà Grier. Giá trứng là bao nhiêu?*
@@ -3081,19 +3088,19 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 **Móc:** Một câu trả lời về giá trứng: liệu có thắng nổi một lá thư của bác sĩ?
 
 #### Cụm 110 · 54:30–55:00 · Card games · PROBATE_COURTROOM · liền
-**Nhân vật:** OKAFOR (OK1), WHITFIELD (WH1, trên bục nhân chứng), REGINA (RG4), JUDGE HOLLIS (HO1), MOTHER HATTIE (HA1); DANAE (DA4H, không nói)
-**Chức năng:** vạch mặt Whitfield bằng ba loại bằng chứng khác nhau: ghi âm buổi "khám" (Danae thu từ xe đẩy đồ vải) + viên lorazepam không đơn + lời khai của Regina về khoản nợ bài bạc → Whitfield khai "Graham Pryce trả nợ cho tôi" · **Cung bậc:** hả hê · **Vòng:** S4 · trả cụm 89, 90, 93, 96
+**Nhân vật:** OKAFOR (OK1), WHITFIELD (WH1, trên bục nhân chứng), REGINA (RG4), JUDGE HOLLIS (HO1), MOTHER HATTIE (HA1); OZELLA (OZ7), NOLAN (NO3), DANAE (DA4H), BANKS (CB1), JORDYN (JO5) (không nói)
+**Chức năng:** vạch mặt Whitfield bằng ba loại bằng chứng khác nhau: ghi âm buổi "khám" sáng thứ Ba (điện thoại Danae để úp trong ngăn tủ đầu giường phòng 114) + viên lorazepam không đơn + lời khai của Regina về khoản nợ bài bạc → Whitfield khai "Graham Pryce trả nợ cho tôi" · **Cung bậc:** hả hê · **Vòng:** S4 · trả cụm 89, 90, 93, 96
 
 - Whitfield (WH1, nơ cổ kẻ ô đỏ rượu, không áo blouse, vest len xám) ngồi trên bục nhân chứng, mồ hôi lấm tấm ở thái dương. Okafor đứng trước bục.
 - **OKAFOR:** "Dr. Whitfield. You wrote 'disoriented.' Let's listen to your exam."
   *(VN) Bác sĩ Whitfield. Ông viết là "mất định hướng". Ta cùng nghe lại buổi khám của ông.*
-- Loa phát (INSERT âm thanh từ điện thoại của Danae ghép lúc dựng): *"Do you know what year it is?"* / *"Twenty twenty-six. It's Monday. And you're Alton Whitfield."*
-- **OKAFOR:** "She knew the year, the day, and your name. You misspelled the diagnosis."
-  *(VN) Bà biết năm, biết thứ, biết cả tên ông. Còn ông thì viết sai chính tả cả chẩn đoán.*
+- Loa phát (INSERT âm thanh từ điện thoại của Danae ghép lúc dựng): *"Do you know what year it is?"* / *"Twenty twenty-six. It's Tuesday. And you're still Alton Whitfield."*
+- **OKAFOR:** "She knew the year, the day, and your name. You even misspelled 'disoriented.'"
+  *(VN) Bà biết năm, biết thứ, biết cả tên ông. Còn ông thì viết sai chính tả cả chữ "mất định hướng".*
 - **OKAFOR** (giơ túi zip có viên thuốc trắng): "And lorazepam in her applesauce. No prescription."
   *(VN) Và lorazepam trong sốt táo của bà. Không có đơn thuốc.*
-- **OKAFOR:** "Mrs. Carrington?"
-  *(VN) Bà Carrington?*
+- **OKAFOR:** "Mrs. Carrington gave a sworn statement last Tuesday. Mrs. Carrington, confirm it for the court."
+  *(VN) Bà Carrington đã ký lời khai có tuyên thệ hôm thứ Ba tuần trước. Bà Carrington, xin xác nhận trước toà.*
 - Ở hàng ghế dự khán, Regina đứng dậy, không nhìn ai.
 - **REGINA** (lạnh, rõ): "Alton owes Graham Pryce two hundred thousand dollars. I introduced them."
   *(VN) Alton nợ Graham Pryce hai trăm nghìn đô. Chính tôi giới thiệu hai người.*
@@ -3112,26 +3119,23 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 **Móc:** Bác sĩ đã khai. Giờ tới lượt người đứng đơn: Jordyn sẽ im lặng, hay khai ra tất cả?
 
 #### Cụm 111 · 55:00–55:30 · It's his · PROBATE_COURTROOM · liền
-**Nhân vật:** JUDGE HOLLIS (HO1), JORDYN (JO5), BANKS (CB1), FARRIS (FA1), OZELLA (OZ7); NOLAN (NO3), DANAE (DA4H) (không nói)
-**Chức năng:** Jordyn quay lưng với Graham ngay giữa toà + lệnh bảo hộ bị huỷ, mọi hành vi của người giám hộ vô hiệu + Jordyn bị còng lần hai + Farris tháo chiếc khăn be khỏi cổ tay Jordyn trả cho bà · **Cung bậc:** hả hê → thanh tẩy · **Vòng:** S3 công lý · S9 (van xin, bị khước từ) · trả khăn trùm đầu (cụm 88) · gương soi cụm 55 (còng lần một)
+**Nhân vật:** JUDGE HOLLIS (HO1), JORDYN (JO5), FARRIS (FA1), OZELLA (OZ7); BANKS (CB1), NOLAN (NO3), DANAE (DA4H) (không nói)
+**Chức năng:** Jordyn quay lưng với Graham ngay giữa toà + lệnh bảo hộ bị huỷ, mọi hành vi của người giám hộ vô hiệu + Jordyn bị còng lần hai, bị huỷ bảo lãnh vì camera khu tiếp nhận quay được cô vi phạm lệnh cấm tiếp xúc + Farris tháo chiếc khăn be khỏi cổ tay Jordyn trả cho bà · **Cung bậc:** hả hê → thanh tẩy · **Vòng:** S3 công lý · S9 (van xin, bị khước từ) · trả khăn trùm đầu (cụm 88) · trả lệnh cấm tiếp xúc và camera khu tiếp nhận (cụm 88) · gương soi cụm 55 (còng lần một)
 
 - **HOLLIS** (nhìn thẳng bàn bên phải): "Ms. Carrington. The lab says this child is not Nolan Grier's. You swore it was."
   *(VN) Cô Carrington. Phòng xét nghiệm nói đứa bé này không phải con của Nolan Grier. Cô đã thề là phải.*
 - Jordyn đứng bật dậy, nước mắt trào ra, chỉ tay về phía cửa phòng xử như thể có ai đứng đó.
-- **JORDYN** (gào lên): "It's Graham's! The baby's GRAHAM's! He made me file! He wrote all of it!"
-  *(VN) Là của Graham! Đứa bé là của GRAHAM! Anh ta bắt tôi đứng đơn! Anh ta viết hết!*
-- **BANKS** (gập cặp da, đứng dậy): "Your Honor, I... withdraw as counsel."
-  *(VN) Thưa quý toà, tôi... xin rút khỏi vai trò luật sư.*
+- **JORDYN** (gào lên): "It's GRAHAM's! He made me file!"
+  *(VN) Là của GRAHAM! Anh ta bắt tôi đứng đơn!*
+- Banks gập cặp da, lặng lẽ lùi một bước khỏi bàn bên phải, tách khỏi Jordyn.
 - **HOLLIS** (gõ búa): "The guardianship is dissolved. Every act under it is void."
   *(VN) Lệnh giám hộ bị huỷ bỏ. Mọi hành vi thực hiện theo lệnh đó đều vô hiệu.*
 - **HOLLIS** (nhìn sang bà Ozella, giọng dịu lại): "Mrs. Grier, you are the most oriented person in this courtroom."
   *(VN) Bà Grier, bà là người tỉnh táo nhất trong phòng xử này.*
 - Farris (FA1) bước tới bàn bên phải, tháo còng ở thắt lưng.
-- **FARRIS** (phẳng): "Jordyn Carrington. Perjury. Fraud on the court. Again."
-  *(VN) Jordyn Carrington. Khai man. Lừa dối toà án. Lại lần nữa.*
+- **FARRIS** (phẳng): "Jordyn Carrington, you're under arrest. Again. Perjury. Fraud on the court. And your bond's revoked. The intake camera caught you."
+  *(VN) Jordyn Carrington, cô bị bắt. Lại lần nữa. Khai man. Lừa dối toà án. Và bảo lãnh của cô bị huỷ. Camera khu tiếp nhận đã quay được cô.*
 - Còng khép quanh hai cổ tay Jordyn. Farris nhìn chiếc khăn be thắt quanh cổ tay trái cô, tháo nút, rút ra, mang tới bàn bên trái, đặt vào tay bà Ozella.
-- **FARRIS:** "I believe this is yours, ma'am."
-  *(VN) Tôi nghĩ cái này là của bà.*
 - **JORDYN** (bị dẫn đi, ngoái lại): "Miss Ozella, please—"
   *(VN) Bà Ozella, làm ơn—*
 - Ozella gấp chiếc khăn be làm tư, cất vào ví cầm tay, không nhìn Jordyn.
@@ -3144,7 +3148,7 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 ### TẬP 38 · STILL THE THIEF GRANNY · cụm 112–114 · 55:30–57:00
 
 #### Cụm 112 · 55:30–56:00 · A new era · TOWER_BOARDROOM · thứ Ba 3/11/2026, 9:00 sáng
-**Nhân vật:** GRAHAM (GR5), BARROW (BA1), OZELLA (OZ3), OKAFOR (OK1); NOLAN (NO3), DANAE (DA4H) (không nói); người nền: 2 thành viên hội đồng, đại diện quỹ Halvorsen (không nói)
+**Nhân vật:** GRAHAM (GR5), BARROW (BA1), OZELLA (OZ3), OKAFOR (OK1); NOLAN (NO3), DANAE (DA4H) (không nói); người nền: 2 thành viên hội đồng, đại diện quỹ Kestrel Ridge (không nói)
 **Chức năng:** kẻ ác ở đỉnh (S8): Graham ngồi ghế đầu, phát biểu "kỷ nguyên mới" → cửa mở → bà Ozella bước vào lần thứ hai, đặt mũ lên bàn, "I'm still the thief granny" (gương soi cụm 59, leo thang) · **Cung bậc:** căng → hả hê · **Vòng:** S8 · gương soi cụm 58–59 · trả "I'm the thief granny"
 
 - Phòng họp hội đồng tầng 22, nắng sáng trong trở lại. Graham (GR5: vest navy, sơ mi trắng, cà vạt đỏ rượu, khăn túi ngực đỏ rượu) đứng ở đầu bàn, chỗ của Nolan. Màn hình sau lưng hắn (INSERT ghép lúc dựng): logo Grier Systems và dòng chữ *"A New Era"*.
@@ -3161,30 +3165,30 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
   *(VN) Thưa bác, bác đang bị giám hộ—*
 - **OKAFOR** (đặt lệnh toà xuống trước mặt Barrow): "Dissolved yesterday. Every vote cast under it is void."
   *(VN) Hôm qua đã bị huỷ. Mọi lá phiếu bầu theo lệnh đó đều vô hiệu.*
-- **BARROW** (đọc lướt, đeo kính lại): "Then we vote again. Now."
-  *(VN) Vậy ta bầu lại. Ngay bây giờ.*
+- **BARROW** (đọc lướt, đeo kính lại): "Then Friday's count is void. The meeting was recessed, not closed. We recount. Now."
+  *(VN) Vậy kết quả kiểm phiếu hôm thứ Sáu vô hiệu. Cuộc họp mới tạm hoãn, chưa bế mạc. Ta kiểm phiếu lại. Ngay bây giờ.*
 
-**Khung kết:** Ozella OZ3 đứng cạnh Barrow, chiếc mũ tím đặt ngửa trên bàn trước mặt; Okafor OK1 bên cạnh, tay đặt trên lệnh toà; Nolan NO3 và Danae DA4H đứng sau vai bà; Graham GR5 đứng ở đầu bàn bên kia, cạnh màn hình "A New Era", nụ cười đông cứng; hai thành viên hội đồng và đại diện Halvorsen quay cả về phía bà.
+**Khung kết:** Ozella OZ3 đứng cạnh Barrow, chiếc mũ tím đặt ngửa trên bàn trước mặt; Okafor OK1 bên cạnh, tay đặt trên lệnh toà; Nolan NO3 và Danae DA4H đứng sau vai bà; Graham GR5 đứng ở đầu bàn bên kia, cạnh màn hình "A New Era", nụ cười đông cứng; hai thành viên hội đồng và đại diện Kestrel Ridge quay cả về phía bà.
 **Móc:** Bầu lại: 12% của bà sẽ lật ngược mọi thứ, hay Graham còn một lá bài cuối?
 
 #### Cụm 113 · 56:00–56:30 · Earl's heir · TOWER_BOARDROOM · liền
-**Nhân vật:** BARROW (BA1), OZELLA (OZ3), GRAHAM (GR5); người nền: ĐẠI DIỆN HALVORSEN (nói 1 câu), 2 thành viên hội đồng; NOLAN, DANAE, OKAFOR (không nói)
-**Chức năng:** bầu lại (bà bỏ 12% cho Nolan, quỹ Halvorsen đổi phe) → Nolan trở lại + Graham tung lá bài cuối: tự nhận là con trưởng của Earl trước cả phòng, đòi một nửa trang trại → bà chốt giá: Earl sang tên trang trại cho bà năm 2001, năm bác sĩ báo bệnh, đã trước bạ ở hạt Dougherty · **Cung bậc:** hả hê → sốc → hả hê · **Vòng:** S11 cú chốt giá cuối · trả 40 mẫu và mộ Earl (cụm 87) · trả bệnh của Earl (cụm 23, 107)
+**Nhân vật:** BARROW (BA1), OZELLA (OZ3), GRAHAM (GR5); người nền: ĐẠI DIỆN KESTREL RIDGE (nói 1 câu), 2 thành viên hội đồng; NOLAN, DANAE, OKAFOR (không nói)
+**Chức năng:** bầu lại (bà bỏ 12% cho Nolan, quỹ Kestrel Ridge đổi phe) → Nolan trở lại + Graham tung lá bài cuối: tự nhận là con trưởng của Earl trước cả phòng, đòi một nửa trang trại → bà chốt giá: Earl sang tên trang trại cho bà năm 2001, năm bác sĩ báo bệnh, đã trước bạ ở hạt Dougherty · **Cung bậc:** hả hê → sốc → hả hê · **Vòng:** S11 cú chốt giá cuối · trả 40 mẫu và mộ Earl (cụm 87) · trả bệnh của Earl (cụm 23, 107)
 
 - **BARROW:** "Mrs. Grier?"
   *(VN) Bà Grier?*
 - **OZELLA:** "Twelve percent. For my son."
   *(VN) Mười hai phần trăm. Cho con trai tôi.*
-- Đại diện quỹ Halvorsen giơ tay.
-- **ĐẠI DIỆN HALVORSEN:** "Halvorsen changes its vote. Against the motion."
-  *(VN) Quỹ Halvorsen đổi phiếu. Phản đối kiến nghị.*
-- **BARROW** (gập hồ sơ): "The motion fails. Nolan Grier is reinstated as Chair and CEO."
-  *(VN) Kiến nghị bị bác. Nolan Grier được phục hồi chức Chủ tịch và Tổng giám đốc.*
-- Graham đứng phắt dậy, giọng vang khắp phòng, liều lĩnh.
+- Đại diện quỹ Kestrel Ridge giơ tay.
+- **ĐẠI DIỆN KESTREL RIDGE:** "Kestrel Ridge changes its vote. Against the motion."
+  *(VN) Quỹ Kestrel Ridge đổi phiếu. Phản đối kiến nghị.*
+- **BARROW** (gập hồ sơ): "The motion fails. Nolan Grier is reinstated as CEO and to the board."
+  *(VN) Kiến nghị bị bác. Nolan Grier được phục hồi chức Tổng giám đốc và ghế trong hội đồng.*
+- Graham đập hai tay xuống mặt bàn, giọng vang khắp phòng, liều lĩnh.
 - **GRAHAM:** "You want the truth? I'm Earl Grier's son! His firstborn!"
   *(VN) Các người muốn sự thật à? Tôi là con trai Earl Grier! Con trưởng của ông ấy!*
-- **GRAHAM:** "Half of everything Earl had is mine. Starting with that farm."
-  *(VN) Một nửa những gì Earl có là của tôi. Bắt đầu từ cái trang trại đó.*
+- **GRAHAM:** "Half that farm is mine."
+  *(VN) Một nửa cái trang trại đó là của tôi.*
 - Cả phòng sững sờ. Hai thành viên hội đồng nhìn nhau. Ozella không chớp mắt.
 - **OZELLA:** "Earl signed that farm to me in two thousand one. The year the doctor told us."
   *(VN) Earl sang tên trang trại cho tôi năm hai nghìn lẻ một. Đúng năm bác sĩ báo bệnh.*
@@ -3193,7 +3197,7 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 - **OZELLA** (giọng mềm hẳn xuống): "He left you letters, baby. That's what he had."
   *(VN) Ông ấy để lại cho con những lá thư, con à. Ông ấy chỉ có chừng đó.*
 
-**Khung kết:** Graham GR5 đứng ở đầu bàn, hai tay chống mặt bàn, thở dốc; Ozella OZ3 đứng đối diện ở đầu bên kia, mũ tím ngửa trên bàn trước mặt, nhìn hắn không giận; Barrow BA1 gập hồ sơ; đại diện Halvorsen hạ tay; Nolan NO3 đứng sau vai mẹ, nhìn Graham như nhìn một người lạ có gương mặt quen.
+**Khung kết:** Graham GR5 đứng ở đầu bàn, hai tay chống mặt bàn, thở dốc; Ozella OZ3 đứng đối diện ở đầu bên kia, mũ tím ngửa trên bàn trước mặt, nhìn hắn không giận; Barrow BA1 gập hồ sơ; đại diện Kestrel Ridge hạ tay; Nolan NO3 đứng sau vai mẹ, nhìn Graham như nhìn một người lạ có gương mặt quen.
 **Móc:** Không cổ phần, không đất, không ghế: Graham còn lại gì khi cánh cửa phòng họp lại mở ra?
 
 #### Cụm 114 · 56:30–57:00 · Graham Earl Pryce · TOWER_BOARDROOM · liền
@@ -3211,8 +3215,8 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 - **FARRIS:** "Exploitation and false imprisonment of an elder."
   *(VN) Bóc lột và giam giữ trái phép người cao tuổi.*
 - Farris thò tay vào túi trong áo vest của Graham, rút ra chiếc điện thoại nắp gập đen rẻ tiền, bật mở (INSERT ghép lúc dựng: danh bạ chỉ có một tên: *"R."*).
-- **FARRIS:** "Regina's 'Friend.' Still charging."
-  *(VN) "Friend" của Regina đây. Vẫn còn sạc đầy pin.*
+- **FARRIS:** "Regina's 'Friend.' Still switched on."
+  *(VN) "Friend" của Regina đây. Vẫn còn mở máy.*
 - Graham không chống cự. Còng tay khép lại sau lưng hắn.
 - **GRAHAM** (nhìn Nolan, giọng thấp): "Brother—"
   *(VN) Em trai—*
@@ -3224,7 +3228,7 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 
 ### TẬP 39 · FORTY-ONE · cụm 115–117 · 57:00–58:30
 
-#### Cụm 115 · 57:00–57:30 · Did he wave · sảnh thang máy tầng 22 · liền
+#### Cụm 115 · 57:00–57:30 · Did he wave · TOWER_ELEVATOR · liền
 **Nhân vật:** GRAHAM (GR5, bị còng), OZELLA (OZ3); người nền: 2 cảnh sát (không nói)
 **Chức năng:** dư âm cho phản diện chính (M2 echo): câu hỏi duy nhất của Graham + câu trả lời của bà + tha thứ có điều kiện (tha thứ không có nghĩa là miễn tội) · **Cung bậc:** lặng, xót · **Vòng:** M2 echo · R10 giá trị (tha thứ ≠ miễn tội) · trả lá thư sinh nhật 7 tuổi (cụm 108)
 
@@ -3248,15 +3252,15 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 **Khung kết:** cửa thang máy inox đã khép, phản chiếu mờ dáng Ozella OZ3 đứng một mình trước cửa, mũ tím trong tay; qua vách kính sau lưng bà, Midtown trải dài trong nắng; con số trên đầu cửa thang máy đếm lùi.
 **Móc:** Ở nhà giam hạt Fulton, một cuộc gọi khác đang đổ chuông. Lần này ai không nghe máy?
 
-#### Cụm 116 · 57:30–58:00 · Forty-one · nhà giam hạt Fulton (điện thoại treo tường) + hiên nhà MaDear · thứ Ba 3/11/2026, chiều → tối
-**Nhân vật:** JORDYN (JO5, trong đồ tù), REGINA (RG4), OZELLA (OZ1)
+#### Cụm 116 · 57:30–58:00 · Forty-one · JAIL_PHONE + RANCH_PORCH · thứ Ba 3/11/2026, chiều → tối
+**Nhân vật:** JORDYN (JO6), REGINA (RG4), OZELLA (OZ1)
 **Chức năng:** kẻ ác bị kẻ ác khước từ (Jordyn gọi Graham lần thứ 41, không ai nghe, gương soi 40 cuộc gọi cho Nolan) + Regina van xin bà ở chân bậc hiên (gương soi Regina đứng trên bậc thềm cụm 25) + bà Ozella từ chối, nhưng lo cho đứa bé · **Cung bậc:** hả hê lạnh → lặng · **Vòng:** S9 van xin bị khước từ · gương soi cụm 25 và 69 · R10 (lòng tốt có ranh giới)
 
-- Hành lang nhà giam hạt Fulton, tường bê tông sơn xám, một dãy điện thoại treo tường. Jordyn (đồ tù màu cam rộng thùng thình, tóc buộc vội, không trang điểm, ngón áp út trống trơn) áp ống nghe lên tai, tay kia ôm bụng.
+- Hành lang nhà giam hạt Fulton, tường bê tông sơn xám, một dãy điện thoại treo tường. Jordyn (JO6: đồ tù màu cam rộng thùng thình, tóc buộc vội, không trang điểm, ngón áp út trống trơn) áp ống nghe lên tai, tay kia ôm bụng.
 - **JORDYN** (khóc vào ống nghe): "Graham, pick up. Please. It's your son."
   *(VN) Graham, nghe máy đi. Làm ơn. Là con trai anh đấy.*
-- INSERT (ghép lúc dựng): trong một túi nhựa đựng đồ tạm giữ trên kệ thép, điện thoại của Graham sáng màn hình: *"Jordyn (41)"*. Không ai nhấc máy.
-- Hiên nhà MaDear, chạng vạng. Regina (RG4) đứng ở chân bậc hiên, dưới cùng. Ozella (OZ1) đứng ở bậc trên cùng, sau tấm cửa lưới.
+- INSERT (ghép lúc dựng): trong một túi nhựa đựng đồ tạm giữ trên kệ thép, điện thoại của Graham sáng màn hình: *"Fulton County Jail (41)"*. Không ai nhấc máy.
+- Hiên nhà MaDear, chạng vạng. Regina (RG4) đứng ở chân bậc hiên, dưới cùng. Ozella (OZ1) đứng trong nhà, sau tấm cửa lưới.
 - **REGINA** (giọng run, lần đầu không còn kiêu): "Miss Ozella. My daughter's carrying a baby. Please. Drop the charges."
   *(VN) Bà Ozella. Con gái tôi đang mang thai. Làm ơn. Rút đơn đi.*
 - Ozella mở cửa lưới, bước ra đứng ở bậc trên cùng.
@@ -3319,7 +3323,7 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
   *(VN) Và ông đã làm. Giờ ngồi xuống đi kẻo nước sốt nguội.*
 - Moses đứng dậy cắt gà tây. Farris chuyền đĩa khoai lang qua cho Barrow. Mother Hattie gõ thìa vào cốc.
 
-**Khung kết:** toàn cảnh bàn dài dưới hàng hồ đào: Ozella OZ8 ở đầu bàn, Nolan NO6 bên phải, Danae DA6 bên trái; Lowell LO4 vừa ngồi xuống; Glenda GL2 giữa bàn; Mya MY3 đặt bát salad ở cuối bàn; Moses cầm dao cắt gà tây; Farris và Barrow chuyền đĩa; Mother Hattie gõ thìa; ở cuối bàn, sau bát salad khoai tây, có một chiếc ghế trống.
+**Khung kết:** toàn cảnh bàn dài dưới hàng hồ đào: Ozella OZ8 ở đầu bàn, Nolan NO6 bên phải, Danae DA6 bên trái; Lowell LO4 vừa ngồi xuống; Glenda GL2 giữa bàn; Mya MY3 đặt bát salad ở cuối bàn; Moses cầm dao cắt gà tây; Farris và Barrow chuyền đĩa; Mother Hattie gõ thìa; ở đầu bàn bên kia, đối diện bà, có một chiếc ghế trống.
 **Móc:** Sau bữa ăn, Danae mang ra một thứ được gói kỹ: tấm chăn cưới.
 
 #### Cụm 119 · 59:00–59:30 · The eighth square · FARM_YARD (hiên, khung thêu quilt) · liền, hoàng hôn
@@ -3357,16 +3361,16 @@ Thời gian từ thứ Sáu 9/10/2026 (bà Ozella tới sớm một ngày), qua 
 - Bà đọc hai lần. Gấp lại. Nhìn lên con đường đất đỏ dẫn ra quốc lộ.
 - **OZELLA** (một mình, khẽ): "Lord. Earl. Your boy's asking for a plate."
   *(VN) Lạy Chúa. Earl à. Thằng con ông đang xin một cái đĩa.*
-- Bà đi về chiếc bàn dài, tới đầu bàn trống, nơi có chiếc ghế không ai ngồi. Bà đặt xuống một chiếc đĩa sạch, dao, nĩa, một chiếc khăn ăn gấp vuông.
+- Bà đi về chiếc bàn dài, tới đầu bàn bên kia, đối diện ghế của bà, nơi có chiếc ghế không ai ngồi. Bà đặt xuống một chiếc đĩa sạch, dao, nĩa, một chiếc khăn ăn gấp vuông.
 - **NOLAN** (từ bậc hiên, khẽ): "Mama?"
   *(VN) Mẹ?*
 - **OZELLA:** "Ninth square stays open, son. Some folks take the long way home."
   *(VN) Ô thứ chín cứ để đó, con. Có những người phải đi đường vòng mới về được tới nhà.*
-- Máy quay lùi xa dần: chiếc bàn dài dưới đèn dây, chiếc đĩa trống ở đầu bàn, khung chăn trên hiên với tám mảnh và một ô trống; Nolan và Danae trên bậc hiên; bà Ozella đứng giữa sân.
+- Máy quay lùi xa dần: chiếc bàn dài dưới đèn dây, chiếc đĩa trống ở đầu bàn bên kia, khung chăn trên hiên với tám mảnh và một ô trống; Nolan và Danae trên bậc hiên; bà Ozella đứng giữa sân.
 - Máy lia ra đầu đường đất đỏ, tới quầy trứng. Trên hộp tiền tự giác bằng thiếc có một bó lily trắng, không thiệp. Một bàn tay phụ nữ đeo hai chiếc nhẫn vàng lớn vừa rút khỏi khung hình. Không thấy mặt. Tiếng một chiếc xe nổ máy rồi xa dần.
 - Cắt. HẾT.
 
 **Khung kết:** bó lily trắng không thiệp nằm trên hộp tiền thiếc của quầy trứng; con đường đất đỏ vắng dưới trời tím sẫm; xa phía sau là ánh đèn dây của bàn dài và bóng bà Ozella giữa sân.
-**Móc (gợi phần sau, tuỳ chọn):** Bó lily trắng không tên, đúng loại hoa từng tới đám tang Earl. Người đàn bà đã giấu cha khỏi con suốt ba mươi lăm năm vẫn đang dõi theo.
+**Móc (gợi phần sau, tuỳ chọn):** Bó lily trắng không tên, đúng loại hoa từng tới đám tang Earl. Người đàn bà đã giấu con sự thật về cha nó suốt ba mươi lăm năm vẫn đang dõi theo.
 
 **— HẾT PHIM —**

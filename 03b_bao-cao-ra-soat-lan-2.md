@@ -175,3 +175,15 @@ Tuy vậy, kịch bản còn **8 lỗi nặng**, phần lớn ở Phần 2. Đâ
 - Bỏ các ghi chú phiên bản ở đầu file (dòng 3–4, 8, 52) và ghi chú tác quyền ở đầu Phần 2 (dòng 2045). Phần khai báo dùng AI chuyển sang `06_tuyen-bo-ban-quyen.md`, không để trong thân kịch bản.
 - Thống nhất mã bối cảnh cho các header đang viết chữ tự do (cụm 84–86, 93, 115, 116).
 - Giữ nguyên chữ "AI" trong thoại (dòng 1270, 1280–1286), vì đó là lời của nhân vật.
+
+---
+
+## F. KẾT QUẢ (06/11/2026)
+Tác giả duyệt **sửa toàn bộ** mục A, B, C và quyết định mục D như sau:
+1. **Người đứng đơn:** giữ Jordyn và biến chi tiết này thành mìn. Cụm 73 thêm lệnh cấm tiếp xúc. Cụm 92 Okafor nêu ra, Hollis bác vì đó là việc của toà hình sự. Cụm 88 có camera ở sảnh tiếp nhận quay được cảnh Jordyn tháo khăn của bà. Cụm 111 Jordyn bị thu hồi tại ngoại.
+2. **Banks:** đổi thành người giám hộ chuyên nghiệp trong danh sách của toà, không còn là luật sư của Jordyn.
+3. **Đổi tên:** Magnolia Gardens → Hollin Pines Memory Care (mã PINES_*). Halvorsen → Kestrel Ridge Capital.
+4. **Corinne:** đổi thành Monk 8.
+5. **Bảng mã:** tách riêng thành file `04a_thiet-ke.md`. Số 07 đã dùng cho nhật ký nên dùng số 04a.
+
+Đã sửa vào `03`. Bản sạch (bỏ ghi chú ✎ và ghi chú phiên bản) đã chép sang `04_kich-ban-chinh-thuc.md`.
