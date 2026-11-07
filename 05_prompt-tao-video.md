@@ -110,6 +110,32 @@
   Có thể sửa từng ô bằng `tao_anh.py … sua-panel PANEL "câu sửa"`.
 - **Đánh giá & quyết định của tác giả:**
 
+## Prompt video 120 cụm — viết tay tiếng Trung (07/11/2026)
+
+> [AI] Tác giả yêu cầu: "viết tay prompt chuẩn cấu trúc và bám sát ảnh và bám kịch bản". Claude làm theo khuôn của THE BLOCK CLUB và WHEN NOBODY'S WATCHING: skill `viet-prompt-seedance-zh-tay`, 9 khối, thoại `{…}` không ngoặc kép, mã `TÊN（@图片N）` ở mọi chỗ nhắc nhân vật, panel và đạo cụ.
+
+- **Kịch bản nguồn:** `04_kich-ban-chinh-thuc.md`. Thoại chép nguyên văn, tổng 766 câu.
+- **Quy chuẩn riêng của phim:** `09_media/xuong/_zh/QUY_CHUAN_VIET.md`, gồm:
+  - câu nhận diện 21 nhân vật và câu trang phục 70 mã, viết sau khi mở xem từng bảng nhân vật;
+  - câu chuẩn cho 188 panel, viết sau khi mở xem từng panel;
+  - câu người nền, câu tả 30 đạo cụ;
+  - luật riêng của phim: INSERT, gọi điện, kiểm duyệt, Jordyn/Mya không tả trang phục, cụm hai nơi, mưa, bẫy dàn cảnh.
+
+  Cách làm: 5 tác tử AI soạn các phần nhân vật và panel từ ảnh, Claude soạn phần chung rồi ghép lại.
+- **Bài viết:**
+  - `09_media/xuong/_zh/prompt/cum_001.txt … cum_120.txt`, mỗi bài kèm `cum_NNN.refs` (3–9 ảnh, thứ tự @图片1…N).
+  - `09_media/xuong/_zh/soat/cum_NNN.md`: phiếu soát của từng cụm.
+  - 12 tác tử viết song song, mỗi tác tử 10 cụm và tự soát. Claude soát lại cả đợt.
+- **Soát:** chạy `09_media/xuong/_zh/soat_prompt.py`. **120/120 bài 0 lỗi.**
+  - Đã kiểm: thoại trùng nguyên văn kịch bản 04; câu khoá đúng số câu; mã ảnh khớp `.refs`; ảnh có thật, không quá 9 ảnh; mốc giây liền 0–30; không chữ cấm; Jordyn/Mya không có chữ tả cơ thể.
+  - Kiểm chéo thêm: 509 dòng nhận diện ở cả 120 bài đều trùng nguyên văn quy chuẩn, câu da cuối bài có đủ ở cả 120 bài.
+  - Còn cảnh báo độ dài ở 8 cụm (1–6, 9, 10), mỗi cụm 5.205–5.583 ký tự.
+- **Sửa quy chuẩn trong lúc viết** (do các tác tử báo):
+  - Bỏ chữ cấm 腰 (RG1, RG4, OZ2, FA1) và 打 (打开, 打印 ở câu đạo cụ).
+  - Câu khách tiệc đổi thành tay không cầm ly, theo kịch bản.
+- **Chưa render.** Điểm cần tác giả quyết, xếp theo ưu tiên: `09_media/xuong/_zh/CAN_TAC_GIA_QUYET.md`. Gồm ảnh nên sửa trước khi render (bao súng của Farris, các bảng khoét sâu), cử chỉ đổi do luật cấm chạm mặt (cụm 13, 32, 37, 99), người bị bớt vì giới hạn 9 ảnh, và cụm nên render thử trước (104, 54, 75, 88/90).
+- **Đánh giá & quyết định của tác giả:**
+
 ## Cảnh 1 — [tên cảnh]
 
 ### C01-01
