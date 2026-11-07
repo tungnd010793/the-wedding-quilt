@@ -71,6 +71,45 @@
   - **Bối cảnh:** khung ảnh lớn ở `RANCH_LIVING` lộ rõ một khuôn mặt. Bia mộ ở `FARM_GATE` có nét như chữ khắc mờ. Lối dốc ở `PARKING_GARAGE` mở ra trời sáng.
 - **Đánh giá & quyết định của tác giả:**
 
+## Lần chạy 04 — làm lại ảnh còn lỗi sau QC (07/11/2026)
+
+> [AI] Tác giả yêu cầu: "những cái nào qc chưa đạt thì tạo lại ảnh". Sau lần chạy 03, cả 147 ảnh đều đạt (từ 7 điểm), nên Claude làm lại 22 ảnh 7 điểm còn lỗi nhìn thấy được, cộng 2 bảng biến thể phải làm lại theo bảng gốc. Câu sửa nằm trong `du_an.json`. Bản trước khi sửa được cất ở `anh/_du_an_truoc_sua3.json`.
+> - **Bảng nhân vật:**
+>   - DN1, RY1: thêm dáng đậm, mềm bụng.
+>   - MO1–MO3: giữ đúng độ sâu da, nhấn tai nghe tai phải.
+>   - MY1: đổi sang vải lì, khuyên vòng, mặt tròn, khe mày.
+>   - RG2: hoa tai nút vàng.
+>   - RG3: tóc bẹp một bên.
+>   - RG4: chân tóc đen mọc lại.
+>   - DA3J: lộ rõ cardigan hồng.
+>   - NO1C: tay áo đẩy tới khuỷu, râu rậm, dây đồng hồ da.
+>   - OZ5BW: thêm giọt mưa.
+> - **Bảng 4 góc:**
+>   - ESTATE_GARAGE: xe không logo.
+>   - ESTATE_LAWN: bỏ dấu tròn.
+>   - FARM_GATE và bản chạng vạng: bia mộ trơn.
+>   - PARKING_GARAGE: dốc tối.
+>   - PINES_HALL: tay vịn liền, hành lang rẽ.
+>   - PROBATE_COURTROOM: cờ cuộn.
+>   - RANCH_LIVING và bản rạng sáng: khung ảnh không thấy mặt, camera chuông cửa.
+>   - RANCH_PORCH: sedan bạc đời 90, 3 bậc thềm.
+> - **Không làm lại:**
+>   - SHEET_JORDYN_JO2: váy khoét sâu đúng yêu cầu của tác giả.
+>   - SHEET_DANAE_DA5H: vừa làm lại ở lần 03.
+
+- **Công cụ:** `--chi <29 ảnh> --lam-lai --song-song 5 --bot-ai nhe`. Nhật ký ở `anh/_log_sua3.txt`.
+- **Kết quả:** tạo được 29/29 ảnh trong 14:25–14:30 (5 luồng, không lỗi cổng). Bản cũ cất ở `anh/_cu/*_1107_14*.png`. Ảnh so sánh cũ/mới: `qc/QC_sua3_a…d.jpg`.
+- **Chấm lại:** bản mới đều bằng hoặc tốt hơn bản cũ nên giữ cả. Tổng **147/147 đạt**: điểm 9 có 30 ảnh, điểm 8 có 108 ảnh, điểm 7 có 9 ảnh. Báo cáo từng ảnh ở `qc/QC_ANH.md`.
+- **Lỗi sửa chưa ăn (ảnh vẫn ở mức 7):**
+  - Tai nghe của Moses (MO1, MO3) quá nhỏ.
+  - Chân tóc đen của Regina (RG4) chưa nổi rõ.
+  - Giọt mưa trên mặt Ozella (OZ5BW) còn mờ.
+  - Cờ ở PROBATE_COURTROOM vẫn bung, chưa cuộn.
+  - Khung ảnh giữa kệ ở RANCH_LIVING (cả bản rạng sáng) vẫn thấy một khuôn mặt nhỏ.
+
+  Có thể sửa từng ô bằng `tao_anh.py … sua-panel PANEL "câu sửa"`.
+- **Đánh giá & quyết định của tác giả:**
+
 ## Cảnh 1 — [tên cảnh]
 
 ### C01-01
