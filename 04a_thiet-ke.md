@@ -21,9 +21,9 @@ Mô tả ngoại hình lấy từ lần xuất hiện đầu tiên trong kịch 
 |---|---|---|---|---|
 | **OZELLA Grier** ("Miss Ozella") | 66 | Mẹ Nolan; chủ trang trại gà đẻ và hồ đào ở Dougherty County, thợ khâu quilt; nhà đầu tư sáng lập giữ 12% Grier Systems | Monk 9 ánh đỏ ấm · tóc bạc tự nhiên ngắn ép mềm rẽ ngôi bên, nếp nhăn khoé mắt sâu, bàn tay to khớp ngón thô của người làm vườn | alto miền Nam chậm, ấm |
 | **NOLAN Grier** | 34 | Người sáng lập kiêm CEO Grier Systems, tỷ phú tự lập (sinh 3/3/1992) | Monk 8 · râu đầy tỉa gọn, lineup sắc, tóc cắt sát hai bên có sóng trên đỉnh, cao vai rộng, đồng hồ dây da nâu | — |
-| **JORDYN Carrington** | 29 | Influencer, hôn thê của Nolan | Monk 6 ánh vàng · tóc dài thẳng đen pha nâu sẫm uốn sóng lớn, natural hairline, mi dày, móng tay dài sơn đỏ rượu | — |
+| **JORDYN Carrington** | 29 | Influencer, hôn thê của Nolan | Monk 6 ánh vàng · tóc dài thẳng đen pha nâu sẫm uốn sóng lớn, natural hairline, mi dày, móng tay dài sơn đỏ rượu · **mặt rất xinh kiểu influencer, dáng đồng hồ cát (ngực đầy, eo thon, hông nở); trang phục hay khoét sâu cổ chữ V** (tác giả yêu cầu 07/11/2026) | — |
 | **REGINA Carrington** | 57 | Mẹ Jordyn, chủ tịch hội cotillion, chủ mưu trong nhà | Monk 7 · tóc bob ngắn bạch kim ép thẳng, vòng ngọc trai sát cổ (Phần 2: lộ chân tóc đen, bỏ ngọc trai) | lạnh, chậm, không cao giọng |
-| **MYA Carrington** | 24 | Em gái Jordyn, làm nội dung mạng xã hội | Monk 6 · tóc tết box braids dài buộc cao, móng tay ngắn sơn đen | "giọng livestream" |
+| **MYA Carrington** | 24 | Em gái Jordyn, làm nội dung mạng xã hội | Monk 6 · tóc tết box braids dài buộc cao, móng tay ngắn sơn đen · **mặt xinh, nhỏ người nhưng gợi cảm (ngực đầy, eo nhỏ, hông nở); ở Phần 1 mặc đồ khoét sâu** (tác giả yêu cầu 07/11/2026) | "giọng livestream" |
 | **LOWELL Carrington** | 61 | Bố Jordyn, chủ đại lý xe đã nghỉ hưu | Monk 8 · tóc muối tiêu cắt sát, ria muối tiêu dày, kính gọng vàng | trầm, chậm |
 | **DANAE Dukes** | 26 | Nhân viên giúp việc theo giờ của Sweetgum Staffing, sinh viên điều dưỡng (Phần 2: thực tập ở Hollin Pines) | Monk 8 ánh vàng ấm · tóc tết box braids cỡ vừa búi thấp sau gáy, nốt ruồi nhỏ dưới mắt phải, mặt mộc | khô (hay "giọng khô") |
 | **GRAHAM Pryce** (Graham Earl Pryce) | 35 | COO Grier Systems, bạn cùng phòng đại học của Nolan; anh trai cùng cha của Nolan (sinh 6/1991) | Monk 6 ánh ô liu · đầu cạo sạch, ria mép nối râu cằm tỉa vuông, nụ cười rộng răng đều, đồng hồ thép | ấm, ân cần |
@@ -90,12 +90,12 @@ Cột "mô tả" lấy gần nguyên văn từ lần mô tả đầu tiên trong
 ### JORDYN
 | Mã | Mô tả | Dùng ở cụm |
 |---|---|---|
-| JO1 | Váy len dệt kim đỏ rượu dài tay ôm vừa dài qua gối, giày cao gót mũi nhọn đỏ rượu, hoa tai vàng tròn nhỏ, nhẫn đính hôn kim cương lớn trên ngón áp út trái. | 001–018, 020–025, 034 (cụm 037 trước đây ghi JO1, nay đổi sang JO1B) |
-| JO1B | (Ban ngày thứ Bảy 10/10.) Áo len cashmere cổ lọ màu kem dài tay ôm vừa, chân váy bút chì da lộn đỏ rượu dài qua gối, thắt lưng da mảnh màu vàng đồng, giày cao gót mũi nhọn màu nude, hoa tai vàng tròn nhỏ; nhẫn đính hôn. **(mới ở bản 04)** | 037 |
-| JO2 | Đầm dạ hội satin đỏ rượu dài chấm đất, dài tay, cổ thuyền kín, hoa tai kim cương giọt; nhẫn đính hôn. | 040–055 |
-| JO3 | Đầm quấn trắng dài tay dài qua gối, giày cao gót nude, kính râm to đẩy lên đầu, nhẫn đính hôn kim cương **vẫn đeo**. | 073–074 |
-| JO4 | Bộ len cashmere màu kem (áo cổ lọ, quần ống rộng), kính râm gọng vàng, túi xách đỏ rượu; nhẫn kim cương vẫn trên tay trái. Từ cụm 088: khăn trùm đầu be của bà Ozella buộc quanh cổ tay trái như vòng tay. | 078, 080–081, 085, 088, 092 |
-| JO5 | Đầm đen dài tay cổ kín, giày cao gót đen (khăn be của bà vẫn buộc ở cổ tay trái cho tới khi trả lại ở cụm 111). | 109, 111 |
+| JO1 | Váy len dệt kim gân đỏ rượu dài tay **ôm sát, cổ chữ V khoét sâu**, dài qua gối, giày cao gót mũi nhọn đỏ rượu, hoa tai vàng tròn nhỏ, nhẫn đính hôn kim cương lớn trên ngón áp út trái. | 001–018, 020–025, 034 (cụm 037 trước đây ghi JO1, nay đổi sang JO1B) |
+| JO1B | (Ban ngày thứ Bảy 10/10.) Áo cashmere quấn màu kem dài tay **cổ chữ V khoét sâu**, chân váy bút chì da lộn đỏ rượu cạp cao dài qua gối, thắt lưng da mảnh màu vàng đồng, giày cao gót mũi nhọn màu nude, hoa tai vàng tròn nhỏ; nhẫn đính hôn. **(mới ở bản 04)** | 037 |
+| JO2 | Đầm dạ hội satin đỏ rượu dài chấm đất, dài tay, **cổ chữ V khoét sâu tới xương ức, dáng đuôi cá, xẻ tà cao**, hoa tai kim cương giọt; nhẫn đính hôn. | 040–055 |
+| JO3 | Đầm quấn trắng dài tay **cổ quấn chữ V sâu**, thắt chặt eo, dài qua gối, giày cao gót nude, kính râm to đẩy lên đầu, nhẫn đính hôn kim cương **vẫn đeo**. | 073–074 |
+| JO4 | Bộ len cashmere màu kem (áo **cổ chữ V khoét sâu**, quần ống rộng cạp cao), kính râm gọng vàng, túi xách đỏ rượu; nhẫn kim cương vẫn trên tay trái. Từ cụm 088: khăn trùm đầu be của bà Ozella buộc quanh cổ tay trái như vòng tay. | 078, 080–081, 085, 088, 092 |
+| JO5 | Đầm crepe đen dài tay **ôm sát, cổ chữ V khoét sâu**, giày cao gót đen (khăn be của bà vẫn buộc ở cổ tay trái cho tới khi trả lại ở cụm 111). | 109, 111 |
 | JO6 | Đồ tù màu cam của nhà giam hạt Fulton, tóc buộc gọn, không trang điểm, không trang sức (ngón áp út trống). **(mới ở bản 04, thay mã JO5 ghi sai ở cụm 116)** | 116 |
 
 ### DANAE
@@ -120,8 +120,8 @@ Cột "mô tả" lấy gần nguyên văn từ lần mô tả đầu tiên trong
 | RG2 | Đầm nhung đỏ rượu dài tay dài chấm đất, cổ tròn kín, hoa tai vàng to. | 038–039, 041–055 |
 | RG3 | Chính chiếc đầm nhung đỏ rượu RG2, nay nhàu nát sau 8 ngày, không hoa tai, không vòng ngọc trai. | 070–072 |
 | RG4 | Áo trench be giản dị, quần âu đen, giày bệt đen, không ngọc trai; tóc bob bạch kim đã lộ chân tóc đen. | 093, 109–110, 116 |
-| MY1 | Bộ đồ thể thao đen bóng gồm áo khoác khoá kéo kéo cao tới cổ và quần dài, giày thể thao trắng; điện thoại gắn tay cầm chống rung. | 001–010, 013–018, 020–024, 034 |
-| MY2 | Đầm midi satin đen dài tay, giày cao gót đen. | 040–057 |
+| MY1 | Bộ đồ thể thao đen bóng gồm áo khoác lửng **mở khoá thấp, bên trong áo bralette cổ chữ V khoét sâu hở eo**, quần dài cạp cao bó, giày thể thao trắng; điện thoại gắn tay cầm chống rung. | 001–010, 013–018, 020–024, 034 |
+| MY2 | Đầm midi satin đen dài tay **cổ chữ V khoét sâu, ôm dáng**, giày cao gót đen. | 040–057 |
 | MY3 | Hoodie xám rộng, quần jean, giày thể thao trắng, box braids xoã; điện thoại trên tay cầm chống rung. | 076, 109, 117–118 |
 | LO1 | Đồ đánh golf: áo polo navy, quần kaki, mũ lưỡi trai trắng cầm tay hoặc kẹp nách. **(bổ sung ở bản 04)** — tổng hợp từ mô tả không gắn mã ở cụm 038–039. | 038–039 |
 | LO2 | Vest xám, sơ mi trắng, cà vạt xám. | 048–057 |

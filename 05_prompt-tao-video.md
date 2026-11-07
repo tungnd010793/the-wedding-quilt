@@ -23,6 +23,26 @@
   - Ảnh mặt: đúng tuổi và tông da theo kịch bản. Regina giữ tóc bob bạch kim như kịch bản ghi. Ảnh mặt Jordyn mặc áo hai dây khoét sâu, nhưng ô cận mặt của bảng nhân vật chỉ lấy đầu và cổ nên không ảnh hưởng. Các dấu nhỏ (mẻ răng của Ozella, sẹo hàm của Nolan) chưa thấy rõ ở ảnh mặt, cần soát lại ở bảng nhân vật.
 - **Đánh giá & quyết định của tác giả:**
 
+## Lần chạy 02 — nữ phản diện trẻ gợi cảm hơn (07/11/2026)
+
+> [AI] Tác giả yêu cầu: "nữ trẻ phản diện mặt xinh hơn, body gợi cảm hơn và hay mặc đồ khoét sâu ở ngực". Claude áp dụng cho JORDYN (29) và MYA (24, thuộc phe ác ở Phần 1).
+> - **Mặt:** thêm câu "exceptionally beautiful… (an exception to the everyday-people casting style)".
+> - **Dáng:** đổi thành đồng hồ cát (ngực đầy, eo thon, hông nở).
+> - **Trang phục:** JO1–JO5, JO1B, MY1, MY2 chuyển sang cổ chữ V khoét sâu, ôm dáng. Màu và chất liệu giữ như kịch bản. JO2 thêm dáng đuôi cá, xẻ tà cao. MY1 đổi thành áo khoác lửng mở khoá, bên trong là áo bralette hở eo.
+> - **Giữ nguyên:** JO6 (đồ tù) và MY3 (Mya đã đổi phe ở Phần 2).
+> - **Đồng bộ chữ:** đã sửa câu tả trang phục tương ứng trong `03`, `04` (cùng một chỗ sửa ở cả hai file, tổng 72 chỗ) và bảng trang phục của `04a`.
+> - **Bản cũ:** `du_an.json` trước khi sửa được cất ở `anh/_du_an_truoc_goi_cam.json`. Ảnh cũ nằm ở `anh/_cu/`.
+
+- **Công cụ:** như lần chạy 01. `--chi CHAR_JORDYN_FACE CHAR_MYA_FACE --lam-lai`, sau đó `--tien-to OUTFIT_JO OUTFIT_MY SHEET_JORDYN SHEET_MYA`. Nhật ký ở `anh/_log_goi_cam.txt`.
+- **Kết quả:** tạo được 22/22 ảnh (2 ảnh mặt, 10 ảnh đồ, 10 bảng nhân vật), không ảnh nào bị chặn kiểm duyệt. Ảnh soát: `qc/QC_mat_JO_MY.jpg`, `qc/QC_sheet_JO_MY.jpg`.
+- **Claude soát (gợi ý, tác giả quyết):**
+  - Mặt Jordyn xinh hơn rõ và giữ ổn định qua 7 bảng.
+  - Model đẩy vòng ngực khá quá tay. Nếu muốn tự nhiên hơn, hoặc sợ bị chặn khi gen video, có thể đổi "full bust" thành "a shapely bust".
+  - Chỏm tóc nhọn giữa trán của Jordyn và khe cạo ở đuôi mày Mya không còn rõ.
+  - Mặt Mya chưa thật sự xinh hơn ảnh cũ.
+  - MY1 ra chất liệu bóng như da, kịch bản ghi đồ thể thao bóng, chấp nhận được.
+- **Đánh giá & quyết định của tác giả:**
+
 ## Cảnh 1 — [tên cảnh]
 
 ### C01-01
