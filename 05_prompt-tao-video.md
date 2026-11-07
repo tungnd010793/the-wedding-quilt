@@ -43,6 +43,34 @@
   - MY1 ra chất liệu bóng như da, kịch bản ghi đồ thể thao bóng, chấp nhận được.
 - **Đánh giá & quyết định của tác giả:**
 
+## Lần chạy 03 — toàn bộ trang phục + QC (07/11/2026)
+
+> [AI] Tác giả yêu cầu: "tạo toàn bộ nhân vật với các trang phục, bối cảnh 4 panel, đạo cụ rồi qc". Ba câu hỏi trước tác giả chưa trả lời, nên Claude làm theo mặc định:
+> - Giữ đôi mày giống Nolan của Graham.
+> - Giữ nhẫn cưới của Ozella.
+> - Chưa thêm 3 mã NO2N, JO4K, OZ1S.
+
+- **Đợt 2 (09:18–10:16):** tạo được 102/105 ảnh (ảnh `OUTFIT_*` và bảng `SHEET_*` của mọi nhân vật). 3 ảnh hỏng vì một lần mất mạng (`getaddrinfo failed`): OUTFIT_DA5, SHEET_DANAE_DA5, SHEET_DANAE_DA5H. Đã chạy lại, đạt 3/3. Nhật ký ở `anh/_log_dot2.txt` và `_log_dot3.txt`.
+- **QC:** 7 agent chấm song song theo thang LUAT_CHUNG, từ 7 điểm là đạt, gồm 70 bảng nhân vật, 47 bảng 4 góc và 30 đạo cụ. **Vòng 1 trượt 9 ảnh, sửa như sau:**
+  - **SHEET_OZELLA_OZ5M, OZ7:** ô cận mặt bị đội khăn. Thêm vào câu trạng thái: "scarf ONLY in the RIGHT panel".
+  - **SHEET_JORDYN_JO6:** mặt bị lệch sang người khác. Viết lại JO6 thành áo liền quần một mảnh, giữ nguyên mặt, da và dáng.
+  - **SHEET_DANAE_DA3W:** vệt rượu trên trán trông như máu. Sửa thành mặt sạch, chỉ áo bị dây rượu.
+  - **SHEET_DANAE_DA5H:** vết cắt nằm sai bên trán. Ghi rõ "HER RIGHT side = image LEFT".
+  - **PROP_QUILT_FRAME, PROP_QUILT_IN_BAG:** các mảnh vải không khớp tấm chăn gốc. Viết prompt riêng ở `anh/_prompt_rieng.json`, lấy `PROP_WEDDING_QUILT` làm ảnh gốc (`anh/_goc_rieng.json`).
+  - **ESTATE_GARAGE_BANG:** xe có logo, thiếu cột bê tông, vị trí cửa lệch giữa các ô. Bổ sung các ý này vào `the_gioi`.
+- **Tạo lại thêm dù đã đạt:**
+  - **FARM_TABLE_BANG và bản chạng vạng:** căn nhà khác với nhà ở `FARM_YARD`. Đổi sang prompt lấy `FARM_YARD_BANG` làm gốc.
+  - **GRAHAM_CONDO_BANG:** đường chân trời giống New York. Sửa thành Atlanta.
+- **Kết quả cuối:** **147/147 ảnh đạt.** Điểm 9: 30 ảnh, điểm 8: 94 ảnh, điểm 7: 23 ảnh. Báo cáo từng ảnh ở `qc/QC_ANH.md`, điểm đã ghi vào `anh/_trang_thai.json` (`qc_may`). Ảnh tổng hợp gồm `qc/QC_bang_nhan_vat_1.jpg`, `qc/QC_bang_nhan_vat_2.jpg`, `QC_boi_canh_1…4.jpg` và `QC_dao_cu.jpg`.
+- **Lỗi nhẹ còn lại, tác giả nên xem:**
+  - **Dấu riêng chưa hiện:** mẻ răng của Ozella, sẹo hàm của Nolan, chỏm tóc nhọn của Jordyn, khe mày của Mya, nốt ruồi dưới mắt Danae, sẹo má của Farris. Ảnh mặt gốc đã không có, nên các bảng vẫn nhất quán với nhau.
+  - **Lệch bên:** sẹo đầu của Graham và lọn bạc của Okafor nằm ngược bên so với mô tả, nhưng nhất quán qua mọi ảnh.
+  - **Dáng người:** Ozella cao và mảnh hơn "thấp chắc". Ray, Darnell và Banks gọn hơn mô tả.
+  - **Kiểm duyệt:** JO2 xẻ ngực tới xương ức, hở nhiều hai bên, có thể bị chặn khi gen video.
+  - **Xe:** sedan ở `RANCH_PORCH` khác chiếc sedan bạc ở `RANCH_DRIVEWAY`. Đuôi SUV ở `ESTATE_GARAGE` còn logo nhỏ.
+  - **Bối cảnh:** khung ảnh lớn ở `RANCH_LIVING` lộ rõ một khuôn mặt. Bia mộ ở `FARM_GATE` có nét như chữ khắc mờ. Lối dốc ở `PARKING_GARAGE` mở ra trời sáng.
+- **Đánh giá & quyết định của tác giả:**
+
 ## Cảnh 1 — [tên cảnh]
 
 ### C01-01
